@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Part 1 - Coming up with a talk
+title: How To Talk Part 1 - Coming up with a talk
 description: "Coming up with a talk"
 date: 2019-01-08
 cover: "/assets/header_image.jpg"
@@ -74,9 +74,13 @@ If you find that you have spent 20 minutes getting excited and discussing a part
 
 **Just remember:** everything can seem “easy” or dismissible as uninteresting once you’ve learnt about it, but your experiences and knowledge is different from everybody else. It is really common and easy to dismiss something as “simple” after you got over the complexity of learning a problem. What you think is easy or obvious, may be invaluable to another person and I’m guessing you probably didn’t think it was obvious before you learnt it.
 
-> _If you are passionate and can share that enthusiasm, you’ve already started on the road to success._
+---
+<center>
+<h4 class="quote">If you are passionate and can share that enthusiasm, you’ve already started on the road to success.</h4>
+</center>
+---
 
-Good luck with choosing your weapon speaking champions!
+Good luck!
 
 Until next time,
 
@@ -85,7 +89,7 @@ Until next time,
 
 _How To Talk Really, Really Good_
 
-* <a href="{{site.baseurl}}/2018/04/09/impactfuldashboardspart1-post.html">Part 1 - Coming up with a talk</a>
+* <a href="{{site.baseurl}}/2018/04/09/impactfuldashboardspart1-post.html">How To Talk Part 1 - Coming up with a talk</a>
 
 ---
 

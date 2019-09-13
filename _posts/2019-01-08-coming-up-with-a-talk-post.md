@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Part 1 - Coming up with a talk
+title: How To Talk Part 1 - Coming up with a talk
 description: "Coming up with a talk"
 date: 2019-01-08
 cover: "/assets/header_image.jpg"

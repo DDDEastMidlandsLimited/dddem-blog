@@ -74,9 +74,13 @@ If you find that you have spent 20 minutes getting excited and discussing a part
 
 **Just remember:** everything can seem “easy” or dismissible as uninteresting once you’ve learnt about it, but your experiences and knowledge is different from everybody else. It is really common and easy to dismiss something as “simple” after you got over the complexity of learning a problem. What you think is easy or obvious, may be invaluable to another person and I’m guessing you probably didn’t think it was obvious before you learnt it.
 
-> _If you are passionate and can share that enthusiasm, you’ve already started on the road to success._
+---
+<center>
+<h4 class="quote">If you are passionate and can share that enthusiasm, you’ve already started on the road to success.</h4>
+</center>
+---
 
-Good luck with choosing your weapon speaking champions!
+Good luck!
 
 Until next time,
 

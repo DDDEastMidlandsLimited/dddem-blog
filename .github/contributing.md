@@ -14,14 +14,13 @@ If you witness or experience any language, behaviour or otherwise that makes you
 
 - A blog post
 - Corrections to spelling mistakes
-- Raise a feature request to suggest future blog topics
+- Raise a Blog Topic Request (template can be found under issues) to suggest future blog topics
 
 ## How to contribute.
 
 ### Have a blog idea? 
 
-If you have an idea for the DDD East Midlands blog, but don't necessarily want to write it, how about raising a feature request? The themes of this 
-blog page are around:
+If you have an idea for the DDD East Midlands blog, but don't necessarily want to write it, how about raising a Blog Topic Request? The themes of this blog page are around:
 
 - The DDD East Midlands Conference
 - Speaking

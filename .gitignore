@@ -46,6 +46,12 @@ TestResult.xml
 [Rr]eleasePS/
 dlldata.c
 
+# Jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
 # Benchmark Results
 BenchmarkDotNet.Artifacts/
 

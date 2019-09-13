@@ -323,9 +323,12 @@ Now, go wield that sword, or ink that pen. You are armed and ready to submit. Ho
 
 ---
 
+## Series
+
 _How To Talk Really, Really Good_
 
-* <a href="{{site.baseurl}}/2018/04/09/impactfuldashboardspart1-post.html">Part 1 - Coming up with a talk</a>
+* <a href="{{site.baseurl}}/2019/01/08/coming-up-with-a-talk-post.html">How To Talk Part 1 - Coming up with a talk</a>
+* <strong><a href="{{site.baseurl}}/2019/02/08/writing-a-talk-proposal-post.html">How To Talk Part 2 - Writing a good talk proposal</a></strong>
 
 ---
 

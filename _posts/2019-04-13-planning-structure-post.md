@@ -115,6 +115,7 @@ _How To Talk Really, Really Good_
 * <a href="{{site.baseurl}}/2019/02/23/sparkling-biographies-post.html">How To Talk Part 3 - Sparkling Biographies</a>
 * <strong><a href="{{site.baseurl}}/2019/03/07/building-confidence-post.html">How To Talk Part 4 - Building Confidence</a></strong>
 * <strong><a href="{{site.baseurl}}/2019/04/13/planning-structure-post.html">How To Talk Part 5 - Planning Structure</a></strong>
+* <a href="{{site.baseurl}}/2019/05/07/considering-flow-post.html">How To Talk Part 6 - Considering Flow</a>
 
 ---
 

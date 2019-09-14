@@ -2,7 +2,7 @@
 layout: post
 title: How To Talk Part 3 - Sparkling Biographies
 description: "Writing your biography"
-date: 2019-02-08
+date: 2019-02-23
 cover: "/assets/header_image.jpg"
 author: Jessica White
 categories: [how-to-talk]
@@ -138,6 +138,8 @@ _How To Talk Really, Really Good_
 * <a href="{{site.baseurl}}/2019/02/08/writing-a-talk-proposal-post.html">How To Talk Part 2 - Writing a good talk proposal</a>
 * <strong><a href="{{site.baseurl}}/2019/02/23/sparkling-biographies-post.html">How To Talk Part 3 - Sparkling Biographies</a></strong>
 * <a href="{{site.baseurl}}/2019/03/07/building-confidence-post.html">How To Talk Part 4 - Building Confidence</a>
+* <a href="{{site.baseurl}}/2019/04/13/planning-structure-post.html">How To Talk Part 5 - Planning Structure</a>
+
 
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: Mentor - Matt Brunt
 description: "Matt Brunt"
-date: 2019-05-07
+date: 2019-05-28
 cover: "/assets/header_image.jpg"
 author: Jessica White
 categories: [mentors]
@@ -38,7 +38,7 @@ To introduce them further, we have asked them to answer a few questions around w
 
 <br/>
 
-<img src="/assets/img/2019-05-28/matt-one.png" alt="Matt shaking Tim Berners Lee's hand" height="20%"/>
+<img src="/assets/img/2019-05-28/matt-one.png" alt="Matt shaking Tim Berners Lee's hand" width="100%"/>
 
 <br/>
 
@@ -73,7 +73,7 @@ CLANG! Loud noises! I then opened my laptop and… it didn’t respond. I had to
 Meeting Sir Tim Berners-Lee has to be the top! Being able to shake his hand and thank him for all he’s done was the highlight of my time in tech and speaking so far.
 
 
-<img src="/assets/img/2019-05-28/matt-two.png" alt="Matt shaking Tim Berners Lee's hand" height="20%"/>
+<img src="/assets/img/2019-05-28/matt-two.png" alt="Matt shaking Tim Berners Lee's hand" width="100%"/>
 
 
 <br/>

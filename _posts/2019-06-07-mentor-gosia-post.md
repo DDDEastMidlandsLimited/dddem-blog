@@ -41,6 +41,9 @@ In this post, it’s Gosia’s turn to introduce herself.
 <br/>
 
 <img src="/assets/img/2019-06-07/gosia.png" alt="Matt shaking Tim Berners Lee's hand" width="100%"/>
+<center>
+<i>Picture of Gosia</i>
+</center>
 
 <br/>
 

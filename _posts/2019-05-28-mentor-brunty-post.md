@@ -39,6 +39,10 @@ To introduce them further, we have asked them to answer a few questions around w
 <br/>
 
 <img src="/assets/img/2019-05-28/matt-one.png" alt="Matt shaking Tim Berners Lee's hand" width="100%"/>
+<center>
+<i>Picture of Brunty</i>
+</center>
+<br/>
 
 <br/>
 
@@ -74,7 +78,10 @@ Meeting Sir Tim Berners-Lee has to be the top! Being able to shake his hand and 
 
 
 <img src="/assets/img/2019-05-28/matt-two.png" alt="Matt shaking Tim Berners Lee's hand" width="100%"/>
-
+<center>
+<i>Matt shaking Tim Berners Lee's hand</i>
+</center>
+<br/>
 
 <br/>
 

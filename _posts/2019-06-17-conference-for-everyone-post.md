@@ -75,7 +75,11 @@ You, the attendees, have picked a brilliant range of talks. In terms of topic, l
 
 ## Different Levels Of Talks
 
-<img src="/assets/img/2019-06-17/graph.png" alt="pie chart" width="100%"/>
+<img src="/assets/img/2019-06-17/graph.png" alt="Pie chart of talk levels" width="100%"/>
+<center>
+<i>Pie chart of talk levels</i>
+</center>
+<br/>
 
 As with most conferences, there is a trend towards introductory and overview level talks. There is something for everyone at all levels, and in our view, no matter your experience you can learn from most talks as they provide new perspectives and opinions.
 
@@ -84,6 +88,10 @@ It is great that there is a mix of levels that have been selected, hopefully pro
 ## Speakers With A Range Of Experiences
 
 <img src="/assets/img/2019-06-17/mentor-graph.png" alt="pie chart" width="100%"/>
+<center>
+<i>Pie chart of those who want mentorship</i>
+</center>
+<br/>
 
 As organisers, we are passionate about being a conference that is supportive of first-time speakers.
 Talks at local meetups on coming up with and submitting a talk.

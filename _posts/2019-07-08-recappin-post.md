@@ -28,7 +28,9 @@ Here, we were looking at a genius break it down to 20(?) people in a room, with 
 <br/>
 
 <img src="/assets/img/2019-07-08/morning.png" alt="The empty room in the morning" width="100%"/>
-
+<center>
+<i>The empty workshop room in the morning</i>
+</center>
 <br/>
 
 Which is why I arrived early. Suuuuuper early. I’m talking arrived-before-the-organizers early. One thing I’ve learned from this is: organizers + overflowing carrier bags (full of ALL THE THINGS) go hand-in-hand _(on that note: someone get Mary Poppins on the line, we need an address on that magic bag..)_.
@@ -54,6 +56,10 @@ But you’ll have to believe this wonderstruck human’s inadequate brain in exp
 Imagine an adventure party voluntarily formed of the bravest souls (cough*including yours truly*cough) , valiantly venturing outside in the melting sun for the sole motivation for such a perilous journey: coffee. great coffee.
 
 <img src="/assets/img/2019-07-08/workshop.png" alt="The workshop attendees" width="100%"/>
+<center>
+<i>The workshop in full flow</i>
+</center>
+<br/>
 
 #### _2. Talks given by the attendees_
 
@@ -64,6 +70,10 @@ Those in the audience who have had their talks selected for DDDEM rose to the oc
 Truly, this is the kind of merry time that you often gets overlooked. During the day, a lot of us were sat a table just chilling. Catching up with the old friends, introducing myself to news ones. Simple, happy moments that aren’t explicitly in the agenda but make your day, anyway.
 
 <img src="/assets/img/2019-07-08/notts-ladies.png" alt="Ladies of notts" width="100%"/>
+<center>
+<i>Some of my friends at the Workshop</i>
+</center>
+<br/>
 
 #### _4. Nailing a potential band album cover art with the lovely WiT ladies_
 

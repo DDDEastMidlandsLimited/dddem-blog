@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Mentor - Matt Brunt
-description: "Matt Brunt"
+title: Mentor - Gosia Borzęcka
+description: "Gosia"
 date: 2019-06-07
 cover: "/assets/header_image.jpg"
 author: Jessica White
@@ -13,7 +13,7 @@ share: true
 ----
 <center>
 <h3 class="quote"><i>Mentors</i> </h3>
-<h3 class="quote"><i>Matt Brunt</i> </h3>
+<h3 class="quote"><i>Gosia Borzęcka</i> </h3>
 </center>
 
 ---

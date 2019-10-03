@@ -40,7 +40,7 @@ A talk proposal is _a short summary describing your talk_. There are a few diffe
 There are a few uses to the talk proposal:
 
 - To sell your talk to whoever selects talks for the event you are applying to.
-- To ensure alignment between your topic area and the event's “theme”.
+- To ensure alignment between your topic area and the events “theme”.
 - To sell your talk to attendees.
 
 In just a few words you need to describe what your talk is about and make it sound interesting so people want to hear it. That’s not an easy task.

@@ -23,7 +23,7 @@ share: true
 
 Coming to Nottingham, October 2019 — a tech conference with the aim to celebrate, reflect and promote the booming tech scene in the East Midlands.
 
-The East Midlands has a lot to boast about in terms of the tech companies, talent and community it contains. The DDD East Midlands team thinks that the East Midlands demonstrates the perfect blend of professional corporate businesses and innovative independents and this bleeds right through to the tech scene. This unique and perfect mix of the traditional and contemporary is reflected in the event we are planning. It is part of the multi-national Developer! Developer! Developer! conference community, but with a focus on promoting the talent, companies and the amazing tech community the East Midlands has to offer.
+The East Midlands have a lot to boast about in terms of the tech companies, talent and community it contains. The DDD East Midlands team thinks that the East Midlands demonstrate the perfect blend of professional corporate businesses and innovative independents and this bleeds right through to the tech scene. This unique and perfect mix of the traditional and contemporary is reflected in the event we are planning. It is part of the multi-national Developer! Developer! Developer! conference community, but with a focus on promoting the talent, companies and the amazing tech community the East Midlands has to offer.
 
 <br/>
 

@@ -27,7 +27,7 @@ The East Midlands has a lot to boast about in term of the tech companies, talent
 
 <br/>
 
-# What has DDD got to do with it?
+# What's DDD doing in it?
 ---
 
 DDD, in this case, does not stand for ‘Domain Drive Design’ but ‘Developer! Developer! Developer’ (confusing, we know). The DDD umbrella was first formed as a conference in 2005, the first event happening in Reading, UK. Since then it has generated many spin-off events across the world.

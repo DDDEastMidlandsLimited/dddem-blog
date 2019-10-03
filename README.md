@@ -18,7 +18,7 @@ Please read through the [Code Of Conduct](./CODE_OF_CONDUCT.md) to make sure you
 
 - First make sure you meet all the [pre-requisites for running a Jekyll project outlined on their Quickstart page](https://jekyllrb.com/docs/)
 - `jekyll build` will build the project
-- `jekyll serve` will serve the project, and it will be accessible at `localhost:4000` (just put that in your browsers address bar to see)
+- `jekyll serve` will serve the project, and it will be accessible at [localhost:4000](http://localhost:4000/).
 
 ## Need to contact us?
 

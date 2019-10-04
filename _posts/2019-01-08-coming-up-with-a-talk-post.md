@@ -25,7 +25,7 @@ It’s no secret there is a lot of work that goes into creating an entertaining,
 
 Everyone in our community has something valuable to share, whether they are aware of it or not. As part of the work that is organising DDD East Midlands, we would like to make presenting at our conference as accessible and unintimidating as possible.
 
-In this series of posts, we are going to explore the beginning to end of creating and presenting a talk. When talking through the aspects of this process, we realised it’s very much like a choose your own adventure story, there are many different ways to conquer the demon that is public speaking.
+In this series of posts, we are going to explore from beginning to end how to create and present a talk. When talking through the aspects of this process, we realised it’s very much like a "choose your own adventure" story, there are many different ways to conquer the demon that is public speaking.
 
 The content of this series is based on the things we have learnt in the last couple of years. It’s our hope that it may help you on your submissions to DDD East Midlands, and other conferences.
 
@@ -43,7 +43,7 @@ First, you might want to consider the different themes of talk:
 
 **1. The guide on how to do a cool thing you did**
 
-Have you done something awesome at home or at work? This doesn’t have to be innovative, new or incredibly useful, you just needed to enjoy it or think someone else might find value in knowing how to do the cool thing you did. Then how about doing a “how-to” guide style talk. This can be as high-level or in-depth as you like. Walk your audience through how, why, and what to watch out for.
+Have you done something awesome at home or at work? This doesn’t have to be innovative, new or incredibly useful, you just needed to enjoy it or think someone else might find value in knowing how to do the cool thing you did. Then how about doing a “how-to”-guide style talk. This can be as high-level or in-depth as you like. Walk your audience through how, why, and what to watch out for.
 
 **2. The battle story**
 
@@ -51,12 +51,12 @@ This may be a victorious tale or a tale of woe. We’ve certainly all experience
 
 ***3. The rocket up the… well y’know**
 
-This style isn’t for everyone and does involve a considerable amount of work, effort and time. Is there something you want to learn about, but you are struggling with a reason to work on it or the drive to put the effort in? Well, there’s nothing quite like knowing you are going to asked questions on the topic in front of a room full of strangers to make you want to know that topic inside and out!
-Maybe commit to talking about a something you want to learn and spend the next few months learning it inside-out.
+This style isn’t for everyone and does involve a considerable amount of work, effort and time. Is there something you want to learn about, but are struggling with a reason to work on it or the drive to put the effort in? Well, there’s nothing quite like knowing you are going to be asked questions on the topic in front of a room full of strangers to make you want to know that topic inside and out!
+Maybe commit to talking about something you want to learn and spend the next few months learning it inside-out.
 
 **4. The empowering speech**
 
-Again, this isn’t for everyone. Some speakers do a great job of rallying troops, inspiring everyone to go out, learn and better themselves. Do you see yourself as that person who can do an empowering monologue in that favourite film of yours? Help to inspire your tech warriors to take to their keyboards and type! Do you see yourself writing a keynote one day? This style of topic might be up your street.
+Again, this isn’t for everyone. Some speakers do a great job of rallying troops, inspiring everyone to go out, learn and improve on themselves. Do you see yourself as that person who can do an empowering monologue in that favourite film of yours? Help to inspire your tech warriors to take to their keyboards and type! Do you see yourself writing a keynote one day? This style of topic might be up your street.
 
 These are but a few broad areas you could consider when coming up with a talk topic. There are many more.
 

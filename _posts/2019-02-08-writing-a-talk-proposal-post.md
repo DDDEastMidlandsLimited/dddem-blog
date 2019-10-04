@@ -39,7 +39,7 @@ A talk proposal is _a short summary describing your talk_. There are a few diffe
 
 There are a few uses to the talk proposal:
 
-- To sell you talk to whoever selects talks for the event you are applying to.
+- To sell your talk to whoever selects talks for the event you are applying to.
 - To ensure alignment between your topic area and the events “theme”.
 - To sell your talk to attendees.
 
@@ -53,9 +53,9 @@ At DDD East Midlands you will be selling your talk to the attendees. They get to
 </center>
 ---
 
-This is one of the things that can help you get selected to speak, but also to gather the right audience to your talk.
+This is one of the things that can help you get selected to speak, but also gather the right audience to your talk.
 
-I know, too many people coming to hear you speak does sound scary, but from personal experience, it’s not as scary as talking to one solitary person in a room. That starts to feel _really_ personal.
+I know, too many people coming to hear you speak does sound scary but from personal experience, it’s not as scary as talking to one solitary person in a room. That starts to feel _really_ personal.
 
 <br/>
 
@@ -74,16 +74,16 @@ Some conferences will be looking for talks with a certain bias. Maybe they prefe
 
 While you are doing this research, look at what talks have been picked previously. Is there a theme to the titles (i.e. click-baity vs. descriptive)? Maybe there is a theme to the talks picked, or maybe your talk is something they’ve never had the likes of before. Both are good to know.
 
-This can lead to you having a few different versions of the same talk proposal, but that’s ok! We need to play strategically sometimes. As we said before, one purpose of writing a great talk proposal is to sell it to the selection comity, whatever form it might take.
+This can lead to you having a few different versions of the same talk proposal, but that’s ok! We need to play strategically sometimes. As we said before, one purpose of writing a great talk proposal is to sell it to the selection committee, whatever form it might take.
 
-DDD East Midlands is a general technology conference with no bias. All talks are chosen by our attendees using popularity vote. All they see is talk title and description. As such, there’s no need to be concerned about any emphasis on any aspect of your talk for this particular conference.
+DDD East Midlands is a general technology conference with no bias. All talks are chosen by our attendees using popularity vote. All they see is the talk title and description. As such, there’s no need to be concerned about any emphasis on any aspect of your talk for this particular conference.
 
 <br/>
 
 # What to consider when writing the talk proposal
 ---
 
-For such a short block of text, there are a number of factors that you need to consider. Remember, we are trying to sell our talk, be descriptive of the context, show that our viewpoint is unique, interesting and maybe informative all in <250 words! This is not an easy thing to pull off.
+For such a short block of text, there are a number of factors that you need to consider. Remember, we are trying to sell our talk, be descriptive of the context, show that our viewpoint is unique, interesting and maybe informative all in less than 250 words! This is not an easy thing to pull off.
 
 Don’t worry though. We are here to walk you through some of the points you need to keep in mind so you are ready to wield your awesome talk in a way that will knock socks off.
 
@@ -95,7 +95,7 @@ It needs to be clear what your talk is about.
 - What is included in the talk? What will you cover?
 - Who would benefit from attending and what will the gain from coming?
 
-Bullet points the answers to these questions so you are clear about it before writing your talk proposal.
+Bullet point the answers to these questions so you are clear about it before writing your talk proposal.
 
 ### Grammar and spelling.
 
@@ -124,13 +124,13 @@ You can get away with buzzwords like “microservice” or “blockchain” beca
 
 Avoid using acronyms. If you can’t avoid them, put the explicit rendition of them straight after their first use. For example:
 
-<p class="quote"><i>Trying to convince your team that TDD is valuable, is a challenge. Many complain that the velocity of output is affected by this practice when a team is unaccustomed to working in this style</i></p>
+<p class="quote"><i>Trying to convince your team that TDD is valuable, is a challenge. Many complain that the velocity of output is affected by this practice when a team is unaccustomed to working in this style.</i></p>
 
  **becomes**
 
 <p class="quote"><i>Trying to convince your team that TDD (Test Driven Development) is valuable, is a challenge. One concern is that is can slow down a team, affecting how much work they complete when they are learning this new way of working.</i></p>
 
-There are many acronyms used in our industry, and annoyingly a lot of them are used interchangeably.
+There are many acronyms used in our industry, and annoyingly, a lot of them are used interchangeably.
 
 **By writing in this way, more people will understand what you want to talk about and can determine if the content is relevant to them.**
 
@@ -219,7 +219,7 @@ I’m sure you are all marvellous, wonderful people and I am being over-cautious
 
 This includes your talk titles and descriptions. Two wise men called Bill and Ted once said: “Be Excellent To Each Other And Rock On”. These are words everyone should live by.
 
-- Don’t use sexual or aggressive language
+- Do not use sexual or aggressive language
 - Do not use discriminatory language. ← This is a point people trip up on. This is not just referring to personal characteristics, life choices etc. DO NOT use negative language towards a type of coding language, company you’ve worked for or otherwise.
 - Avoid graphic imagery.
 
@@ -250,7 +250,7 @@ Below is an example of the general structure I use for my talk proposals.
 
 <p class="quote"><i>Let us be your guides through the challenging lands of talk submissions. From picking a topic to structuring the talk summary that will inspire and blow minds and submitting it. Finally, we’ll talk through why you should even think about speaking — it’s a scary thing to do, is it worth it?</i></p>
 
-#### Who is it useful for (if applicable) & last hook.
+#### Who is it useful for (if applicable) and last hook.
 
 <p class="quote"><i>By the end of this talk, you’ll not only be ready to inspire with your words but feel fully prepared to take on the world.</i></p>
 
@@ -301,7 +301,7 @@ It may be from meetups, conferences, or just someone who didn’t like the conte
 
 I won’t write about the different ways to cope with rejection here; that is a blog post all of its own. What I will say is when you decide to try to talk, facing rejection is nearly an inevitability. Please don’t let it discourage you.
 
-It is never personal. Sometimes it’s just because there is a lot of fantastic content to choose from. Sometimes there are more reasons than that, that are specific to circumstance. and that is why it is good to ask for feedback, to find out what they were looking for, if it matched what you were expecting and if there is anything you can improve on.
+It is never personal. Sometimes it’s just because there is a lot of fantastic content to choose from. Sometimes there are more reasons than that, that are specific to circumstance. That is why it is good to ask for feedback, to find out what they were looking for, if it matched what you were expecting and if there is anything you can improve on.
 
 As for individual critique, not everyone will be happy with your content and that is fine. You can’t please everyone in life or in literature. Again, it’s not personal, try not to take it too badly and remember: the talks that I haven't personally enjoyed or benefited from are the ones I can’t remember. I imagine this is the same for others. If the worst case is that you are forgettable to one individual but your content helps and informs one or more person — well, that’s not a bad job really is it?
 

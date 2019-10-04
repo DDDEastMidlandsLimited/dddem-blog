@@ -25,9 +25,9 @@ share: true
 <p class="quote"><i>Are you sitting comfortably?</i></p>
 <p class="quote"><i>Then I’ll begin.</i></p>
 
-Each presentation is a telling of a story. Whether it’s a tale of how to use a tool, a narrative of something you experienced or spiel of how to care for yourself, each telling has a beginning, middle and end.
+Each presentation is a telling of a story. Whether it’s a tale of how to use a tool, a narrative of something you experienced or spiel of how to care for yourself, each telling has a beginning, middle, and end.
 
-Like any good tale, the flow of talk helps to keep the listeners engaged, make the progression through the information feel natural, helps emphasise the points you want to be made poignant and keeps it understandable and memorable.
+Like any good tale, the flow of talk helps to keep the listeners engaged, make the progression through the information feel natural, helps emphasize the points you want to be made poignant and keeps it understandable and memorable.
 
 There are numerous ways to approach flow and flow itself is a beast that comes in a variety of forms.
 
@@ -88,7 +88,7 @@ Practice. Practice. Practice. This word is used in nearly every post in this ser
 
 When considering the flow of your talk, it can also play into how you present it. You can use the space you are given to physically demonstrate or give emphasis to the points you are making.
 
-Talking about travelling? Travel. Demonstrating a discussion? Address one side of the stage for a person/party in the dialogue, and the other side of the stage for the opposing person/party.
+Talking about traveling? Travel. Demonstrating a discussion? Address one side of the stage for a person/party in the dialogue, and the other side of the stage for the opposing person/party.
 
 Depending on the flow of your talk and how you intend to present your information, you can physically tie in your physical presence to help the flow of your dialogue.
 

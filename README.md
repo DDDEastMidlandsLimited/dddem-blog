@@ -4,19 +4,19 @@ Welcome to the repository for the [DDD East Midlands Blog](https://blog.dddeastm
 
 After much persuasion from the community, we have decided to move away from Medium and host our blogs using [Jekyll](https://jekyllrb.com/).
 
-We chose Jekyll as it is a framework we, the organisers, are familiar with and it allows posts to be submitted in markdown, which we hope will still keep the barrier to entry low.
+We chose Jekyll as it is a framework we, the organizers, are familiar with and it allows posts to be submitted in markdown, which we hope will still keep the barrier to entry low.
 
 ## Want to contribute?
 
 We have some handy [contribution guidelines](.github/contributing.md) to help provide some guidance.
 
-### But first....
+### But first...
 
-Please read through the [Code Of Conduct](./CODE_OF_CONDUCT.md) to make sure your submissions abide to it.
+Please read through the [Code Of Conduct](./CODE_OF_CONDUCT.md) to make sure your submissions abide by it.
 
 ## Running this project locally
 
-- First make sure you meet all the [pre-requisites for running a Jekyll project outlined on their Quickstart page](https://jekyllrb.com/docs/)
+- First, make sure you meet all the [pre-requisites for running a Jekyll project outlined on their Quickstart page](https://jekyllrb.com/docs/)
 - `jekyll build` will build the project
 - `jekyll serve` will serve the project, and it will be accessible at [localhost:4000](http://localhost:4000/).
 

@@ -82,7 +82,7 @@ Personally, I prefer writing in this way. Talking in third person makes it feel 
 
 As mentioned before, this isn’t your CV. Like all speeches, the best biographies are short and sweet.
 
-Your audience is going to be people scanning through agendas and selecting talks, or conference panel member who might have to be sifting though hundreds of applications in a matter of days. They are people who need succinct information that doesn’t take much time to read.
+Your audience is going to be people scanning through agendas and selecting talks, or conference panel members who might have to be sifting though hundreds of applications in a matter of days. They are people who need succinct information that doesn’t take much time to read.
 
 If you really struggle with this, you can include a link or two, or base it on your twitter biography if you have one. That character limit can be really handy on showing you what information is important.
 

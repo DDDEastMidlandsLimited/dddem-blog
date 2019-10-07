@@ -40,7 +40,7 @@ In this post, it’s Gosia’s turn to introduce herself.
 
 <br/>
 
-<img src="/assets/img/2019-06-07/gosia.png" alt="Matt shaking Tim Berners Lee's hand" width="100%"/>
+<img src="/assets/img/2019-06-07/gosia.png" alt="Gosia avatar" width="100%"/>
 <center>
 <i>Picture of Gosia</i>
 </center>
@@ -81,7 +81,7 @@ You are great, and you know brilliant things. And there are a lot of people that
 
 <br/>
 
-## Thanks Matt! Hope you enjoy the conference!
+## Thanks Gosia! Hope you enjoy the conference!
 
 ---
 

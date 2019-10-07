@@ -23,14 +23,14 @@ share: true
 
 Coming to Nottingham, October 2019 — a tech conference with the aim to celebrate, reflect and promote the booming tech scene in the East Midlands.
 
-The East Midlands has a lot to boast about in term of the tech companies, talent and community it contains. The DDD East Midlands team think that the East Midlands demonstrates the perfect blend of the professional corporate businesses and the innovative independents and this bleeds right through to the tech scene. This unique and perfect mix of the traditional and contemporary is reflected in the event we are planning. It is part of the multi-national Developer! Developer! Developer! conference community, but with a focus on promoting the talent, companies and the amazing tech community the East Midlands has to offer.
+The East Midlands has a lot to boast about in terms of the tech companies, talent, and community it contains. The DDD East Midlands team thinks that the East Midlands demonstrates the perfect blend of the professional corporate businesses and the innovative independents and this bleeds right through to the tech scene. This unique and perfect mix of the traditional and contemporary is reflected in the event we are planning. It is part of the multi-national Developer! Developer! Developer! conference community, but with a focus on promoting the talent, companies, and the amazing tech community the East Midlands has to offer.
 
 <br/>
 
 # What has DDD got to do with it?
 ---
 
-DDD, in this case, does not stand for ‘Domain Drive Design’ but ‘Developer! Developer! Developer’ (confusing, we know). The DDD umbrella was first formed as a conference in 2005, the first event happening in Reading, UK. Since then it has generated many spin-off events across the world.
+DDD, in this case, does not stand for ‘Domain Drive Design’ but ‘Developer! Developer! Developer’ (confusing, we know). The DDD umbrella was first formed as a conference in 2005, the first event happening in Reading, UK. Since then, it has generated many spin-off events across the world.
 
 The aims of the original DDD was to provide free technical education. During it’s more than 10-year history, it has nurtured talented speakers, who have gone on to become Microsoft Most Valuable Professionals, Microsoft FTEs and to present at National and International Conferences.
 
@@ -42,7 +42,7 @@ Though the original DDD conference is focused on .NET, DDD East Midlands is goin
 
 - Open submission policy for speakers. All submissions will be anonymous and anyone can submit.
 
-- Agenda is democratically chosen by attendees and organisers. Attendees vote on the talks they would like to see at the event.
+- Agenda is democratically chosen by attendees and organizers. Attendees vote on the talks they would like to see at the event.
 
 <br/>
 
@@ -60,7 +60,7 @@ Hosted in the beautiful, modern building of The Nottingham Conference Centre, wh
 
 ## Making it open to all.
 
-As an embodiment of the East Midlands tech community, we want to promote inclusivity, support and camaraderie. The event are going to support first-time speakers and encourage speakers from a variety of backgrounds in a number of ways:
+As an embodiment of the East Midlands tech community, we want to promote inclusivity, support, and camaraderie. The event are going to support first-time speakers and encourage speakers from a variety of backgrounds in a number of ways:
 
 - Tickets are free!
 - The organisers will be doing talks at East Midlands tech meetups on how to submit a strong talk description and ways to construct a talk if you are accepted.
@@ -73,7 +73,7 @@ The aims are to promote a variety of local speakers to submit, from the very exp
 
 ## Supporting and endorsing the local tech community
 
-A key focus of DDD East Midlands is giving back to, celebrating and promoting the outstanding tech community that has grown in the East Midlands. There is a booming tech community in the East Midlands (just look at the number of events on https://nottingham.digital/). From slack groups to hackathons, there are a lot of opportunities for collaboration and friendship. The organisers are passionate about producing a high quality, well organised, professional event that echoes the qualities of the East Midlands: collaboration, innovation, inclusivity and camaraderie.
+A key focus of DDD East Midlands is giving back to, celebrating and promoting the outstanding tech community that has grown in the East Midlands. There is a booming tech community in the East Midlands (just look at the number of events on https://nottingham.digital/). From slack groups to hackathons, there are a lot of opportunities for collaboration and friendship. The organizers are passionate about producing a high quality, well organised, professional event that echoes the qualities of the East Midlands: collaboration, innovation, inclusivity, and camaraderie.
 
 We are thinking beyond the event. We don’t want to just encourage people to join our excellent community for just one day _(yes — we CAN be heroes, just for one day)_, but we want the effect to last beyond the conference
 

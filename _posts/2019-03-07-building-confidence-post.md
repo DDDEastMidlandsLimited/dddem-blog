@@ -34,13 +34,13 @@ This is something I do throughout all the stages of a talk. From coming up with 
 
 Talking through the concepts and points you feel you want to discuss with someone in the same industry is useful because:
 
-- #### It highlights which of the points you are strongest on. 
+- #### It highlights which of the points you are strongest on.
 The areas you are particularly passionate or defensive of — the ones you can defend to the end of the earth — those are the bits of your talk you know inside and out. For the other areas, you may want to get more comfortable with or talk about them in less details.
 
 - #### You can develop the ideas and expand on their points.
 Having another person’s point of view can open your eyes to other angles on the subject matter and expand upon your own views.
 
-Doing this helps me. It shows me I know my subject matter; that I can reinforce my ideas and have them evolve through a discussion in a safe environment. It also allows me to find out which areas I need to research more on. 
+Doing this helps me. It shows me I know my subject matter; that I can reinforce my ideas and have them evolve through a discussion in a safe environment. It also allows me to find out which areas I need to research more on.
 
 ## Bullet-point your thoughts.
 
@@ -58,24 +58,24 @@ Knowing your content can boost your confidence.
 
 People approach rehearsing their talks in different ways. I find it best to first rehearse at home.
 
-- #### Full talk, relaxed setting. 
+- #### Full talk, relaxed setting.
 First without timers and then by introducing timed sections. This doesn’t have to be a full performance: for example, I sit on my sofa with my clicker in my hand, laptop on my lap.
 
-- #### Practising the sections that you are less comfortable with. 
+- #### Practising the sections that you are less comfortable with.
 A full rehearsal will show you which sections you don’t know that well. You don’t need to rehearse the full talk each time.
 
-- #### Rehearsing in a fake presentation setting. 
+- #### Rehearsing in a fake presentation setting.
 Closer to the actual talk, I like to hook my laptop up to the TV and practice the talk the way I will present it. It means I can use the space of the room, not rely on reading notes I have and get a feel of what it might actually feel like to present.
 
 Some others have suggested:
 
-- #### Talking in the bath. 
+- #### Talking in the bath.
 Personally, I like my baths to remain a relaxing, safe space, free of work. I do know someone who likes to practice their talks during their bath as they can then rehearse without glancing at their notes. Apparently, their bathroom has good acoustics too.
 
-- #### Listening to recordings of yourself. 
+- #### Listening to recordings of yourself.
 Some like to record their talks and listen to them as part of their practice.
 
-For me, there is such a thing as over-rehearsing. I trip up if I think I miss a point in the talk. For me,  rehearsing once a week for about 3 weeks before the talk is peachy. You will find your own balance and rhythm.
+For me, there is such a thing as over-rehearsing. I trip up if I think I miss a point in the talk. For me, rehearsing once a week for about 3 weeks before the talk is peachy. You will find your own balance and rhythm.
 
 # Present in a setting that feels less scary to you.
 
@@ -83,16 +83,16 @@ For me, there is such a thing as over-rehearsing. I trip up if I think I miss a 
 
 There are numerous ways you can test the waters for your talk and boost your confidence in presenting it.
 
-- #### Blog the content. 
+- #### Blog the content.
 Write out your ideas and reaffirm your knowledge of the content of the talk. Added bonus — you can refer to your blog in your talk in case you miss anything or don’t have time to go into the details.
 
-- #### Internal talk at work. 
+- #### Internal talk at work.
 Ask at your work if you can present either the full talk or a shorter version of it on a Friday afternoon. Get feedback and criticism from people whose opinion you trust.
 
-- #### (Local) meetup. 
+- #### (Local) meetup.
 Present your ideas at a meetup. There are loads of great meetups in the East Midlands, these are great for me as I get more nervous presenting in front of people I know than people I don’t know. Some others find it easier to present to familiar faces. Both choices are available to you across the East Midlands. Support your local meetups by providing them with the great, up and coming speaker that you are, and get a confidence boost from presenting in front of a small and friendly crowd.
 
-# Fake it ‘till you make it.
+# Fake it till you make it.
 
 ---
 

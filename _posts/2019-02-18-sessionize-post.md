@@ -27,7 +27,7 @@ After logging into Sessionize on this page with the means of your choice, you’
 ## Let’s walk through each field
 
 - #### Session title:
-What it says on the tin, the title of your proposed talk.
+What it says on the tin. The title of your proposed talk.
 - #### Description:
 The description of your talk. Your proposal. This is where you describe what your talk is about and sell it to the people choosing it. See <a href="{{site.baseurl}}/2019/02/08/writing-a-talk-proposal-post.html">How To Talk Part 2 - Writing a good talk proposal</a> for more information.
 
@@ -44,10 +44,10 @@ What level of audience your talk is aimed towards. Is it high level and introduc
 - #### Would you like extra support (mentorship/training):
 If you select yes and your talk gets selected we will pair you with a mentor to support you.
 
-- #### Tags: 
+- #### Tags:
 This is to help us organise the tracks later. What general themes does your talk meet? You can select multiple categories in this section.
 
-- #### If “Other” please enter a word to describe theme: 
+- #### If “Other” please enter a word to describe theme:
 In case we’ve missed a tag or two. We aren’t perfect.
 
 <br/>
@@ -57,19 +57,19 @@ In case we’ve missed a tag or two. We aren’t perfect.
 </center>
 <br/>
 
-- #### Profession (optional): 
+- #### Profession (optional):
 This is entirely optional, and only for our own stats. We would like to know the split of experience and level across the speakers that submit and get selected. It will not be shown to attendees.
 
-- #### Preferred Pronoun: 
+- #### Preferred Pronoun:
 What is your preferred pronoun? How should we address you or refer to you as?
 
-- #### Notes: 
+- #### Notes:
 Tell us about any requirements you have or anything you wish to share. For other conferences, you may want to add links to videos of other talks you’ve had previously so that the organisers they can see your presenting style. DDD East Midlands will be recording all videos so for future talks you can add these links into submissions to their conferences.
 
-- #### Speaker name: 
+- #### Speaker name:
 What it says on the tin. Your name will be anonymised until you are selected to speak.
 
-- #### Speaker tagline: 
+- #### Speaker tagline:
 One line of you. It might be your job title, it might be a cheeky line of description about you. This will be under your photo if you are selected.
 
 <br/>
@@ -79,10 +79,10 @@ One line of you. It might be your job title, it might be a cheeky line of descri
 </center>
 <br/>
 
-- #### Speaker biography: 
+- #### Speaker biography:
 Again, we will not be able to see this until you are selected for a talk. This will also not be shown to attendees when talks are being voted on. The speaker biography will be used for when talks are selected and speakers are announced. Biographies are hard. Who are you? What do you do? Look at some examples, get feedback from a friend or colleague, and try to keep it short.
 
-- #### Speaker photo: 
+- #### Speaker photo:
 A photo of yourself. It doesn’t need to be a professional headshot, it can even be a selfie. Again, this will be hidden until you are expected to speak.
 
 <br/>
@@ -92,10 +92,10 @@ A photo of yourself. It doesn’t need to be a professional headshot, it can eve
 </center>
 <br/>
 
-- #### Twitter/LinkedIn/Blog: 
+- #### Twitter/LinkedIn/Blog:
 Links to Twitter, LinkedIn, Blog. Anything you want linked to from your bio if you get selected.
 
-- #### Co-speakers: 
+- #### Co-speakers:
 Is anyone speaking with you?
 
 ---
@@ -118,13 +118,13 @@ Sessionize hides and changes details as part of anonymisation. It changes your n
 - Level
 - If you have indicated that you would like support
 - Tags
-- 
+-
 ### What we will show voting attendees:
 - Talk title
 - Description
 - Level
 
---- 
+---
 
 ## After Submission
 

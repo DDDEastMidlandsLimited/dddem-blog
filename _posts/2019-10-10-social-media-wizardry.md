@@ -95,10 +95,42 @@ Others use <a href="https://www.slidedeck.com/" target="_blank">Slidedeck</a> or
 
 ---
 
-### Tweetdeck
+Shock! Horror! Not all the of DDD East Mids posts, or even my own posts are posted on the spur of the moment. It's all smoke and mirrors! It's a sham!
 
+With the events I've organised, having a way of scheduling tweets and other social media posts has been a blessing. I can look at peak times, sit one evening a week and get all the major posts scheduled and in place. This doesn't mean we don't post around these, but that the big announcements are done in an automated way. This saves human error as well as effort.
 
-### Hootsuite or Buffer
+In terms of speaking, there is a format to my scheduled posts:
+
+- **Come see me speak at XYZ**
+
+  When the tickets are available for an event I send out a plea (or few) to come along to the event and support my effort at speaking to a crowd of strangers. The aim is to promote the event and to find out who is going. 
+
+- **Need my slides? Find them here.**
+  
+  Mentioned in the previous section, some attendees will find it useful to have your slides in advance. I tweet this a few days before the talk I am doing with a link to where people can get hold of the slides. As you already know, I also schedule when these slides go public.
+
+- **I'll be in this room at this time**
+  
+  On the day of the event, an hour or so before the talk, I'll publicise where people can come and see the talk. This reminds people I am speaking (_pick me! pick me!_) and helps if there are any last minute room changes. 
+
+- **Thanks for attending. Here are my resources.**
+
+  I used to forgot to share my resources. Admittedly its now easier that I have my blog and Notist - I can share one link where people can find all the resources and references for the talk.
+
+  After presenting I am a mess of a human. I find public activities of all forms very tiring and intensive. My head is not in the right space to remember that people will want these links. If I schedule sharing them - I don't forget.
+
+### Tools for scheduling and management:
+
+**Hootsuite or Buffer**
+
+For any social media accounts that aren't Twitter I have used <a>Hootsuite</a> and/or <a>Buffer</a>. They do have functionality for scheduling tweets, but I use Tweetdeck for all my Twitter needs which I will explore after.
+
+With Hootsuite and Buffer, I can manage many social profiles, see mock ups of the posts I want to schedule and schedule them on a lovely calendar. If it's an organisation with multiple users, we can share a multi-user account. They are simple, lovely to use services.
+
+**Tweetdeck**
+
+I use <a>Tweetdeck</a> for all my Twitter needs. Ther
+
 
 
 <br/>

@@ -116,6 +116,7 @@ _How To Talk Really, Really Good_
 * <strong><a href="{{site.baseurl}}/2019/03/07/building-confidence-post.html">How To Talk Part 4 - Building Confidence</a></strong>
 * <strong><a href="{{site.baseurl}}/2019/04/13/planning-structure-post.html">How To Talk Part 5 - Planning Structure</a></strong>
 * <a href="{{site.baseurl}}/2019/05/07/considering-flow-post.html">How To Talk Part 6 - Considering Flow</a>
+* <a href="{{site.baseurl}}/2019/10/10/social-media-wizardry.html">How To Talk Part 7 - Social Media Wizardry</a>
 
 ---
 

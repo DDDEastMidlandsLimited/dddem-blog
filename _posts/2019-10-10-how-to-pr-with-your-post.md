@@ -111,7 +111,7 @@ From here several things can happen...
 
 * One of the project maintainers can approve your changes and merge them in, making them available for everyone. (Yipee!)
 * You may recieve some comments on your Pull Request. The types of comments people leave varies but these are usually questions about your change or suggestions for improvenmets. Discussion is good here. If improvements are suggested just follow the steps above - make you changes, add to git, commit and push - you changes will automatically show up in the Pull Request.
-* A project maintainer could reject your Pull Request. Don't take this personally. Not all changes are wanted in a project. If you're ever unsure about if you should submit a Pull Request to a project it's good to see if the repository has `CONTRIBUTING.md` file outlining what contributions they accept or open an issue on the repository to discuss your planned changes first before you put the effort in.
+* A project maintainer could reject your Pull Request. Don't take this personally. Not all changes are wanted in a project. If you're ever unsure about if you should submit a Pull Request to a project it's good to see if the repository has [`CONTRIBUTING.md`](https://github.com/DDDEastMidlandsLimited/dddem-blog/blob/master/.github/contributing.md) file outlining what contributions they accept or open an issue on the repository to discuss your planned changes first before you put the effort in.
 * It's entirely possible that nothing happens to your Pull Request. It may just sit there. This is also fine! Remember that many of the repositories on GitHub are built by people in their spare time who may no longer have the time or interest to dedicate to it.
 
 ## Wrap up

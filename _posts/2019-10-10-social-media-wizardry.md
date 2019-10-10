@@ -123,15 +123,38 @@ In terms of speaking, there is a format to my scheduled posts:
 
 **Hootsuite or Buffer**
 
-For any social media accounts that aren't Twitter I have used <a>Hootsuite</a> and/or <a>Buffer</a>. They do have functionality for scheduling tweets, but I use Tweetdeck for all my Twitter needs which I will explore after.
+For any social media accounts that aren't Twitter I have used <a href="https://hootsuite.com" target="_blank">Hootsuite</a> and/or <a href="https://buffer.com/" target="_blank">Buffer</a>. They do have functionality for scheduling tweets, but I use TweetDeck for all my Twitter needs which I will explore after.
 
 With Hootsuite and Buffer, I can manage many social profiles, see mock ups of the posts I want to schedule and schedule them on a lovely calendar. If it's an organisation with multiple users, we can share a multi-user account. They are simple, lovely to use services.
 
-**Tweetdeck**
+**TweetDeck**
 
-I use <a>Tweetdeck</a> for all my Twitter needs. Ther
+I use <a href="https://tweetdeck.twitter.com/" target="_blank">TweetDeck</a> for all my Twitter needs. There are a number of features which are useful both as a speaker and an event organiser:
+
+- **Scheduling**
+
+  TweetDeck enables you to schedule tweets and retweets with comments from multiple accounts. There isn't a limit (at least that I've hit) on how many you schedule in advance.
+
+- **Managing multiple accounts**
+  
+  I manage the DDD East Midlands Account and my own account from one TweetDeck screen. This isn't a case that is useful for everyone, but this allows me to manage multiple accounts without reduced risk of publishing the wrong content on the wrong account.
+
+- **Streams for tags and accounts**
+
+  This is especially useful for talks. When at a conference you may want to keep an eye on the activity and notifications of your own account, of your personalised hashtag for the talk you are giving, the hashtag for the conference you are speaking at and maybe the handle of the conference you are at.
+
+  By following all those streams you can have personalised tracks of information about your  account and your talk, but also about what is going on at the conference you are present  at. It aids answering tweets directed at you and sharing posts about you.
+
+<img src="/assets/img/2019-10-10/tweetdeck.png" alt="Screenshot of Tweetdeck columns"/>
+<center>
+<i>Screenshot of TweetDeck columns</i>
+</center>
+<br/>  
 
 
+- **Reply from the app**
+  
+  Everything can be managed from the site. It's relatively intuitive. You can schedule posts, reply, retweet, quote, like and more.
 
 <br/>
 
@@ -139,22 +162,44 @@ I use <a>Tweetdeck</a> for all my Twitter needs. Ther
 
 ---
 
+I try to write blogs to support the talks I give. This is so I can provide more depth and context outside of the talk and have some information that can be shared to those who may prefer reading to watching talks online.
+
+I can reference these blogs within the talks I do, I don't have to panic about missing out vital information and I can add to it as I get more information on the topic.
+
+These blogs I schedule to share after my talk, or reference as one of the resources.
+
+
+<br/>
 
 ---
 <center>
-<h4 class="quote">It’s as tricky as it sounds.</h4>
+<h4 class="quote">There's my social media wizardy. Please share your hint and tips with us #dddem</h4>
 </center>
 ---
 
-
-
+<br/>
 ## Here Are Some Links To Help
-
-
 
 ---
 
+#### Sharing Presentations
+
+- <a href="https://noti.st/" target="_blank">Noti.st</a>
+- <a href="https://www.slidedeck.com/" target="_blank">Slidedeck</a> 
+- <a href="https://support.google.com/docs/answer/183965?co=GENIE.Platform%3DDesktop&hl=en" target="_blank">Sharing Google Slides</a>
+
+#### Social Media Management
+
+- <a href="https://hootsuite.com" target="_blank">Hootsuite</a> 
+- <a href="https://buffer.com/" target="_blank">Buffer</a>.
+- <a href="https://tweetdeck.twitter.com/" target="_blank">TweetDeck</a>
+
+
+<br/>
+
 ## Series
+
+---
 
 _How To Talk Really, Really Good_
 

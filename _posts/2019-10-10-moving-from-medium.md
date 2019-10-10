@@ -58,7 +58,7 @@ Though Jekyll doesn't have a nice UI, we are offering that if anyone is uncomfor
 
 Some of you may have spotted, but having our blogs in this format has enabled us to provide "issues" towards <a href="https://hacktoberfest.digitalocean.com/" target="_blank">Hacktoberfest</a>. As part of DDD East Midlands 2019 we are pushing support for contributing to Open Source. <a href="https://annadodson.co.uk/" target="_blank">Anna</a> and <a href="https://www.jvt.me/" target="_blank">Jamie</a> are running Hacktoberfest Corner at the conference, where they are helping people with their first pull requests and contribution ideas.
 
-For those unfamiliar with Hacktoberfest, it is a global celebration of open source. This is the ability to contribute to publicly available code projects. By opening 5 contributions to open source projects (pull requests) within the month of October you can be rewarded with swag from contributing companies. <a href="https://hacktoberfest.digitalocean.com/" target="_blank">See the Hacktoberfest webpage for more information</a>. 
+For those unfamiliar with Hacktoberfest, it is a global celebration of open source. This is the ability to contribute to publicly available code projects. By opening 4 contributions to open source projects (pull requests) within the month of October you can be rewarded with swag from contributing companies. <a href="https://hacktoberfest.digitalocean.com/" target="_blank">See the Hacktoberfest webpage for more information</a>. 
 
 
 By having the blog in a format where we can enable people to make changes through GitHub, we can provide a safe space for people to make their first changes. We would not have been able to do this while hosting on Medium.

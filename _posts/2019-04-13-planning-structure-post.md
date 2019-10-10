@@ -37,7 +37,7 @@ There are a number of techniques and approaches to solving this problem. In this
 
 It’s simple but it works. This is my first point of call after talking through my ideas with someone else. Bullet point out the main points you want to make. Scribble or re-order into an order that makes sense to talk through.
 
-These bullets are also useful when practising what you are doing to say, as they will most likely cover the main points you want to talk about.
+These bullets are also useful when practising what you are going to say, as they will most likely cover the main points you want to talk about.
 
 <br/>
 
@@ -45,9 +45,9 @@ These bullets are also useful when practising what you are doing to say, as they
 
 ---
 
-If you prefer boxes and lines, the bullet points of ideas can translate into a flow diagram. Does it make sense to go from one point to another? Do you need to consider transition, and how will you transition between these points? Is there a clear start and finish and, if not, how can you make it feel finished at the end?
+If you prefer boxes and lines, the bullet points of ideas can translate into a flow diagram. Does it make sense to go from one point to another? Do you need to consider transition, and how will you transition between these points? Is there a clear start and finish and if not, how can you make it feel finished at the end?
 
-Each box can then be translated into a key point, a slide, or both.
+Each box can then be translated into a key point, a slide or both.
 
 <br/>
 
@@ -101,10 +101,10 @@ This technique also encourages you to adapt your talks to who is seeing it, each
 
 ---
 
-These are but a few techniques. Even more, will be covered in the speaker’s workshop at the end of next month that selected sponsors and volunteers will be attending. I’ll add method mentioned in that workshop to this post after the event.
+These are but a few techniques. Even more will be covered in the speaker’s workshop at the end of next month that selected sponsors and volunteers will be attending. I’ll add methods mentioned in that workshop to this post after the event.
 Good luck, and let us know if any of these techniques work for you, or if you have any we haven’t considered.
 
---- 
+---
 
 ## Series
 

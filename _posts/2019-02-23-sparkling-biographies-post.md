@@ -22,7 +22,7 @@ share: true
 # Introduction
 ---
 
-As part of most talk submissions, you need to provide a speaker biography. Now we’ve all felt the pain of writing personal statements and making our achievements sounds great. It’s a bit cringe worthy, it’s difficult and it’s not a lot of fun. Doing this in one to two paragraphs can be a bit of a nightmare.
+As part of most talk submissions, you need to provide a speaker biography. Now we’ve all felt the pain of writing personal statements and making our achievements sound great. It’s a bit cringe worthy, it’s difficult and it’s not a lot of fun. Doing this in one to two paragraphs can be a bit of a nightmare.
 
 To help out, here are some of our top tips when writing a bio:
 
@@ -32,25 +32,25 @@ To help out, here are some of our top tips when writing a bio:
 
 ---
 
-There are many ways in which to structure a biography. Personally, I start by imagining I’m on an English 90’s game show where I need to answer a guy in a sequined jacket “What’s your name and where do you come from”.
+There are many ways in which to structure a biography. Personally, I start by imagining I’m on an English 90s game show where I need to answer a guy in a sequined jacket “What’s your name and where do you come from?”
 Below are the three points I try to include in my own biographies.
 
 ## Who are you?
 
 <p class="quote"><i>Jessica is a software developer, international speaker & avid learner.</i></p>
 
-What is your name, and what do you do? some people include their place of work in this section
+What is your name and what do you do? Some people include their place of work in this section.
 
 ## What are your qualifications?
 
 <p class="quote"><i>Topics that they are interested in include community building, monitoring and continuous improvement of systems. They are a Director and Co-Founder of DDD East Midlands, a technology conference which will take place in 2019.</i></p>
 
-The above is for a general biography, and changes per conference. What do you do for your work or associated extra activities? Don’t write your resume, but it’s good to include why you are talking about a topic. Maybe it’s an interest or maybe you work in a company or discipline that specialises in the topic?
+The above is for a general biography, and changes per conference. What do you do for your work or associated extra activities? Don’t write your resume, but it’s good to include why you are talking about a topic. Maybe it’s an interest or maybe you work in a company or discipline that specialises in the topic.
 This may be a selling point to people coming to see your talk.
 
 ## Something personal
 
-<p class="quote"><i>Before switching to technology, they spent a previous life as a neuroscientist. They are easily bribed with coffee & loves hearing about other people’s experiences.</i></p>
+<p class="quote"><i>Before switching to technology, they spent a previous life as a neuroscientist. They are easily bribed with coffee & love hearing about other people’s experiences.</i></p>
 
 I like to add a statement that gives other people an excuse to chat. I also get a lot of coffee out the last sentence, and I really do love coffee. Something humanising, that gives others the chance to come up and have something to approach you with.
 
@@ -70,7 +70,7 @@ An example of this is that I don’t include founding and running Women In Tech 
 
 It feels very odd to write in third person, but there are numerous advantages to doing so.
 
-- **SEO** — Don’t your name an unnatural amount but having text about you, mentioning your name will help SEO for the talks featuring it.
+- **SEO** — Don’t use your name an unnatural amount but having text about you, mentioning your name will help SEO for the talks featuring it.
 
 - **Help the flow of the sites it appears on** — It will appear on sites where it looks like people are talking about you and, as such, will read a lot better with this perspective.
 

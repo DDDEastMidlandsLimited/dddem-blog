@@ -5,7 +5,7 @@ description: "A guide on how to raise a pull request and how to write up your bl
 date: 2019-10-10
 cover: "/assets/header_image.jpg"
 author: Marcus Noble
-categories: [community, hacktoberfest]
+categories: [community]
 comments: false
 share: true
 ---

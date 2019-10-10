@@ -18,7 +18,7 @@ If you witness or experience any language, behaviour or otherwise that makes you
 
 ## How to contribute.
 
-### Have a blog idea? 
+### Have a blog idea?
 
 If you have an idea for the DDD East Midlands blog, but don't necessarily want to write it, how about raising a Blog Topic Request? The themes of this blog page are around:
 
@@ -34,6 +34,7 @@ Think there is something missing? Raise an issue to let us know/so that we have 
 
 - The first thing I would advise is to [get in touch with the organisers](https://www.dddeastmidlands.com/contact/) to check that the content is
 both suitable for the blog, but also that no one else is currently committed to writing about the same topic.
+- Check out our blog post on [adding a blog post](https://blog.dddeastmidlands.com/2019/10/10/how-to-pr-with-your-post.html)
 - Pull down this repository.
 - Create a feature branch with a name like: `post/short-description-of-topic`
 - Under the _posts folder create a markdown file with a title that follows this pattern `YYYY-MM-DD-short-title-post.md`
@@ -41,4 +42,4 @@ both suitable for the blog, but also that no one else is currently committed to 
 - Raise a pull request and assign `wordshaker` (Jessica) and `moretonb` (Moreton) as reviewers
 - _(We may need an extra nudge on Slack or Twitter to know your PR is there)_
 - One review, Jessica will arrange a date to merge and share.
-- Share your wonderful post with the world! 
+- Share your wonderful post with the world!

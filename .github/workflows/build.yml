@@ -1,11 +1,6 @@
 name: DDDEMBlog Build
 
-on:
-  push:
-    branches:    
-      - '*'         # matches every branch
-      - '*/*'       # matches every branch containing a single '/'
-      - '!master'   # excludes master
+on: [pull_request]
 
 jobs:
   build:

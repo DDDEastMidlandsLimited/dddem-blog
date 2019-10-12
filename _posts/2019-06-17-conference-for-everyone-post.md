@@ -145,7 +145,7 @@ Captioning is useful to those with hearing difficulties, but can also make talks
 ### Feedback
 On social media, we’ve encouraged people to get in touch about what we might have missed or not addressed.
 
-One big thing we will be changing for next year is the date of the conference. With this year being in half-term and us not being able to cover childcare of yet — it’s been a big blocker for some parents. Next years event will be on the 3rd of October: not in half term.
+One big thing we will be changing for next year is the date of the conference. With this year being in half-term and us not being able to cover childcare as of yet — it’s been a big blocker for some parents. Next years event will be on the 3rd of October: not in half term.
 
 The other piece of feedback we will act upon is that some people who were considering submitting to speak at the conference were put off by the length of the talks. We are discussing how we can alter the event for next year to be able to accommodate 30-minute talks and 5-minute lightning talks, alongside the 1-hour talk options. It is also thought this may be a good way of lowering the barrier for first-time speakers.
 

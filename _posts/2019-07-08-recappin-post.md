@@ -17,9 +17,9 @@ share: true
 
 ---
 
-That’s the first bit of information you may find useful in setting the stage on this one particular Saturday that I’ve been tasked to recapped: **29th June, 2019**. It was hot outside. What that means is when people walked into Dylan Beattie’s Speakers’ Workshop (arranged by the wonderful DDDEM Team) on the day, the air-conditioned indoors was a unanimous cause of everyone’s glee before the workshop had even begun.
+That’s the first bit of information you may find useful in setting the stage on this one particular Saturday that I’ve been tasked to recap: **29th June, 2019**. It was hot outside. What that means is when people walked into Dylan Beattie’s Speakers’ Workshop (arranged by the wonderful DDDEM Team) on the day, the air-conditioned indoors was the unanimous cause of everyone’s glee before the workshop had even begun.
 
-Of course, this collective glee only surged once all the attendees were sat around their tables in smaller groups, onlooking Dylan work his most excellent magic of sharing Speaking advice and wisdom through out the rest of the day. Personally, having witnessed Dylan play the guitar and sing his supremely-hilarious Tech-themed songs at Tech Nottingham before, I was partly aware of the level of brilliance he possessed to own rooms or audiences with.
+Of course, this collective glee only surged once all the attendees were sat around their tables in smaller groups, onlooking Dylan work his most excellent magic of sharing Speaking advice and wisdom through out the rest of the day. Personally, having witnessed Dylan play the guitar and sing his supremely hilarious Tech-themed songs at Tech Nottingham before, I was partly aware of the level of brilliance he possessed to own rooms or audiences with.
 
 But this was different, this was a different vantage point.
 
@@ -63,11 +63,11 @@ Imagine an adventure party voluntarily formed of the bravest souls (cough*includ
 
 #### _2. Talks given by the attendees_
 
-Those in the audience who have had their talks selected for DDDEM rose to the occasion and presented a quickly prep-ed 3 mins talks on a topic of their liking to the whole room. The rest of us then anonymously wrote down 1 thing we liked and 1 thing that could’ve been better on two post-its, for each of the speaker’s talk. Tell you what though, I really struggled finding the thing to improve for so many of them, they did so well!
+Those in the audience who have had their talks selected for DDDEM rose to the occasion and presented a quickly prep-ed 3 mins talk on a topic of their liking to the whole room. The rest of us then anonymously wrote down 1 thing we liked and 1 thing that could’ve been better on two post-its, for each of the speaker’s talk. Tell you what though, I really struggled finding the thing to improve for so many of them, they did so well!
 
 #### _3. Chatting to old and newly-made friends_
 
-Truly, this is the kind of merry time that you often gets overlooked. During the day, a lot of us were sat a table just chilling. Catching up with the old friends, introducing myself to news ones. Simple, happy moments that aren’t explicitly in the agenda but make your day, anyway.
+Truly, this is the kind of merry time that often gets overlooked. During the day, a lot of us were sat a table just chilling. Catching up with the old friends, introducing ourselves to new ones. Simple, happy moments that aren’t explicitly in the agenda but make your day, anyway.
 
 <img src="/assets/img/2019-07-08/notts-ladies.png" alt="Ladies of notts" width="100%"/>
 <center>
@@ -77,12 +77,12 @@ Truly, this is the kind of merry time that you often gets overlooked. During the
 
 #### _4. Nailing a potential band album cover art with the lovely WiT ladies_
 
-eh, name a more iconic quintet(?)…I’LL WAIT! One to forever look back to.
+Eh, name a more iconic quintet(?)… I’LL WAIT! One to forever look back to.
 
 #### _5. Discovering Matt Brunt has a pet gecko, called Mr Hubble_
 
 Ok, but this gecko has a more hip name than I do. 1 question: HOW?
-Also,*clears throat* as a teeny bit of a storyteller myself, I loved just how well-written Matt’s gecko story was! I do hope he’ll share it in written text..eventually. 11/10.
+Also,*clears throat* as a teeny bit of a storyteller myself, I loved just how well-written Matt’s gecko story was! I do hope he’ll share it in written text... eventually. 11/10.
 (To Matt: do ittt!)
 
 #### 6. _Nearish to 4PM: Sitting on the workbench with our laptops open, in faux-productivity_

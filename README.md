@@ -20,6 +20,13 @@ Please read through the [Code Of Conduct](./CODE_OF_CONDUCT.md) to make sure you
 - `jekyll build` will build the project
 - `jekyll serve` will serve the project, and it will be accessible at [localhost:4000](http://localhost:4000/).
 
+### Using Docker
+
+Install docker following the [official steps here](https://docs.docker.com/get-started/) and then run:
+- `docker-compose up`
+- docker will run `jekyll serve` so you can modify files and the site will rebuild in docker.
+- The site will be accessible at [localhost:4000](http://localhost:4000/).
+
 ## Need to contact us?
 
 Email jessica {at} dddeastmidlands.com

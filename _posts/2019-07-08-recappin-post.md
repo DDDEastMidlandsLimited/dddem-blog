@@ -63,7 +63,7 @@ Imagine an adventure party voluntarily formed of the bravest souls (cough*includ
 
 #### _2. Talks given by the attendees_
 
-Those in the audience who have had their talks selected for DDDEM rose to the occasion and presented a quickly prep-ed 3 mins talk on a topic of their liking to the whole room. The rest of us then anonymously wrote down 1 thing we liked and 1 thing that could’ve been better on two post-its, for each of the speaker’s talk. Tell you what though, I really struggled finding the thing to improve for so many of them, they did so well!
+Those in the audience who have had their talks selected for DDDEM rose to the occasion and presented quickly prep-ed 3 mins talks on a topic of their liking to the whole room. The rest of us then anonymously wrote down 1 thing we liked and 1 thing that could’ve been better on two post-its, for each of the speaker’s talk. Tell you what though, I really struggled finding the thing to improve for so many of them, they did so well!
 
 #### _3. Chatting to old and newly-made friends_
 

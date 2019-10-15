@@ -16,7 +16,8 @@ Fast forward to more recent times and the <a href="https://technation.io/insight
 
 Nottingham's not-so-secret weapon is the strength of talent it has across a wide variety of tech sectors. From gaming to science; pharmacuticals to finance; startups to world leaders, there is a lot going on in and around the city. With so much going on it can sometimes feel like work happens in isolated 'caves'. It is Nottingham's vibrant *'meetup hub'* that is really unlocking extra value as we come together, learn more about each other, share our experiences, and meet new people.
 
-<img alt="Statue of Robin Hood - Image by Ian Wilson from Pixabay" src="/assets/img/2019-10-11/robin-hood.jpg"></img>
+<img alt="Statue of Robin Hood - Image by Ian Wilson from Pixabay" src="/assets/img/2019-10-11/robin-hood.jpg"/>
+<center><i>Statue of Robin Hood - Image by Ian Wilson from Pixabay</i></center>
 
 ## The growth of Tech Nottingham
 

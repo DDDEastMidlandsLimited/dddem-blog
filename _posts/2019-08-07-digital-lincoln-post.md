@@ -35,11 +35,11 @@ Until recently, when that was revived with the establishment of <a href="http://
 
 <img src="/assets/img/2019-08-07/lincolnhack.png" alt="Picture of hackers" width="100%"/>
 <center>
-<i>Lincoln Hack — is the annual hackathon, organised by Digital Lincoln it attracts 100 -120 people annually</i>
+<i>Lincoln Hack — is the annual hackathon, organized by Digital Lincoln it attracts 100 -120 people annually</i>
 </center>
 <br/>
 
-I recently read <a href="https://medium.com/@loftio/what-the-tech-community-in-nottingham-means-to-me-f0fa17bb162" target="_blank">a wonderful post by a Nottingham tech community member who has got so much out of the tech community in only but a few short months</a>, I am so pleased for them and also chatted with someone who is using the power of the community to help her grow her career, which is brilliant, I so love that these opportunities are around in our industry. So, whilst not plagiarising the ideas, honest, I was eventually inspired to finish the blog post I promised Jess and Moreton for DDDEM on that very topic, what the community can do for you or more specifically what I have observed during my involvements in tech communities, in Nottingham, Lincoln and Leicester and what it can do for your tech career. The post was commissioned a while back and has taken some time to come out but hopefully, those in any tech community, new entrants or otherwise will get something from it and release how and why we should nurture our communities.
+I recently read <a href="https://medium.com/@loftio/what-the-tech-community-in-nottingham-means-to-me-f0fa17bb162" target="_blank">a wonderful post by a Nottingham tech community member who has got so much out of the tech community in only but a few short months</a>, I am so pleased for them and also chatted with someone who is using the power of the community to help her grow her career, which is brilliant, I so love that these opportunities are around in our industry. So, whilst not plagiarizing the ideas, honest, I was eventually inspired to finish the blog post I promised Jess and Moreton for DDDEM on that very topic, what the community can do for you or more specifically what I have observed during my involvements in tech communities, in Nottingham, Lincoln and Leicester and what it can do for your tech career. The post was commissioned a while back and has taken some time to come out but hopefully, those in any tech community, new entrants or otherwise will get something from it and release how and why we should nurture our communities.
 
 <br/>
 
@@ -48,7 +48,7 @@ I recently read <a href="https://medium.com/@loftio/what-the-tech-community-in-n
 ---
 #### Free tech Learning
 
-A meetup is similar to that of a conference, a bridge between the experts and learners, but a meetup differs, educationally only slightly but there is undoubtedly often a difference in the expert accessibility. There is a different sort of culture and the relaxed approach often means the sometimes artificial barriers we put between ourselves and speakers are removed. I have yet to meet a speaker who is not helpful, willing to chat and talk (I mean that is why they are there right) after the presentation or demo. There is, of course, lots of other learnings besides that of the speaker or collaboration between groups in a hack or demo going on.
+A meetup is similar to that of a conference, a bridge between the experts and learners, but a meetup differs, educationally only slightly but there is undoubtedly often a difference in the expert accessibility. There is a different sort of culture and the relaxed approach often means the, sometimes, artificial barriers we put between ourselves and speakers are removed. I have yet to meet a speaker who is not helpful, willing to chat and talk (I mean that is why they are there right) after the presentation or demo. There is, of course, lots of other learnings besides that of the speaker or collaboration between groups in a hack or demo going on.
 
 #### The debugging power of the conversation
 
@@ -56,11 +56,11 @@ Whether you talk to your established friends, new members of the community for i
 
 #### Building a super team
 
-When you're at work, you may not always get to pick your colleagues and collaborators. If you have a side project or a business of your own this is very different. If your looking for a super team to get your project to the next level then community, whether online or local is an ideal place to meet the collaborators that you really need. People who compliment or share your skills are aplenty and I have often found are in the same position looking to find the next project or willing to help, our industry attracts a very industrious bunch.
+When you're at work, you may not always get to pick your colleagues and collaborators. If you have a side project or a business of your own this is very different. If you’re looking for a super team to get your project to the next level then community, whether online or local is an ideal place to meet the collaborators that you really need. People who compliment or share your skills are aplenty and I have often found are in the same position looking to find the next project or willing to help, our industry attracts a very industrious bunch.
 
 #### Knowing who to ask
 
-Imagine you know when you can find a StackOverflow voice assistant, that actually listens parses text correctly and returns valuable insights and much more, well that is the community. OK maybe not always accessible but a wealth of knowledge is available to you. Fortunately, organisers try as hard as we can to ensure a diverse mix of people attend these groups and I know from experience they are not always focused on the exact topic in hand so the range of skills are extensive and experiences far-reaching.
+Imagine you know when you can find a StackOverflow voice assistant, that actually listens parses text correctly and returns valuable insights and much more, well that is the community. OK maybe not always accessible but a wealth of knowledge is available to you. Fortunately, organizers try as hard as we can to ensure a diverse mix of people attend these groups and I know from experience they are not always focused on the exact topic in hand so the range of skills are extensive and experiences far-reaching.
 
 #### Being able to help
 
@@ -68,7 +68,7 @@ There is a great deal of satisfaction from helping others and if that is not eno
 
 #### Need a job
 
-So it is simple, you get a group of people together who share common skills and employment profiles this allows them to network, hear of other roles in different companies. Hear of new opportunities, build collaborations and maybe even start businesses. Recruitment companies often present themselves at meetups too and sponsor them widening opportunities.
+So, it is simple, you get a group of people together who share common skills and employment profiles this allows them to network, hear of other roles in different companies. Hear of new opportunities, build collaborations and maybe even start businesses. Recruitment companies often present themselves at meetups too and sponsor them widening opportunities.
 
 #### Making others outside of the community aware
 
@@ -87,7 +87,7 @@ Tech meetups are learning opportunities sure, but they are also social gathering
 </center>
 <br/>
 
-Digital Lincoln members and organisers will be around at DDEM supporting the good work they are doing at promoting the communities in the East Midlands if you spot us come say hi and learn more about our community.
+Digital Lincoln members and organizers will be around at DDEM supporting the good work they are doing at promoting the communities in the East Midlands if you spot us come say hi and learn more about our community.
 
 <br/>
 

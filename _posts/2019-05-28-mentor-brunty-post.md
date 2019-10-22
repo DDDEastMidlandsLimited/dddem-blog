@@ -22,7 +22,7 @@ share: true
 # Introduction
 ---
 
-At DDD East Midlands we want to support our speakers. We are achieving this not only by offering a brilliant speakers workshop presented by Dylan Beattie to all our successful speakers but also by offering mentorship.
+At DDD East Midlands we want to support our speakers. We are achieving this not only by offering a brilliant speakers workshop presented by Dylan Beattie to all our successful speakers, but also by offering mentorship.
 
 Gosia and Matt have all kindly offered their time and experience as international speakers to those who want it. Gosia and Matt are both two fantastic examples of the brilliance the East Midlands has to offer.
 
@@ -46,7 +46,7 @@ To introduce them further, we have asked them to answer a few questions around w
 
 <br/>
 
-## Hey! We hear you’ve been selected as one of the DDD East Midlands Mentors. Congratulations on being a marvellous person! Mind giving us a which introduction to who you are?
+## Hey! We hear you’ve been selected as one of the DDD East Midlands Mentors. Congratulations on being a marvellous person! Mind giving us a quick introduction on who you are?
 
 Hey! I’m Matt. Most know me as Brunty as that’s been my nickname/username for as long as I can remember. I’m a speaker, mentor, former organiser of PHP East Midlands, and I currently work for Helical Levity, building cool software and web apps in the Cyber Security space.
 
@@ -89,7 +89,7 @@ Meeting Sir Tim Berners-Lee has to be the top! Being able to shake his hand and 
 
 Reach out! (Easier said than done, I know) having more people involved in the community and events is always wanted — there’s always more things to do and not enough people to do them!
 
-Be that to someone else you’ve seen in the community speaking, someone who’s involved in organising a group, or someone who’s just been attending events. It’s all about the people and having those connections, making those friends are crucial to the community thriving.
+Be that to someone else you’ve seen in the community speaking, someone who’s involved in organising a group, or someone who’s just been attending events. It’s all about the people and having those connections, making those friends is crucial to the community thriving.
 
 <br/>
 

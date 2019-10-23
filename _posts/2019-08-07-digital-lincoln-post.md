@@ -41,6 +41,7 @@ Until recently, when that was revived with the establishment of <a href="http://
 
 I recently read <a href="https://medium.com/@loftio/what-the-tech-community-in-nottingham-means-to-me-f0fa17bb162" target="_blank">a wonderful post by Nottingham tech community member Lex Lofthouse</a>, who has gotten so much out of the tech community in only a few short months. I am so pleased for Lex! I also chatted with someone who is using the power of the community to help her grow her career, which is brilliant. I so love that these opportunities are around in our industry. So, whilst not plagiarising the ideas (honest!), I was inspired to finish the blog post I promised Jess and Moreton for DDDEM on that very topic: what the community can do for you. More specifically, what I have observed during my involvements in tech communities in Nottingham, Lincoln and Leicester, and what it can do for your tech career. The post was commissioned a while back and has taken some time to come out but hopefully, those in any tech community, new entrants or otherwise, will get something from it and release how and why we should nurture our communities.
 
+
 <br/>
 
 ## So why are community and meetups important to your technical career?

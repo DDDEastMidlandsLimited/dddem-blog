@@ -61,12 +61,12 @@ Hosted in the beautiful, modern building of The Nottingham Conference Centre, wh
 
 ## Making it open to all.
 
-As an embodiment of the East Midlands tech community, we want to promote inclusivity, support, and camaraderie. The event are going to support first-time speakers and encourage speakers from a variety of backgrounds in a number of ways:
+As an embodiment of the East Midlands tech community, we want to promote inclusivity, support, and camaraderie. The event is going to support first-time speakers and encourage speakers from a variety of backgrounds in a number of ways:
 
 - Tickets are free!
 - The organisers will be doing talks at East Midlands tech meetups on how to submit a strong talk description and ways to construct a talk if you are accepted.
 - The event is providing a mentorship scheme for successful applicants before the event. Speakers will have the option to be mentored by experienced, local, professional speakers.
-- Successful speakers will be invited to attend a workshop to help them with the construction and delivery of their talk
+- Successful speakers will be invited to attend a workshop to help them with the construction and delivery of their talk.
 - The venue is accessible by disabled people.
 - There is a sponsorship tier available to provide live captioning of talks. If a company chooses to support this, they will be making the conference experience much better for those with hearing difficulties.
 
@@ -76,7 +76,7 @@ The aims are to promote a variety of local speakers to submit, from the very exp
 
 A key focus of DDD East Midlands is giving back to, celebrating and promoting the outstanding tech community that has grown in the East Midlands. There is a booming tech community in the East Midlands (just look at the number of events on https://nottingham.digital/). From slack groups to hackathons, there are a lot of opportunities for collaboration and friendship. The organizers are passionate about producing a high quality, well organised, professional event that echoes the qualities of the East Midlands: collaboration, innovation, inclusivity, and camaraderie.
 
-We are thinking beyond the event. We don’t want to just encourage people to join our excellent community for just one day _(yes — we CAN be heroes, just for one day)_, but we want the effects to last beyond the conference
+We are thinking beyond the event. We don’t want to just encourage people to join our excellent community for just one day _(yes — we CAN be heroes, just for one day)_, but we want the effects to last beyond the conference.
 
 - Providing training for submitting to conferences and building engaging talks will hopefully lead to more local speakers spreading the word of how great the tech scene is in the East Midlands at events nationally, if not globally. We want people to talk about the amazing companies they are working for, the cool tech they are working with, the successful (and sometimes less successful) times they have collaborated on something great.
 

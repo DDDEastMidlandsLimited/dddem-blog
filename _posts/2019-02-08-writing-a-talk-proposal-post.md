@@ -99,7 +99,7 @@ Bullet point the answers to these questions so you are clear about it before wri
 
 ### Grammar and spelling.
 
-If you can’t tell already; this is something I struggle with myself. Grammar and spelling are important in making your proposal look well thought out and professional. Here’s how I get by:
+If you can’t tell already; this is something I struggle with myself. Grammar and spelling are important in making your proposal look well-thought-out and professional. Here’s how I get by:
 
 - Asking someone to proofread what you’ve written
 - Using plug-ins such as [Grammarly](https://app.grammarly.com/)

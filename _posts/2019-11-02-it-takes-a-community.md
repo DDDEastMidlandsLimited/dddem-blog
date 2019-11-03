@@ -49,7 +49,7 @@ There are a lot of groups of people and individuals that we would love to give m
 
 #### On the day
 
-Firstly, the people how not only came to DDD East Midlands, but also stayed throughout two fire alarms in the miserable weather. Thank you for not only persevering but also being supportive, positive and not letting the slight sogginess ruin your day. 
+Firstly, the people who not only came to DDD East Midlands, but also stayed throughout two fire alarms in the miserable weather. Thank you for not only persevering but also being supportive, positive and not letting the slight sogginess ruin your day. 
 
 We did our best to manage the slight disaster and you all gave us positive words of support when we felt absolutely rotten for what had happened. Thank you so much.
 
@@ -60,7 +60,7 @@ We are really grateful to those who gave a helping hand with what we needed and 
 - <a href="https://twitter.com/codesleuth" target="_blank">David Wood.</a> As well as volunteering he helped us get all the equipment back and forth from the venue along with other things. 
 
 
-- The Sewards (<a href="https://twitter.com/MrsEmma" target="_blank">Emma</a> and <a href="https://twitter.com/MrAndrew" target="_blank">Andrew</a>) gave loads of advice in the beginning based around their experience with <a href="https://www.technottingham.com/" target=_blank>Tech Nottingham</a> and Hack24, as well as sponsoring the initial deposit for the venue. Without their help we wouldn't have had the stunning Conference Centre in October.
+- The Sewards (<a href="https://twitter.com/MrsEmma" target="_blank">Emma</a> and <a href="https://twitter.com/MrAndrew" target="_blank">Andrew</a>) gave loads of advice in the beginning based around their experience with <a href="https://www.technottingham.com/" target="_blank">Tech Nottingham</a> and Hack24, as well as sponsoring the initial deposit for the venue. Without their help we wouldn't have had the stunning Conference Centre in October.
 
 - The Australian DDD Organisers. They answered a lot of our questions in the beginning about running a DDD Conference.
 

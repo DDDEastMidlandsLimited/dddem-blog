@@ -2,7 +2,7 @@
 title: 'It Took A Community To Create.'
 layout: post
 description: "Thank you from us."
-date: 2019-11-01
+date: 2019-11-02
 cover: "/assets/header_image.jpg"
 author: Jessica White
 categories: [dddem]

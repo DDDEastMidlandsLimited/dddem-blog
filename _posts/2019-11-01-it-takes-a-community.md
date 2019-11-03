@@ -129,19 +129,39 @@ Again, thank you to our sponsors. Without sponsorship we couldn't run the event 
 
 ### The Speakers
 
+At DDD East Midlands, the speakers are selected by the attendees. Not only did they deliver fantastic talks which you all enjoyed and learnt from, but the speakers on the day were really accommodating. In order to fit all the talks into the new schedule we asked everyone to shorten their talks by 10 minutes, which is a challenging proposal for a rehearsed talk, especially if you are newer to speaking. Everyone was happy to make this adjustment and made managing a difficult situation a lot easier.
 
+Special thanks to the speakers from the first session who had their talks rudely interrupted by the fire alarms _twice_, and had their talks cut short. <a href="https://twitter.com/JessSalisburyy" target="_blank">Jessica</a>,  <a href="https://twitter.com/ZackerTheHacker" target="_blank">Zac</a> and  <a href="https://twitter.com/AnthonyDotNet/" target="_blank">Anthony</a> we hope to see you at a local meetup soon. Thank you again for being so understanding. 
 
 <br/>
 
 ### The Photographer and Videographers
 
+We were so happy to have <a href="https://www.abigneonglitter.co.uk/" target="_blank">Andrew Acford</a> and <a href="https://www.abigneonglitter.co.uk/" target="_blank">ShutterSocks</a> on board to do all the photography and videography for the event. They braved the horrid weather and really captured the event fantastically. Thank you folks!
+
+<br/>
+
+### The Photographer and Videographers
+
+The lovely people from <a href="https://www.cartwheelcoffee.com/" target="_blank">Cartwheel Coffee</a> provided some fantastic coffee throughout the day and certainly kept my caffeine levels at a healthy level.
+
+<br/>
 
 ### Venue Staff
 
-
-
+As mentioned in the closing ceremony, the venue staff were really helpful and responsive on the day. They provided the coat racks when it was wet and tried to get us back in the venue as quickly as they could while guaranteeing your safety during the "incidents".
 
 <br/>
+
+### And everyone else
+
+There are SO MANY people who contributed and made this event as good as it was. We appreciate all the help we've had. If I've missed you, I'm sorry. This was quickly put together and we do appreciate _all_ the help and advice we've received.
+
+---
+<center>
+<h4 class="quote">I'm sorry if I missed anyone. You are still appreciated.</h4>
+</center>
+---
 
 # My Personal Thanks.
 ---
@@ -169,7 +189,19 @@ As many of you know Moreton is my partner in more ways than one. It's been an ab
 # Planning For Next Year Starts Now.
 ---
 
+Next year the event will be on <strong>October 3rd 2020.</strong>
 
+#### We have a new member in our team 
+
+<a href="https://twitter.com/missracheybaby" target="_blank">Rachel</a> will be helping with a lot of the correspondence. There will be a post introducing Rachel soon.
+
+#### Sponsorship
+
+We are going to re-jig the sponsorship for next year based on what we've learnt. <a href="https://forms.gle/5nN4ra982AKTrDQE9" target="_blank">If you are interested in sponsoring please fill in the form here.</a>
+
+#### Videos, Photos, Website and more...
+
+We will release videos of the talks, the photos of the event and will be doing a reskin of the website. We will be keeping a lot of the input from your contributions and adding more issues over the next twelve months.
 
 ---
 
@@ -178,6 +210,12 @@ As many of you know Moreton is my partner in more ways than one. It's been an ab
 </center>
 
 ---
+
+Keep and eye on all our social media accounts for more updates in the near future.
+
+Jess.
+
+
 
 <div style="text-align:center; width:20%; margin-left: 10%;" markdown="1">
 <img src="{{site.baseurl}}/assets/logo.png" alt="Logo">

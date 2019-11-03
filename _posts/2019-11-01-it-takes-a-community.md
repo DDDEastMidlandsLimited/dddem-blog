@@ -21,11 +21,11 @@ share: true
 
 As with a lot of things in my recent life, it all started in a coffee shop.
 
-Moreton and I made the decision that we were going to run Developer! Developer! Developer! East Midlands. There were many reasons for doing this including what we would learn from the challenge, right through to our warmth for the local East Midlands community. From opportunities at work to the friends we have made at events - we have gained so much from the local tech scene. There wasn't a technology focused conference per se (though there are great design focused conferences and a lot of local events), and it seemed like something we could do. The full thought process and decisions made I'll leave for another post, for another day.
+Moreton and I made the decision that we were going to run Developer! Developer! Developer! East Midlands. There were many reasons for doing this including what we would learn from the challenge, right through to our warmth for the local East Midlands community. From opportunities at work, to the friends we have made at events - we have gained so much from the local tech scene. There wasn't a technology focused conference per se (though there is a <a href="https://newadventuresconf.com/2020/" target="_blank">great design focused conference</a> and <a href="https://nottingham.digital/" target="_blank">a lot of local events</a>), and it seemed like something we could do. The full thought process and decisions made I'll leave for another post, for another day.
 
-Fast forward to last Saturday - the day of the conference. Now it doesn't feel quite real, but last Saturday DDD East Midlands happened! The attendees travelled from all over the UK to find see the great speakers, find out more about the East Midlands tech community and most importantly _celebrate it_.
+Fast forward to last Saturday - the day of the conference. Now it doesn't feel quite real, but last Saturday DDD East Midlands happened! The attendees travelled from all over the UK to see great speakers, find out more about the East Midlands tech community and most importantly _celebrate it_.
 
-It was by no means an easy event for us. The first time running an event of this scale and we had two evacuations due to fire alarms, the weather was abysmal, and we had a lot of things happening that we hope you all didn't notice. Overall though, we think it went pretty well.
+It was by no means an easy event for us. It was our first time running an event of this scale, we had two evacuations due to fire alarms, the weather was abysmal and we had a lot of things happening that we hope you all didn't notice. Overall though, we think it went pretty well.
 
 ---
 <center>
@@ -33,7 +33,7 @@ It was by no means an easy event for us. The first time running an event of this
 </center>
 ---
 
-There is something that we glossed over in our Closing Ceremony that I would like to spend some time to go into more detail about though. Though Moreton and I are the founders and organisers of this event, we have helped in many forms, from many directions. This event was celebrating the local tech community, and it couldn't have gone as smoothly as it did without the input and passion of the same community.
+There is something that we glossed over in our Closing Ceremony that I would like to spend some time to go into more detail about. Though Moreton and I are the founders and organisers of this event, we have had help in many forms and from many directions. This event was celebrating the local tech community, and it couldn't have gone as smoothly as it did without the input and passion of the same community.
 
 
 # Many Thanks From Us.
@@ -49,18 +49,18 @@ There are a lot of groups of people and individuals that we would love to give m
 
 #### On the day
 
-Firstly, the people how not only came to DDD East Midlands, but also stayed throughout two fire alarms in the miserable weather. Thank you for not only preserving but being supportive, positive and not letting the slight sogginess ruin your day. 
+Firstly, the people how not only came to DDD East Midlands, but also stayed throughout two fire alarms in the miserable weather. Thank you for not only persevering but also being supportive, positive and not letting the slight sogginess ruin your day. 
 
 We did our best to manage the slight disaster and you all gave us positive words of support when we felt absolutely rotten for what had happened. Thank you so much.
 
 #### Before, during and after
 
-This was the first event Moreton and I have run at this scale. We are really grateful to those who gave a helping hand with what we needed and gave advice based on their own experiences. There are many people who helped us over the last 18 months and I'd like to give special thanks to a few of them.
+We are really grateful to those who gave a helping hand with what we needed and gave advice based on their own experiences. There are many people who helped us over the last 18 months and I'd like to give special thanks to a few of them.
 
 - <a href="https://twitter.com/codesleuth" target="_blank">David Wood.</a> As well as volunteering he helped us get all the equipment back and forth from the venue along with other things. 
 
 
-- The Sewards (<a href="https://twitter.com/MrsEmma" target="_blank">Emma</a> and <a href="https://twitter.com/MrAndrew" target="_blank">Andrew</a>) gave loads of advice in the beginning based around their experience with Tech Nottingham and Hack24, as well as sponsoring the initial deposit for the venue. Without their help we wouldn't have had the stunning Conference Centre in October.
+- The Sewards (<a href="https://twitter.com/MrsEmma" target="_blank">Emma</a> and <a href="https://twitter.com/MrAndrew" target="_blank">Andrew</a>) gave loads of advice in the beginning based around their experience with <a href="https://www.technottingham.com/" target=_blank>Tech Nottingham</a> and Hack24, as well as sponsoring the initial deposit for the venue. Without their help we wouldn't have had the stunning Conference Centre in October.
 
 - The Australian DDD Organisers. They answered a lot of our questions in the beginning about running a DDD Conference.
 
@@ -68,11 +68,11 @@ This was the first event Moreton and I have run at this scale. We are really gra
 
 - <a href="https://twitter.com/anna_hax" target="_blank">Anna</a> and <a href="https://twitter.com/JamieTanna" target="_blank">Jamie</a> have kindly run the <a href="https://www.dddeastmidlands.com/hacktoberfest/" target="_blank">Hacktoberfest corner</a>, but have also been helping manage PR's for the DDD East Midlands Blog GitHub account. Anna also took over our Twitter on the day of the conference, making sure you were all getting re-tweeted and responded to. 
 
-- <a href="https://twitter.com/short_louise" target="_blank">Louise Paling</a> has given us a lot of things she learnt from being part of the organisation team for DevOpsDayLondon.
+- <a href="https://twitter.com/short_louise" target="_blank">Louise Paling</a> has given us a lot of advice based on what she has learnt from being part of the organisation team for <a href="https://devopsdays.org/events/2020-london/welcome/" target="_blank">DevOpsDayLondon.</a>
 
-- <a href="https://twitter.com/Brunty" target="_blank">Matt Brunt</a> has been a mentor, a speaker and a good friend. He has also been my own personal proof reader! 
+- <a href="https://twitter.com/Brunty" target="_blank">Matt Brunt</a> has been a mentor to our speakers, a speaker at the conference and a good friend. He has also been my own personal proof reader! 
 
-There are others, but the list will be very long if we mention you all. Thank you everyone for your help from driving us to places, to the friendly words of Support.
+There are others, but the list will be very long if we mention you all. Thank you everyone for your help from driving us to places, to the friendly words of support.
 
 <br/>
 
@@ -133,6 +133,8 @@ At DDD East Midlands, the speakers are selected by the attendees. Not only did t
 
 Special thanks to the speakers from the first session who had their talks rudely interrupted by the fire alarms _twice_, and had their talks cut short. <a href="https://twitter.com/JessSalisburyy" target="_blank">Jessica</a>,  <a href="https://twitter.com/ZackerTheHacker" target="_blank">Zac</a> and  <a href="https://twitter.com/AnthonyDotNet/" target="_blank">Anthony</a> we hope to see you at a local meetup soon. Thank you again for being so understanding. 
 
+You can find a full list of the speakers with their bios and links <a href="https://www.dddeastmidlands.com/speakers" target="_blank">here</a>. Please book them for your events!
+
 <br/>
 
 ### The Photographer and Videographers
@@ -141,15 +143,17 @@ We were so happy to have <a href="https://www.abigneonglitter.co.uk/" target="_b
 
 <br/>
 
-### The Photographer and Videographers
+### Coffee Cart
 
-The lovely people from <a href="https://www.cartwheelcoffee.com/" target="_blank">Cartwheel Coffee</a> provided some fantastic coffee throughout the day and certainly kept my caffeine levels at a healthy level.
+The lovely people from <a href="https://www.cartwheelcoffee.com/" target="_blank">Cartwheel Coffee</a> provided some fantastic coffee throughout the day and certainly kept my caffeine levels at a healthy level. Thanks for sponsoring the coffee <a href="https://www.myunidays.com/GB/en-GB/careers" target="_blank">UNiDAYS</a>
 
 <br/>
 
 ### Venue Staff
 
 As mentioned in the closing ceremony, the venue staff were really helpful and responsive on the day. They provided the coat racks when it was wet and tried to get us back in the venue as quickly as they could while guaranteeing your safety during the "incidents".
+
+In my opinion, the food and snacks were also really good! So thank you to the catering staff at the venue as well.
 
 <br/>
 
@@ -163,12 +167,16 @@ There are SO MANY people who contributed and made this event as good as it was. 
 </center>
 ---
 
+Please keep contributing on GitHub, keep feeding back to us and we hope you'll all help us make next year great too.
+
+<br/>
+
 # My Personal Thanks.
 ---
 
 As I've said throughout, it has taken a lot of people to make DDDEM a successful event. It also took a partnership.
 
-I would like to take this opportunity to give explicit thanks to Moreton Brockley. In our pairing I'm the more visible one as I am loud, excitable and all over social media, as such sometimes Moreton doesn't get the recognition I know he deserves.
+I would like to take this opportunity to give explicit thanks to <a href="https://twitter.com/allmobro" target="_blank">Moreton Brockley.</a> In our pairing I'm the more visible one as I am loud, excitable and all over social media. As such sometimes Moreton doesn't get the recognition I know he deserves.
 
 <br/>
 
@@ -182,7 +190,7 @@ Moreton has spent the majority of his evenings, especially in recent months, doi
 
 On top of all that, he's kept me sane.
 
-As many of you know Moreton is my partner in more ways than one. It's been an absolute pleasure getting to work with him on something we are both passionate about and I couldn't ask for a better partner in crime.
+As many of you know Moreton is my partner in more ways than one. It's been an absolute pleasure getting to work with him on something we are both passionate about and I couldn't ask for a better partner in ~~crime~~ conference organisation.
 
 <br/>
 
@@ -203,19 +211,17 @@ We are going to re-jig the sponsorship for next year based on what we've learnt.
 
 We will release videos of the talks, the photos of the event and will be doing a reskin of the website. We will be keeping a lot of the input from your contributions and adding more issues over the next twelve months.
 
+<br/>
+
+There is _A LOT_ to look forward to.
+
+Keep and eye on all our social media accounts for more updates in the near future. 
+
+I'll be talking to you soon,
+
+_Jess._
+
 ---
-
-<center>
-<h3 class="quote"><i>We look forward to seeing you next year!</i> </h3>
-</center>
-
----
-
-Keep and eye on all our social media accounts for more updates in the near future.
-
-Jess.
-
-
 
 <div style="text-align:center; width:20%; margin-left: 10%;" markdown="1">
 <img src="{{site.baseurl}}/assets/logo.png" alt="Logo">

@@ -54,4 +54,4 @@ From small acorns to <a href="https://www.visit-nottinghamshire.co.uk/things-to-
 
 I invite you to step out of your 'cave', share what you're working on, meet new people, and listen & meet those who are contributing to the success of this exciting city.
 
-It's great to see a new generation inspired by _Robin Hood_; taking from the rich and giving to the poor. However instead of wealth redistribution, it's experience we're sharing. Nottingham is full of opportunities for you to draw from people with rich experiences and grow your career and personal opportunties in this city of legends.
+It's great to see a new generation inspired by _Robin Hood_; taking from the rich and giving to the poor. However instead of wealth redistribution, it's experience we're sharing. Nottingham is full of opportunities for you to draw from people with rich experiences and grow your career and personal opportunities in this city of legends.

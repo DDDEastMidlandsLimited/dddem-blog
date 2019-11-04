@@ -2,7 +2,7 @@
 title: 'It Took A Community To Create.'
 layout: post
 description: "Thank you from us."
-date: 2019-11-02
+date: 2019-11-04
 cover: "/assets/header_image.jpg"
 author: Jessica White
 categories: [dddem]
@@ -21,7 +21,9 @@ share: true
 
 As with a lot of things in my recent life, it all started in a coffee shop.
 
-<a href="https://twitter.com/stephenhaunts" target="_blank">Stephen Haunts</a> and <a href="https://twitter.com/BarryPMills" target="_blank">Barry Mills</a> persuaded Moreton and I to run Developer! Developer! Developer! East Midlands. There were many reasons for doing this including what we would learn from the challenge, right through to our warmth for the local East Midlands community. From opportunities at work, to the friends we have made at events - we have gained so much from the local tech scene. There wasn't a technology focused conference per se (though there is a <a href="https://newadventuresconf.com/2020/" target="_blank">great design focused conference</a> and <a href="https://nottingham.digital/" target="_blank">a lot of local events</a>), and it seemed like something we could do. The full thought process and decisions made I'll leave for another post, for another day.
+<a href="https://twitter.com/stephenhaunts" target="_blank">Stephen Haunts</a> (who had just started his own business) and <a href="https://twitter.com/BarryPMills" target="_blank">Barry Mills</a> (who had recently been promoted at work) persuaded Moreton and I to run Developer! Developer! Developer! East Midlands.
+
+There were many reasons for doing this including what we would learn from the challenge, right through to our warmth for the local East Midlands community. From opportunities at work, to the friends we have made at events - we have gained so much from the local tech scene. There wasn't a technology focused conference per se (though there is a <a href="https://newadventuresconf.com/2020/" target="_blank">great design focused conference</a> and <a href="https://nottingham.digital/" target="_blank">a lot of local events</a>), and it seemed like something we could do. The full thought process and decisions made I'll leave for another post, for another day.
 
 Fast forward to last Saturday - the day of the conference. Now it doesn't feel quite real, but last Saturday DDD East Midlands happened! The attendees travelled from all over the UK to see great speakers, find out more about the East Midlands tech community and most importantly _celebrate it_.
 
@@ -84,7 +86,7 @@ I cannot emphasise enough how great the crew were. They made a big job a lot eas
 
 <br/>
 
-<img src="/assets/img/2019-11-02/crew.png" alt="The Volunteer Crew standing around a DDD East Midlands sign in their green hoodies" width="100%"/>
+<img src="/assets/img/2019-11-04/crew.png" alt="The Volunteer Crew standing around a DDD East Midlands sign in their green hoodies" width="100%"/>
 <center>
 <i> — The DDD East Midlands Crew</i>
 </center>
@@ -180,7 +182,7 @@ I would like to take this opportunity to give explicit thanks to <a href="https:
 
 <br/>
 
-<img src="/assets/img/2019-11-02/moreton.png" alt="Moreton Brockely presenting at DDD East Midlands" width="100%"/>
+<img src="/assets/img/2019-11-04/moreton.png" alt="Moreton Brockely presenting at DDD East Midlands" width="100%"/>
 <center>
 <i> — Moreton Brockley presenting at DDD East Midlands. Photo by <a href="https://www.abigneonglitter.co.uk/" target="_blank">Andrew Acford.</a></i>
 </center>

@@ -10,6 +10,14 @@ comments: false
 share: false
 ---
 
+----
+<center>
+<h3 class="quote"><i>Hack The Planet!</i></h3>
+</center>
+
+---
+
+<br/>
 Although the month of [Hacktoberfest](https://hacktoberfest.digitalocean.com/) is almost over, we're going to have a [Hacktoberfest stand at DDD East Midlands today](https://www.dddeastmidlands.com/hacktoberfest/).
 
 As part of this, we'll be looking to promote the use of, and contribution to, Free and Open Source Software, and will be helping folks make their first foray into contributing.
@@ -25,8 +33,11 @@ And even better, at the closing ceremony we'll be giving away a pair of these aw
 </video>
 </div>
 
+<br/>
+
 ## So get started by following the [instructions below](#instructions), and add your picture!
 
+<br/>
 <section class="contributors_grid">
 {% for image in site.static_files %}
 {% if image.path contains 'img/2019-10-26/hacktoberfest-corner' %}
@@ -35,7 +46,11 @@ And even better, at the closing ceremony we'll be giving away a pair of these aw
 {% endfor %}
 </section>
 
+<br/>
+
 # Instructions
+
+---
 
 ### Raise your Pull Request through the web UI
 

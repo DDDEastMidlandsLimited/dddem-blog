@@ -37,6 +37,7 @@ It was by no means an easy event for us. It was our first time running an event 
 
 There is something that we glossed over in our Closing Ceremony that I would like to spend some time to go into more detail about. Though Moreton and I are the founders and organisers of this event, we have had help in many forms and from many directions. This event was celebrating the local tech community, and it couldn't have gone as smoothly as it did without the input and passion of the same community.
 
+<br/>
 
 # Many Thanks From Us.
 ---
@@ -64,7 +65,11 @@ We are really grateful to those who gave a helping hand with what we needed and 
 
 - The Sewards (<a href="https://twitter.com/MrsEmma" target="_blank">Emma</a> and <a href="https://twitter.com/MrAndrew" target="_blank">Andrew</a>) gave loads of advice in the beginning based around their experience with <a href="https://www.technottingham.com/" target="_blank">Tech Nottingham</a> and Hack24, as well as sponsoring the initial deposit for the venue. Without their help we wouldn't have had the stunning Conference Centre in October.
 
+- Local event organisers such as <a href="https://twitter.com/rosanna20736" target="_blank">Rosanna Nichols</a>, <a href="https://twitter.com/sdh100Shaun" target="_blank">Shaun Hare</a> and <a href="https://twitter.com/colly" target="_blank">Simon Collison</a> for answering some of our early questions.
+
 - The Australian DDD Organisers. They answered a lot of our questions in the beginning about running a DDD Conference.
+
+- <a href="https://twitter.com/thepixelgrid" target="_blank">Tom Jepson</a> for guiding us through branding and tone of voice at the beginning. He also created our colour scheme.
 
 - The day before the conference we were missing a couple of deliveries. <a href="https://twitter.com/phr3nzii" target="_blank">Chris Taylor</a> kindly drove us around to get the last bits, including our outside flags.
 

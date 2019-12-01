@@ -2,7 +2,7 @@
 title: 'The Anonymous Submission Process.'
 layout: post
 description: "Why are our submissions anonymised."
-date: 2019-11-04
+date: 2019-12-01
 cover: "/assets/header_image.jpg"
 author: Jessica White
 categories: [dddem]

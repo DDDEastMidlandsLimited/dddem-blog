@@ -49,7 +49,7 @@ When setting up the first DDD East Midlands we researched other Developer! Devel
 
 ### Less intimidating for less experienced speakers.
 
-This may be based on my own personal experience, but it can be hard to apply to conferences when you see a line-up of professional, well-known speakers who work for interesting or large companies. For myself, this can be a real imposter-syndrome trigger. When you know you are talking with or competing for a slot with well-known speakers, experts in their fields... it feels like your chances are low, and even if you did get in - why would anyone come see you speak?
+This may be based on my own personal experience, but it can be hard to apply to conferences when you see a line-up of professional, well-known speakers who work for interesting or large companies. For myself, this can be a real imposter-syndrome trigger. When you know you are submitting to or potentially talking at a conference with well-known speakers, experts in their fields... it feels like your chances are low, and even if you did get in - why would anyone come see you speak?
 
 By having the submissions based on title and talk description it lessens this pressure. You may still be submitting with some very experienced speakers, who might work for some great companies - but you are all being voted on based on title and talk description alone. 
 

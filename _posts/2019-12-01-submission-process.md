@@ -71,7 +71,7 @@ As we want our speakers to feel comfortable and prepared, and for our attendees 
 
 Our speakers and volunteers were invited to a speakers workshop to help with presentation and slide creation. It is a fantastic, hands-on workshop lead by <a href="https://dylanbeattie.net/" target="_blank">Dylan Beattie</a>. To find out more check out <a href="https://blog.dddeastmidlands.com/2019/07/08/recappin-post.html" target="_blank">this blog by Riz who attended the day.</a>
 
-##### Mentoring.
+<strong>Mentoring.</strong>
 
 We offer mentorship by experienced, international speakers to those who request it. This is a person to reach out to for whatever guidance is needed relating to presenting and preparing for the conference.
 
@@ -87,7 +87,7 @@ Everyone has different experiences, and therefore something unique we can learn 
 
 Technology is a vast field with many topics and many ways to tackle individual problems. Each company faces their own ways with dealing with issues and their own unique flavour of how they approach things. No single person walks the same path and has the same experiences, outlook or opportunities another person has.
 
-We can all learn from each other. There are different types of people wanting different levels of talk coming to the conference as well, which is reflected in the voting. Some people want in-depth war stories, others want introductory talks - it's great to have a range from a range of exposures.
+We can all learn from each other. There are different types of people wanting different levels of talk coming to the conference as well, which is reflected in the voting. Some people want in-depth war stories, others want introductory talks - it's great to have a variety from a range of exposures.
 
 <br/>
 
@@ -99,7 +99,9 @@ As organisers we are very aware we have our own biases, conscious and unconsciou
 
 By having the attendees vote on what they want to see, the selection becomes more a reflection of the communities interests rather than our own personal ones. Plus - it would be really difficult to choose between the talks. It's not a job we would really want!
 
-We do hold the right to shuffle a few talks to help on initiatives such as diversity, and each speaker only gets to present the top voted talk if a number of their talks makes it into the top billing votes. Even with the few talks we may shuffle, only the top voted meeting our criteria will get in and we only adjust up to 20% of the full schedule.
+The organisers don't see speaker details during the voting process. Sometimes we do find out through requests to edit a description or title, or because we need to ask someone to alter a submission for various reasons. Only one person will have access to do that though, and on a whole, not even we see who submitted which talk.
+
+After voting has finished, the organisers do get to see the speaker details. We hold the right to shuffle a few talks to help on initiatives such as diversity, and each speaker only gets to present the top voted talk if a number of their talks makes it into the top billing votes. Even with the few talks we may shuffle, only the top voted meeting our criteria will get in and we only adjust up to 20% of the full schedule.
 
 #### Unconscious bias of those selecting.
 
@@ -116,7 +118,7 @@ As mentioned, this isn't an exact science and it won't suit everybody's needs. T
 
 <br/>
 
-<strong>Can't pick based on workplace, speaking reputation or known experience.</strong>
+### Can't pick based on workplace, speaking reputation or known experience.
 
 Some people like to attend conferences or talks based on the reputation of the speakers. Speaking is a skill which some lucky people have a talent for, but most have to rehearse and refine.
 

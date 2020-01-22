@@ -21,7 +21,7 @@ share: true
 
 On the back of the success of the 2019 How To Talk tour, Moreton and Jess have booked in to meetups near you for a new and improved version for 2020.
 
-There are a number of attendees from last year who have gone on to do their first talks in 2019. 
+There are a number of attendees from last year who have gone on to do their first talks in 2019. Some at local meetups, some at work and others at conferences. We are hoping to have the same happen this year, and maybe to encourage YOU to submit to DDD East Midlands as well!
 
 <br/>
 
@@ -32,7 +32,7 @@ We are very passionate about encouraging people to speak and to help them feel c
 
 In these presentations we talk through hints and tips to tackle each step of presenting your ideas.
 
-Whether it's an internal work talk, a talk at a meetup or you are thinking of submitting to a conference - hopefully you'll find something in these talks and workshops that is useful to you.
+Whether it's an internal work talk, a talk at a meetup or you are thinking of submitting to a conference - hopefully you'll find something in these talks and workshops that is useful to you. The long game is to have lots of excellent presenters from the East Midlands sharing their knowledge and experience at events all around the UK, and maybe even globally. We want to show off the amazing talent and opportunity the East Midlands has.
 
 <br/>
 
@@ -75,7 +75,7 @@ Bring your coffee (and maybe a mocha for Moreton and a latte for Jess). This is 
 
 <br/>
 
-### <a href="https://www.meetup.com/Derbyshire-Dot-Net/events/266944094/" target="_blank">Derbyshire Developers</a>
+### <a href="https://www.meetup.com/Derbyshire-Dot-Net/events/266944094/" target="_blank">DerbyshireDotNet</a>
 
 <strong>Date:</strong> 27th February
 
@@ -87,12 +87,15 @@ A presentation walking through each stage of creating a talk with questions and 
 
 <br/>
 
-## When and where can I submit?
----
+### <a href="https://www.digitallincoln.co.uk/" target="_blank">Digital Lincoln</a>
 
-You can submit from <strong>7th February</strong> using <a href="https://sessionize.com/dddeastmidlands-2020/" target="_blank">this Sessionise page</a>. Applications for talks close on the <strong>16th March</strong>.
+<strong>Date:</strong> To be confirmed
 
-Talks can be submitted for 60 minute, 30 minute, and 15 minute length talks. One speaker can submit multiple talks, but if more than one talk gets into the top selected, only the most popular will be picked for presentation. We are limiting talks to one per speaker on the day.
+<strong>Target Audience:</strong> Those near Lincoln who are more available after work and want tips, tricks and informal Q&A
+
+<strong>Description of event:</strong>
+
+Again, this will mostly be in the format of our talk, guiding through each steps, but with questions, answers and informal chatter. Jess did the initial form of this talk last year in Lincoln and had a really great time.
 
 <br/>
 
@@ -100,6 +103,8 @@ Talks can be submitted for 60 minute, 30 minute, and 15 minute length talks. One
 ---
 
 Moreton and Jessica have spoken at internal talks, meetups and conferences. Jessica is an international speaker and has a range of experiences in this area.
+
+If you are inspired to submit to DDD East Midlands after these talks, and you get selected as a speaker there is even more opportunity to get support on your speaking journey. If supported by sponsors (the opportunity is still open) we will be hosting the Speakers Workshop by <a href="https://dylanbeattie.net/" target="_blank">Dylan Beattie</a> again this year for successful speakers. This is a full day of training on creating and presenting content. DDD East Midlands also offers mentorship for speakers who ask for it from some great local international conference speakers.
 
 <br/>
 

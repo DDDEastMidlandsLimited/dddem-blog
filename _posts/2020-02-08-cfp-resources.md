@@ -138,6 +138,30 @@ Please ensure both your submissions and content abide to the <a href="https://ww
 
 <br/>
 
+### Where can you submit to talk?
+
+<a href="https://sessionize.com/dddeastmidlands-2020/" target="_blank">You can access the submission form here.</a>
+
+<br/>
+
+###  Can multiple talks be submitted per speaker?
+
+Each speaker can submit **up to 5 talks** to DDD East Midlands Conference
+
+<br/>
+
+###  Can one speaker submit multiple lengths of talk?
+
+Yes! You can submit each talk for different lengths if you think you can adapt it, or you can submit different talks at different lengths if you wish.
+
+<br/>
+
+###  How do you use the Sessionize submission form?
+
+<a href="https://blog.dddeastmidlands.com/2020/02/02/sessionize-post.html" target="_blank">A full step by step guide on how to fill in the Sessionize form can be found here.</a>
+
+<br/>
+
 ###  When sharing your submission
 
 Feel free to share on social media that you have submitted to DDD East Midlands **but please do not mention your talk title**. We realise that our anonymous process isn't perfect, but this helps us keep the playing field fair.

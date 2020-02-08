@@ -97,7 +97,7 @@ To find out more about last years attendees, check out our previous post <a href
 
 <br/>
 
-###  Is there any information on last years submissionS?
+###  Is there any information on last years submissions?
 
 Again, our stats on last years submissions can be found in our previous post <a href="https://blog.dddeastmidlands.com/2020/01/26/stats-from-2019.html" target="_blank">Statistics from 2019.</a>
 

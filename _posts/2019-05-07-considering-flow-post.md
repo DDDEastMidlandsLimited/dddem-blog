@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How To Talk Part 6 - Considering Flow
+title: How To Talk Part 5 - Considering Flow
 description: "Considering Flow"
 date: 2019-05-07
 cover: "/assets/header_image.jpg"

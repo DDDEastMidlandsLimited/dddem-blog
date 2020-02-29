@@ -2,7 +2,7 @@
 layout: post
 title: How To Talk Part 6 - Confidence and Practicing
 description: "Practice makes perfect"
-date: 2019-03-07
+date: 2019-09-07
 cover: "/assets/header_image.jpg"
 author: Jessica White
 categories: [how-to-talk]

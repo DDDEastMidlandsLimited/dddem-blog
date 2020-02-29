@@ -1,7 +1,7 @@
 ---
 layout: post
-title: How To Talk Part 4 - Building Confidence
-description: "Building confidence"
+title: How To Talk Part 4 - Confidence and Practicing
+description: "Practice makes perfect"
 date: 2019-03-07
 cover: "/assets/header_image.jpg"
 author: Jessica White
@@ -12,8 +12,7 @@ share: true
 
 ----
 <center>
-<h3 class="quote"><i>How To Talk Really, Really Good. Part 4</i> </h3>
-<h3 class="quote"><i>Building Confidence.</i> </h3>
+<h3 class="quote"><i>Getting ready to present.</i> </h3>
 </center>
 
 ---
@@ -25,6 +24,8 @@ share: true
 This is one of the hardest posts in this series for me to write, as I am publicly not that confident when it comes to speaking. It’s a battle I have to fight each time I know I have to present.
 
 There are a few techniques I use to help me do so, and a number that have been advised to me over the last couple of years. For the rest of this blog, we will explore them.
+
+<br/>
 
 # Talking through your ideas with someone you feel comfortable with.
 
@@ -42,6 +43,8 @@ Having another person’s point of view can open your eyes to other angles on th
 
 Doing this helps me. It shows me I know my subject matter; that I can reinforce my ideas and have them evolve through a discussion in a safe environment. It also allows me to find out which areas I need to research more on.
 
+<br/>
+
 ## Bullet-point your thoughts.
 
 When I was first taught about writing code, I was told to write the logical steps in bullet points. I do the same with talks.
@@ -49,6 +52,8 @@ When I was first taught about writing code, I was told to write the logical step
 I write bullet points on the points I would like to make, or demos I would like to do on paper. I then read through and sort them into a coherent order.
 
 Knowing the talks are built from a logical order helps my confidence as I know I can make it sound natural and have a natural flow of points. Flow is something that will be covered in a later blog post, but for me, if I can make a talk feel less like a presentation of points and more like a conversation, it helps my lack of confidence.
+
+<br/>
 
 # Rehearse (in stages).
 
@@ -77,6 +82,8 @@ Some like to record their talks and listen to them as part of their practice.
 
 For me, there is such a thing as over-rehearsing. I trip up if I think I miss a point in the talk. For me, rehearsing once a week for about 3 weeks before the talk is peachy. You will find your own balance and rhythm.
 
+<br/>
+
 # Present in a setting that feels less scary to you.
 
 ---
@@ -92,6 +99,8 @@ Ask at your work if you can present either the full talk or a shorter version of
 - #### (Local) meetup.
 Present your ideas at a meetup. There are loads of great meetups in the East Midlands, these are great for me as I get more nervous presenting in front of people I know than people I don’t know. Some others find it easier to present to familiar faces. Both choices are available to you across the East Midlands. Support your local meetups by providing them with the great, up and coming speaker that you are, and get a confidence boost from presenting in front of a small and friendly crowd.
 
+<br/>
+
 # Fake it till you make it.
 
 ---
@@ -99,6 +108,8 @@ Present your ideas at a meetup. There are loads of great meetups in the East Mid
 You have rehearsed, you know your content but speaking is still terrifying. That’s ok. We have put up a post for how to prepare and pump yourself up on a day closer to our event.
 
 All in all, the experience will go by very quickly and you might even convince yourself that you are a strong, confident, speaker-person.
+
+<br/>
 
 # Reward yourself for being a badass
 
@@ -151,6 +162,13 @@ Speaking from personal experience, Caroline talks through finding confidence wit
 
 East Midlands author, speaker, do-er Stephen Haunts has a book on public speaking. It includes an entire section on building up the nerve to do a talk.
 
+<br/>
+
+Until next time,
+
+_Jess_
+
+<br/>
 
 ---
 
@@ -162,7 +180,7 @@ _How To Talk Really, Really Good_
 * <a href="{{site.baseurl}}/2019/01/08/coming-up-with-a-talk-post.html">How To Talk Part 1 - Coming up with a talk</a>
 * <a href="{{site.baseurl}}/2019/02/08/writing-a-talk-proposal-post.html">How To Talk Part 2 - Writing a good talk proposal</a>
 * <a href="{{site.baseurl}}/2019/02/23/sparkling-biographies-post.html">How To Talk Part 3 - Sparkling Biographies</a>
-* <strong><a href="{{site.baseurl}}/2019/03/07/building-confidence-post.html">How To Talk Part 4 - Building Confidence</a></strong>
+* <strong><a href="{{site.baseurl}}/2019/03/07/building-confidence-post.html">How To Talk Part 4 - Confidence and Practicing</a></strong>
 * <a href="{{site.baseurl}}/2019/04/13/planning-structure-post.html">How To Talk Part 5 - Planning Structure</a>
 * <a href="{{site.baseurl}}/2019/05/07/considering-flow-post.html">How To Talk Part 6 - Considering Flow</a>
 * <a href="{{site.baseurl}}/2019/10/10/social-media-wizardry.html">How To Talk Part 7 - Social Media Wizardry</a>

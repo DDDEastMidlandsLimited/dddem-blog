@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How To Talk Part 5 - Planning Structure
+title: How To Talk Part 4 - Planning Structure
 description: "Planning Structure"
 date: 2019-04-13
 cover: "/assets/header_image.jpg"
@@ -12,15 +12,17 @@ share: true
 
 ----
 <center>
-<h3 class="quote"><i>How To Talk Really, Really Good. Part 5</i> </h3>
-<h3 class="quote"><i>Planning Structure.</i> </h3>
+<h3 class="quote"><i>.</i> </h3>
 </center>
 
 ---
+
 <br/>
 
 # Introduction
+
 ---
+
 You’ve had your abstract selected by an awesome conference! Congratulations! Before anything else pat yourself on the back, do a dance, eat that cake and celebrate!
 
 Celebrated? Good. This is where the hard work starts.
@@ -79,12 +81,15 @@ Incorporating one of these storytelling flows can be challenging for some and of
 
 Give it a try, and see if it works for you.
 
+<br/>
 
 ## From the end to start
 
 This is a technique used by [Brunty](https://twitter.com/Brunty?lang=en-gb). They start with the final point they want to make and work backwards from there. It helps some to maintain a direction, rather than starting at the beginning and finding that they’ve gone off on a tangent and not reached the point they wanted to at the end.
 
 He often writes the closing slides first. They’ll likely change, as through writing the slides the message can evolve, but he finds that by keeping a focus on the closing statement it keeps him in the general right direction
+
+<br/>
 
 ## Audience Driven Development
 
@@ -106,6 +111,12 @@ Good luck, and let us know if any of these techniques work for you, or if you ha
 
 ---
 
+Until next time,
+
+_Jess_
+
+<br/>
+
 ## Series
 
 _How To Talk Really, Really Good_
@@ -114,9 +125,9 @@ _How To Talk Really, Really Good_
 * <a href="{{site.baseurl}}/2019/01/08/coming-up-with-a-talk-post.html">How To Talk Part 1 - Coming up with a talk</a>
 * <a href="{{site.baseurl}}/2019/02/08/writing-a-talk-proposal-post.html">How To Talk Part 2 - Writing a good talk proposal</a>
 * <a href="{{site.baseurl}}/2019/02/23/sparkling-biographies-post.html">How To Talk Part 3 - Sparkling Biographies</a>
-* <a href="{{site.baseurl}}/2019/03/07/building-confidence-post.html">How To Talk Part 4 - Confidence and Practicing</a>
-* <strong><a href="{{site.baseurl}}/2019/04/13/planning-structure-post.html">How To Talk Part 5 - Planning Structure</a></strong>
-* <a href="{{site.baseurl}}/2019/05/07/considering-flow-post.html">How To Talk Part 6 - Considering Flow</a>
+* <strong><a href="{{site.baseurl}}/2019/04/13/planning-structure-post.html">How To Talk Part 4 - Planning Structure</a></strong>
+* <a href="{{site.baseurl}}/2019/05/07/considering-flow-post.html">How To Talk Part 5 - Considering Flow</a>
+* <a href="{{site.baseurl}}/2019/06/07/building-confidence-post.html">How To Talk Part 6 - Confidence and Practicing</a>
 * <a href="{{site.baseurl}}/2019/10/10/social-media-wizardry.html">How To Talk Part 7 - Social Media Wizardry</a>
 
 ---

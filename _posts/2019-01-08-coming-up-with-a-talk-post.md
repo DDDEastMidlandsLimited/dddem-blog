@@ -140,9 +140,9 @@ _How To Talk Really, Really Good_
 * <strong><a href="{{site.baseurl}}/2019/01/08/coming-up-with-a-talk-post.html">How To Talk Part 1 - Coming up with a talk</a></strong>
 * <a href="{{site.baseurl}}/2019/02/08/writing-a-talk-proposal-post.html">How To Talk Part 2 - Writing a good talk proposal</a>
 * <a href="{{site.baseurl}}/2019/02/23/sparkling-biographies-post.html">How To Talk Part 3 - Sparkling Biographies</a>
-* <a href="{{site.baseurl}}/2019/03/07/building-confidence-post.html">How To Talk Part 4 - Confidence and Practicing</a>
-* <a href="{{site.baseurl}}/2019/04/13/planning-structure-post.html">How To Talk Part 5 - Planning Structure</a>
-* <a href="{{site.baseurl}}/2019/05/07/considering-flow-post.html">How To Talk Part 6 - Considering Flow</a>
+* <a href="{{site.baseurl}}/2019/04/13/planning-structure-post.html">How To Talk Part 4 - Planning Structure</a>
+* <a href="{{site.baseurl}}/2019/05/07/considering-flow-post.html">How To Talk Part 5 - Considering Flow</a>
+* <a href="{{site.baseurl}}/2019/09/07/building-confidence-post.html">How To Talk Part 6 - Confidence and Practicing</a>
 * <a href="{{site.baseurl}}/2019/10/10/social-media-wizardry.html">How To Talk Part 7 - Social Media Wizardry</a>
 
 ---

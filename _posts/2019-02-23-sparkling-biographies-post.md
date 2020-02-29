@@ -12,8 +12,7 @@ share: true
 
 ----
 <center>
-<h3 class="quote"><i>How To Talk Really, Really Good. Part 3</i> </h3>
-<h3 class="quote"><i>Sparkling Biographies.</i> </h3>
+<h3 class="quote"><i>Tell us about you</i> </h3>
 </center>
 
 ---
@@ -54,6 +53,12 @@ This may be a selling point to people coming to see your talk.
 
 I like to add a statement that gives other people an excuse to chat. I also get a lot of coffee out the last sentence, and I really do love coffee. Something humanising, that gives others the chance to come up and have something to approach you with.
 
+## Pronouns
+
+A nice little extra - if you can put your personal preferred pronoun somewhere in your bio, it will help normalise the practice and help people when they are approaching you in person. 
+
+<br/>
+
 # Keep it in context
 
 ---
@@ -63,6 +68,8 @@ For every conference and talk I adjust my biography, and there a number of peopl
 Much like people edit their CV’s and personal statements for certain job applications, you can edit your biography to suit a conference theme or to demonstrate why you are a good person to listen to about your talk topic.
 
 An example of this is that I don’t include founding and running Women In Tech in any biographies that aren’t for diversity conferences. Likewise, for diversity conferences I minimise the references to my continuous improvement and monitoring work. Neither the attendees or organisers are focused on that work, instead they want to hear about diversity initiatives.
+
+<br/>
 
 # Write in third person
 
@@ -76,6 +83,8 @@ It feels very odd to write in third person, but there are numerous advantages to
 
 Personally, I prefer writing in this way. Talking in third person makes it feel less like I’m going _“me, me, me!”_.
 
+<br/>
+
 # Short and sweet
 
 ---
@@ -86,6 +95,8 @@ Your audience is going to be people scanning through agendas and selecting talks
 
 If you really struggle with this, you can include a link or two, or base it on your twitter biography if you have one. That character limit can be really handy on showing you what information is important.
 
+<br/>
+
 # Get someone else to summarise you
 
 ---
@@ -93,6 +104,8 @@ If you really struggle with this, you can include a link or two, or base it on y
 Though I’m writing about creating your own biographies, my first one was actually written by a friend in the industry. They gave me three sentences and then I embellished.
 
 Sometimes it’s easier to get someone else to write about how awesome you are.
+
+<br/>
 
 # Give it some personality Sugar!
 
@@ -103,6 +116,8 @@ There is never any harm in adding a bit of fun. You aren’t just your name or q
 I drink more coffee than is healthy. I love learning from others. I hope both of these aspects come across in my biographies, because I want to be approachable and be fed coffee.
 
 It helps me too. I’m not great at approaching people myself. I’m still a little socially awkward, though I am trying to learn. By giving others a way to approach me and feel they can chat… well it saves some effort and means I don’t miss out on meeting great minds.
+
+<br/>
 
 # Reviews
 
@@ -120,6 +135,8 @@ Below are some other blogs with tips and examples.
 
 Good Luck!
 
+_Jess_
+
 ## Here Are Some Links To Help
 
 - [Tips for Crafting Your Bio — Women Talk Design](https://medium.com/women-talk-design/tips-for-crafting-your-bio-5f8fa7b5d234)
@@ -127,6 +144,7 @@ Good Luck!
 - [8 of the Best Professional Bio Examples We’ve Ever Seen — Lindsay Kolowich](https://blog.hubspot.com/marketing/professional-bio-examples)
 - [8 Steps to Writing a Bio Like a Pro — Jörgen Sundberg](https://theundercoverrecruiter.com/8-steps-writing-bio-pro-chris-brogan-fact/)
 
+<br/>
 
 ---
 

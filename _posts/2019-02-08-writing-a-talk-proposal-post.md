@@ -325,7 +325,10 @@ As for individual critique, not everyone will be happy with your content and tha
 
 # Good Luck
 
-You are armed and ready to submit. How do you submit and what links are useful? Well, read the next blog in this series to find out.
+You are armed and ready to submit. How do you submit and what links are useful? Check out these two blogs for how to submit
+
+* <a href="{{site.baseurl}}/2019/02/08/sessionize-post.html">Using Sessionize To Submit</a>
+* <a href="{{site.baseurl}}/2020/02/02/sessionize-post.html">Submitting a talk for DDD East Midlands 2020</a>
 
 <br/>
 

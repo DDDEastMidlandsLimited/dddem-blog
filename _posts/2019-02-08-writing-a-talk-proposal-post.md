@@ -12,8 +12,7 @@ share: true
 
 ----
 <center>
-<h3 class="quote"><i>How To Talk Really, Really Good. Part 2</i> </h3>
-<h3 class="quote"><i>Writing a good talk proposal.</i> </h3>
+<h3 class="quote"><i>Tell us about your talk.</i> </h3>
 </center>
 
 ---
@@ -22,9 +21,11 @@ share: true
 # Introduction
 ---
 
-Assuming you have read <a href="{{site.baseurl}}/2018/04/09/impactfuldashboardspart1-post.html">Coming up with a talk</a> and now have a few potential talk ideas. What's next?
+Assuming you have read <a href="{{site.baseurl}}/2019/01/08/coming-up-with-a-talk-post.html">Coming up with a talk</a> and now have a few potential talk ideas. What's next?
 
 In this post, we will explore what is involved in writing a talk proposal. As part of this, we'll share some of the tips we’ve been given, from people much more experienced than us, while writing our previous proposals.
+
+<br/>
 
 ## What do you mean by talk proposal?
 
@@ -34,6 +35,8 @@ A talk proposal is _a short summary describing your talk_. There are a few diffe
 - CFS / Call For Speakers
 - Abstract
 - Summary
+
+<br/>
 
 ## What is the purpose of it?
 
@@ -66,9 +69,13 @@ We are prepared to jump in, upskill and write this mind-blowing talk proposal! B
 
 You’ve already got your list of talk ideas, and you probably have a conference or two in mind to submit to. If there is a specific conference you are aiming for, it’s not a bad idea to do a bit of research on them.
 
+<br/>
+
 ### Does your talk fit the conference's themes and preferences?
 
 Some conferences will be looking for talks with a certain bias. Maybe they prefer demo heavy talks. Maybe they specialise more towards diversity. If this is the case, you will want to frame your talk proposal in a way that is appealing to the body that picks the talks. You’ll want to emphasise why your talk is good for their conference.
+
+<br/>
 
 ### Is there a pattern to the talk descriptions that get picked?
 
@@ -87,8 +94,12 @@ For such a short block of text, there are a number of factors that you need to c
 
 Don’t worry though. We are here to walk you through some of the points you need to keep in mind so you are ready to wield your awesome talk in a way that will knock socks off.
 
+<br/>
+
 ## Be Clear
+
 ### State your purpose.
+
 It needs to be clear what your talk is about.
 
 - What kind of talk is it? It could be solving a problem or could be a cautionary tale.
@@ -105,8 +116,11 @@ If you can’t tell already; this is something I struggle with myself. Grammar a
 - Using plug-ins such as [Grammarly](https://app.grammarly.com/)
 - Carefully reading aloud to someone what you have written. It doesn’t need to be a person. My stuffed toy Charmander has been a very good listener when I’ve been checking the flow of proposals and talks.
 
+<br/>
+
 ## Be Plain
-It is really important people understand what you are talking about.
+
+It is really important people understand what you are talking about. If you are speaking at a conference, you can also not guarantee all attendees will be native English speakers, so this becomes even more important.
 
 ### Write in _“Plain English”_
 
@@ -133,6 +147,8 @@ Avoid using acronyms. If you can’t avoid them, put the explicit rendition of t
 There are many acronyms used in our industry, and annoyingly, a lot of them are used interchangeably.
 
 **By writing in this way, more people will understand what you want to talk about and can determine if the content is relevant to them.**
+
+<br/>
 
 ## Why will people care?
 
@@ -309,7 +325,9 @@ As for individual critique, not everyone will be happy with your content and tha
 
 # Good Luck
 
-Now, go wield that sword, or ink that pen. You are armed and ready to submit. How do you submit and what links are useful? Well, read the next blog in this series to find out.
+You are armed and ready to submit. How do you submit and what links are useful? Well, read the next blog in this series to find out.
+
+<br/>
 
 ## Here Are Some Links To Help
 

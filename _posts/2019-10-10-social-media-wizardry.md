@@ -12,8 +12,7 @@ share: true
 
 ----
 <center>
-<h3 class="quote"><i>How To Talk Really, Really Good. Part 7</i> </h3>
-<h3 class="quote"><i>Social Media Wizardry.</i> </h3>
+<h3 class="quote"><i>Making Social Media Fun.</i> </h3>
 </center>
 
 ---
@@ -28,6 +27,8 @@ Here we will cover some hints and tips to help your social media presence coming
 - Easily seeing feedback (what hit home for your attendees).
 - Saves time and effort of "on the fly" social media.
 - It can take some pressure off ensuring you deliver all your content.
+
+<br/>
 
 ## Handles And Hashtags On Slides
 
@@ -178,6 +179,7 @@ These blogs I schedule to share after my talk, or reference as one of the resour
 ---
 
 <br/>
+
 ## Here Are Some Links To Help
 
 ---

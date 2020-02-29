@@ -12,8 +12,7 @@ share: true
 
 ----
 <center>
-<h3 class="quote"><i>How To Talk Really, Really Good. Part 6</i> </h3>
-<h3 class="quote"><i>Considering Flow.</i> </h3>
+<h3 class="quote"><i>Telling the story.</i> </h3>
 </center>
 
 ---
@@ -63,19 +62,14 @@ It not only explored 8 different storytelling techniques but gives examples of t
 
 As I mentioned I am still learning about this particular area. Here are some tips and resources I have received from other speakers:
 
-## Reading:
-
-- [Story: Substance, Structure, Style and the Principles of Screenwriting by Robert McKee]()
-
-- [Into The Woods: How Stories Work and Why We Tell Them by John Yorke]()
-
-- [The Science of Storytelling: Why Stories Make Us Human, and How to Tell Them Better by Will Storr]()
 
 <br/>
 
 ## Go on a writers course/retreat.
 
 No matter the format of the storytelling, the guidelines are pretty much the same. Going on a book or scriptwriting course or retreat can teach you skills in presenting information that you can apply to the stage.
+
+<br/>
 
 ## Practice and abbreviation to a friend.
 
@@ -104,6 +98,10 @@ Explore the different mediums in which you can present your ideas. Experiment. H
 Not all the attempts will be successful, and undoubtedly your talks will evolve over time. Your style will change. Sometimes, your viewpoint will change.
 
 Good Luck!
+
+_Jess_
+
+<br/>
 
 --- 
 

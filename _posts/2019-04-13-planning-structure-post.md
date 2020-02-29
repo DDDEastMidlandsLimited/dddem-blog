@@ -12,7 +12,7 @@ share: true
 
 ----
 <center>
-<h3 class="quote"><i>.</i> </h3>
+<h3 class="quote"><i>Planning your content.</i> </h3>
 </center>
 
 ---
@@ -116,6 +116,8 @@ Until next time,
 _Jess_
 
 <br/>
+
+---
 
 ## Series
 

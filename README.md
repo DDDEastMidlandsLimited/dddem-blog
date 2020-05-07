@@ -1,5 +1,7 @@
 # The DDD East Midlands Blog
 
+![DDDEMBlog Deploy](https://github.com/wordshaker/jesswhite_4/workflows/DDDEMBlog%20Deploy/badge.svg?branch=master)
+
 Welcome to the repository for the [DDD East Midlands Blog](https://blog.dddeastmidlands.com/)!
 
 After much persuasion from the community, we have decided to move away from Medium and host our blogs using [Jekyll](https://jekyllrb.com/).

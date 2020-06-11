@@ -22,9 +22,26 @@ The DDD East Midlands team have decided that the most responsible thing to do is
 
 <br/>
 
-# How we came to this decision
+# Why we came to this decision
 
+The team met every 4 weeks to assess the statistics around COVID-19 and what it would take to run a safe and successful conference. As two of our team are currently shielding, this also included the ability or organise the conference effectively.
 
+It looks likely that some form of social distancing will still be in place by the time October comes around. Not only is the overhead of ensuring social distancing is adhered to a logistical challenge, but we think it will have a big effect on the feel of the conference itself. 
+
+DDD East Midlands is a chance for the community and local businesses to celebrate and showcase all that makes the local tech community great. There are a range of activities planned for the conference and a lot of this includes some range of closeness or contact with surfaces. 
+
+The health and safety of our delegates, and that they have a fantastic experience of the event is really important to us.
+
+### The other options we considered.
+
+Like many conferences and events this year, we did consider moving to a virtual event. We have decided not to do this for a number of reasons. Firstly, we want to showcase the tech and talent of the East Midlands, which is best done in location. Secondly, there are many online events at the moment which are offering great content which we think meet this need well already. Thirdly, it would be difficult to recreate the same atmosphere and experience as the in person event. 
+
+<br/>
+<img src="/assets/img/2020-06-15/flags.jpg" alt="The DDD Flags outside Nottingham Conference Centre" width="100%"/>
+<center>
+<i>The DDD Flags outside Nottingham Conference Centre</i>
+</center>
+<br/>
 
 ---
 <br/>
@@ -41,6 +58,10 @@ Saturday 2nd October 2021.
 
 Yes. We will be closing off the ability to sign up for a ticket until next year, but any non-cancelled tickets will be carried over to 2021. 
 
+### Will you be pausing ticket sales.
+
+Yes. Though tickets are being carried over, we will close off tickets for now while we plan for 2021.
+
 ### What happens for speakers?
 
 We are still hosting the online virtual workshop for the speakers selected for 2020, but we have decided to re-start the talk submission and voting process for 2021. 
@@ -51,12 +72,27 @@ There are a couple of reasons for this. A lot can change in a year, and we know 
 
 Sponsors are being offered the opportunity to carry over their sponsorship to 2021 and to continue supporting the event. There are still more opportunities to sponsor the conference and we are taking this opportunity to reassess the sponsorship pack and come up with ideas for what we can do to make the 2021 event bigger and better than what we had planned for 2020.
 
+### What will you do with the extra time?
+
+The good news about postponement is that the team now have extra time to plan a great event. Will will be revisiting what we are offering in the sponsorship, considering what more we can do to improve the accessibility of this event, and what we can offer all our attendees and sponsors.
+
+We will also be looking into how we can encourage submissions from more people and reach out to any communities we haven't been able to previously.
+
+<br/>
+<img src="/assets/img/2020-06-15/conf.jpg" alt="The Audience at DDD East Midlands" width="100%"/>
+<center>
+<i>The Audience at DDD East Midlands</i>
+</center>
+<br/>
+
 ---
 <br/>
 
 # Thank you.
 
 From all the team, thank you for all the support you have shown the event, and to us. We have had a number of challenges in the last couple of years. We can't wait to host a fantastic event that hopefully you will all submit to, attend and enjoy.
+
+If you have any questions, feel free to reach out to any of the team. 
 
 Stay safe,
 

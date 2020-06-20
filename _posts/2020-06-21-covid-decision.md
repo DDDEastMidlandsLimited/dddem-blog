@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Will The Conference Go Ahead In 2020?
+title: Postponing DDD East Midlands Conference 2020
 description: "The Decision Around COVID-19"
 date: 2020-06-19
 cover: "/assets/header_image.jpg"
@@ -32,7 +32,7 @@ DDD East Midlands is a chance for the community and local businesses to celebrat
 
 The health and safety of our delegates, and that they have a fantastic experience of the event is really important to us.
 
-### The other options we considered.
+### Why we're not moving online.
 
 Like many conferences and events this year, we did consider moving to a virtual event. We have decided not to do this for a number of reasons. Firstly, we want to showcase the tech and talent of the East Midlands, which is best done in location. Secondly, there are many online events at the moment which are offering great content which we think meet this need well already. Thirdly, it would be difficult to recreate the same atmosphere and experience as the in person event. 
 
@@ -48,7 +48,7 @@ Like many conferences and events this year, we did consider moving to a virtual 
 
 # Common questions 
 
-We understand there will be a lot of questions around this. Hopefully, the below will answer a few of them. As always, we are here to answer any others you may have.
+We understand there will be a lot of questions around this. Hopefully, the below will answer a few of them. As always, we are here to answer any others you may have.  <a href="https://www.dddeastmidlands.com/contact/" target="_blank">The contact us page has our details.</a>
 
 ### What day is DDD East Midlands 2021?
 
@@ -56,7 +56,7 @@ Saturday 2nd October 2021.
 
 ### Can I carry over the ticket I have for 2020?
 
-Yes. We will be closing off the ability to sign up for a ticket until next year, but any non-cancelled tickets will be carried over to 2021. 
+Yes. We will be closing off the ability to sign up for a ticket until next year, but any claimed tickets will be carried over to 2021. 
 
 ### Will you be pausing ticket sales.
 
@@ -64,7 +64,7 @@ Yes. Though tickets are being carried over, we will close off tickets for now wh
 
 ### What happens for speakers?
 
-We are still hosting the online virtual workshop for the speakers selected for 2020, but we have decided to re-start the talk submission and voting process for 2021. 
+We are still hosting the online virtual workshop for the speakers selected for 2020, but we have decided we will re-start the talk submission and voting process in 2021. 
 
 There are a couple of reasons for this. A lot can change in a year, and we know that often speakers like to change their topics and talks in this time frame. Further to this we want to have an opportunity for more people to put forward their submissions. It is part of our mission to support and empower people to speak at events like ours, and we are going to continue to offer opportunities to take part.
 
@@ -84,7 +84,7 @@ Sponsors are being offered the opportunity to carry over their sponsorship to 20
 
 # What you'll see from DDDEM in 2020.
 
-The good news about postponement is that the team now have extra time to plan a great event. Will will be revisiting what we are offering in the sponsorship, considering what more we can do to improve the accessibility of this event, and what we can offer all our attendees and sponsors.
+The good news about postponement is that the team now have extra time to plan a great event. We will be revisiting what we are offering in the sponsorship, considering what more we can do to improve the accessibility of this event, and what we can offer all our attendees and sponsors.
 
 We will also be looking into how we can encourage submissions from more people and reach out to any communities we haven't been able to previously.
 
@@ -121,7 +121,7 @@ Everyone has something valuable to say and educational content to share. There i
 
 # Thank you.
 
-From all the team, thank you for all the support you have shown the event, and to us. We have had a number of challenges in the last couple of years. We can't wait to host a fantastic event that hopefully you will all submit to, attend and enjoy.
+From all the team, thank you for all the support you have shown the event, and to us. We have had a number of challenges in the last couple of years. We can't wait to host a fantastic event in 2021 that you will all submit to, attend and enjoy.
 
 If you have any questions, feel free to reach out to any of the team. 
 

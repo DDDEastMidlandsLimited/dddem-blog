@@ -2,7 +2,7 @@
 layout: post
 title: Will The Conference Go Ahead In 2020?
 description: "The Decision Around COVID-19"
-date: 2020-05-05
+date: 2020-06-21
 cover: "/assets/header_image.jpg"
 author: Jessica White
 categories: [dddem]
@@ -37,7 +37,7 @@ The health and safety of our delegates, and that they have a fantastic experienc
 Like many conferences and events this year, we did consider moving to a virtual event. We have decided not to do this for a number of reasons. Firstly, we want to showcase the tech and talent of the East Midlands, which is best done in location. Secondly, there are many online events at the moment which are offering great content which we think meet this need well already. Thirdly, it would be difficult to recreate the same atmosphere and experience as the in person event. 
 
 <br/>
-<img src="/assets/img/2020-06-15/flags.jpg" alt="The DDD Flags outside Nottingham Conference Centre" width="100%"/>
+<img src="/assets/img/2020-06-21/flags.jpg" alt="The DDD Flags outside Nottingham Conference Centre" width="100%"/>
 <center>
 <i>The DDD Flags outside Nottingham Conference Centre</i>
 </center>
@@ -79,7 +79,7 @@ The good news about postponement is that the team now have extra time to plan a 
 We will also be looking into how we can encourage submissions from more people and reach out to any communities we haven't been able to previously.
 
 <br/>
-<img src="/assets/img/2020-06-15/conf.jpg" alt="The Audience at DDD East Midlands" width="100%"/>
+<img src="/assets/img/2020-06-21/conf.jpg" alt="The Audience at DDD East Midlands" width="100%"/>
 <center>
 <i>The Audience at DDD East Midlands</i>
 </center>

@@ -2,7 +2,7 @@
 layout: post
 title: Will The Conference Go Ahead In 2020?
 description: "The Decision Around COVID-19"
-date: 2020-06-21
+date: 2020-06-19
 cover: "/assets/header_image.jpg"
 author: Jessica White
 categories: [dddem]
@@ -72,12 +72,6 @@ There are a couple of reasons for this. A lot can change in a year, and we know 
 
 Sponsors are being offered the opportunity to carry over their sponsorship to 2021 and to continue supporting the event. There are still more opportunities to sponsor the conference and we are taking this opportunity to reassess the sponsorship pack and come up with ideas for what we can do to make the 2021 event bigger and better than what we had planned for 2020.
 
-### What will you do with the extra time?
-
-The good news about postponement is that the team now have extra time to plan a great event. Will will be revisiting what we are offering in the sponsorship, considering what more we can do to improve the accessibility of this event, and what we can offer all our attendees and sponsors.
-
-We will also be looking into how we can encourage submissions from more people and reach out to any communities we haven't been able to previously.
-
 <br/>
 <img src="/assets/img/2020-06-21/conf.jpg" alt="The Audience at DDD East Midlands" width="100%"/>
 <center>
@@ -87,6 +81,43 @@ We will also be looking into how we can encourage submissions from more people a
 
 ---
 <br/>
+
+# What you'll see from DDDEM in 2020.
+
+The good news about postponement is that the team now have extra time to plan a great event. Will will be revisiting what we are offering in the sponsorship, considering what more we can do to improve the accessibility of this event, and what we can offer all our attendees and sponsors.
+
+We will also be looking into how we can encourage submissions from more people and reach out to any communities we haven't been able to previously.
+
+### Speakers Workshop
+
+A virtual version of the Speakers Workshop and special guests will still be going ahead on the 11th July. We are truly grateful to those who submitted to the conference and we want to give something back to those who were selected to speak. 
+
+The speakers workshop, run by <a href="https://dylanbeattie.net/" target="_blank">Dylan Beattie</a> is going to be an educational and fun afternoon. As well as being an enjoyable afternoon, it should set up all those attending with the skills to present some amazing talks at other events.
+
+### Hacktoberfest
+
+Though we won't be hosting a Hacktoberfest corner, we will make attempts to support those looking to contribute to open source repositories. Both the website and blog are open source, and we will be raising issues over the course of October for people to work on.
+
+<br/>
+<img src="/assets/img/2020-06-21/contribute.jpg" alt="Why Contribute On A Screen" width="100%"/>
+<center>
+<i>Why Contribute On A Screen</i>
+</center>
+<br/>
+
+### Sponsorship for 2021
+
+As mentioned, our current sponsors have been offered the opportunity to carry over their sponsorship to 2021. We will also be exploring how we can expand the opportunities available for sponsorship. In order to run the event, there is still an amount of money that needs to be raised. As a not-for-profit all the proceeds raised go straight into the event each year.
+
+We want the event in 2021 to not only meet the standard of the first event, but exceed it. We would love to offer support to those who need it to attend the event, or expand the general offerings to attendees.
+
+### Encouraging speaking
+
+We will use some of this time to expand the range of audiences we reach and to continue to encourage people to try speaking. Throughout we will offer support to those wanting to try speaking at local events, and submitting to the conference next year.
+
+Everyone has something valuable to say and educational content to share. There is a lot of talented and smart people throughout the East Midlands. We want to encourage them to take to the stage and further enrich the local communities tech scene.
+
+---
 
 # Thank you.
 

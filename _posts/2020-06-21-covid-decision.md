@@ -90,13 +90,13 @@ We will also be looking into how we can encourage submissions from more people a
 
 ### Speakers Workshop
 
-A virtual version of the Speakers Workshop and special guests will still be going ahead on the 11th July. We are truly grateful to those who submitted to the conference and we want to give something back to those who were selected to speak. 
+A virtual version of the Speakers Workshop, for selected speakers and special guests, will still be going ahead on the 11th July. We are truly grateful to those who submitted to the conference and we want to give something back to those who were selected to speak. 
 
-The speakers workshop, run by <a href="https://dylanbeattie.net/" target="_blank">Dylan Beattie</a> is going to be an educational and fun afternoon. As well as being an enjoyable afternoon, it should set up all those attending with the skills to present some amazing talks at other events.
+The Speakers Workshop, run by <a href="https://dylanbeattie.net/" target="_blank">Dylan Beattie</a>, is going to be an educational and fun afternoon. As well as being an enjoyable afternoon, it should set up all those attending with the skills to present some amazing talks at other events.
 
 ### Hacktoberfest
 
-Though we won't be hosting a Hacktoberfest corner, we will make attempts to support those looking to contribute to open source repositories. Both the website and blog are open source, and we will be raising issues over the course of October for people to work on.
+Though we won't be hosting a Hacktoberfest corner, we will make attempts to support those looking to contribute to open source repositories during Hacktoberfest in October. Both the website and blog are open source. We will be raising issues on these repositories over the course of October for people to work on, for a range of skill sets.
 
 <br/>
 <img src="/assets/img/2020-06-21/contribute.jpg" alt="Why Contribute On A Screen" width="100%"/>

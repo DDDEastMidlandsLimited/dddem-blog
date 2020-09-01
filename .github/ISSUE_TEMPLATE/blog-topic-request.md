@@ -2,7 +2,7 @@
 name: Blog Topic Request
 about: Suggest a blog topic for this website
 title: 'Blog Topic:'
-labels: Blog idea
+labels: Blog idea, up-for-grabs, help wanted
 assignees: ''
 
 ---

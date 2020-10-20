@@ -221,7 +221,7 @@ pre code.hljs {
 		font-family: 'Montserrat';
 	  }
 	  
-	  .button:hover {
+	  .button:hover, .button:focus {
 		border: 2px solid #c01439;
 		color: #c01439;
 	  }
@@ -481,4 +481,43 @@ pre code.hljs {
     height: 128px;
     width: 128px;
   }
+}
+
+// adding accesablility compliant focus
+//When the user is not actively focusing the quick-link, hide it.
+.wcag-link{
+	opacity: 0;
+	z-index:-1;
+	display: inline-block;
+	background-color: white;
+	position: fixed;
+	top:20px;
+	left:50%;
+	transform: translate(-50% , 0);
+	padding: 20px 10px;
+	border:solid 3px $highlight-color;
+}
+footer .wcag-link{
+	bottom:200px;
+	top:unset;
+}
+
+.user-is-tabbing{
+	.logo {
+		float: left;
+		&:focus-within{
+			-webkit-box-shadow: inset 0px 0px 5px 5px #c01439;
+			-moz-box-shadow: inset 0px 0px 5px 5px #c01439;
+			box-shadow: inset 0px 0px 5px 5px #c01439;
+		}
+	}
+	.button:focus{
+		-webkit-box-shadow: inset 0px 0px 5px 5px #c01439;
+		-moz-box-shadow: inset 0px 0px 5px 5px #c01439;
+		box-shadow: inset 0px 0px 5px 5px #c01439;
+	}
+	.wcag-link:focus{
+		opacity: 1;
+		z-index:999;
+	}
 }

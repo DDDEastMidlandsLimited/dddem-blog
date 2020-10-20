@@ -1,4 +1,5 @@
 <header class="navigation" role="banner">
+  <a class="wcag-link" href="#main">Skip to the main content</a>
   <div class="navigation-wrapper">
     <a href="{{ site.baseurl }}/" class="logo">
       {% if site.logo %}
@@ -10,7 +11,7 @@
     <a href="javascript:void(0)" class="navigation-menu-button" id="js-mobile-menu">
       <i class="fa fa-bars"></i>
     </a>
-    <nav role="navigation">
+    <nav role="navigation" aria-label="Main Menu" id='main-menu'>
       <ul id="js-navigation-menu" class="navigation-menu show">
         <li class="nav-link"><a href="{{ site.baseurl }}/">Blog</a>
         <li class="nav-link"><a href="https://www.dddeastmidlands.com" target="_blank">DDDEM Website</a>

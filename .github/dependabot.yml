@@ -1,0 +1,7 @@
+version: 2
+updates:
+  # Enable version updates for ruby
+  - package-ecosystem: 'ruby:bundler'
+    directory: '/'
+    schedule:
+      interval: 'daily'

@@ -2,7 +2,7 @@
 layout: post
 title: The Return of DDD East Midlands Conference
 description: "Our decision for bringing back DDD East Midlands and our back up plans, just in case."
-date: 2025
+date: 2021-03-15
 cover: "/assets/header_image.jpg"
 author: Jessica White
 categories: [dddem]

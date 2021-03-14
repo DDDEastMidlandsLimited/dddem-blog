@@ -4,6 +4,7 @@ layout: post
 description: "Guiding you through talk submissions."
 date: 2020-01-21
 cover: "/assets/header_image.jpg"
+image: "assets/img/2020-01-21/twitter.jpg"
 author: Jessica White
 categories: [dddem,how-to-talk]
 comments: false

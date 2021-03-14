@@ -4,6 +4,7 @@ title: Mentor - Gosia Borzęcka
 description: "Gosia"
 date: 2019-06-07
 cover: "/assets/header_image.jpg"
+image: "/assets/img/2019-06-07/gosia.png"
 author: Jessica White
 categories: [mentors]
 comments: false

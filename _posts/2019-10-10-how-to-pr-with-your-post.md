@@ -4,6 +4,7 @@ title: How To Make A Pull Request With Your New Post
 description: "A guide on how to raise a pull request and how to write up your blog post for the DDD East Midlands website."
 date: 2019-10-10
 cover: "/assets/header_image.jpg"
+image: "assets/img/2019-10-10/twitter.png"
 author: Marcus Noble
 categories: [community]
 comments: false

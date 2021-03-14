@@ -2,8 +2,9 @@
 title: 'Hacktoberfest at DDD: East Midlands'
 layout: post
 description: "Hacktoberfest visits DDD: East Midlands."
-date: 2019-10-26T09:00:00+0100
+date: 2019-10-26
 cover: "/assets/header_image.jpg"
+image: "/assets/img/2019-10-26/twitter.jpg"
 author: Anna Dodson and Jamie Tanna
 categories: [hacktoberfest]
 comments: false

@@ -4,6 +4,7 @@ title: A Conference For Everyone
 description: "Planning DDD East Midlands"
 date: 2019-06-17
 cover: "/assets/header_image.jpg"
+image: "assets/img/2019-06-17/twitter.jpg"
 author: Jessica White
 categories: [dddem]
 comments: false

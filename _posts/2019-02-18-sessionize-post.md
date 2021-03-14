@@ -4,6 +4,7 @@ title: Using Sessionize To Submit
 description: "Guide to submitting a talk"
 date: 2019-02-18
 cover: "/assets/header_image.jpg"
+image: "assets/img/2019-02-18/twitter.jpg"
 author: Jessica White
 categories: [how-to-talk]
 comments: false

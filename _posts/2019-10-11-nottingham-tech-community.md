@@ -2,8 +2,9 @@
 layout: post
 title: The Nottingham Tech Community
 description: "A look at the depth of meetups"
-date: 2019-10-10
+date: 2019-10-11
 cover: "/assets/header_image.jpg"
+image: "/assets/img/2019-10-11/robin-hood.jpg"
 author: Jonathan Relf
 categories: [community, hacktoberfest]
 comments: false

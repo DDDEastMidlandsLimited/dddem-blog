@@ -4,6 +4,7 @@ layout: post
 description: "Thank you from us."
 date: 2019-11-04
 cover: "/assets/header_image.jpg"
+image: "/assets/img/2019-11-04/crew.png"
 author: Jessica White
 categories: [dddem]
 comments: false

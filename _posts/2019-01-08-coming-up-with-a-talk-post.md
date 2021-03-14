@@ -4,6 +4,7 @@ title: How To Talk Part 1 - Coming up with a talk
 description: "Coming up with a talk"
 date: 2019-01-08
 cover: "/assets/header_image.jpg"
+image: "assets/img/2019-02-08/twitter.png"
 author: Jessica White
 categories: [how-to-talk]
 comments: false

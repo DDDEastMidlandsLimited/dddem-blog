@@ -4,6 +4,7 @@ title: Postponing DDD East Midlands Conference 2020
 description: "The Decision Around COVID-19"
 date: 2020-06-21
 cover: "/assets/header_image.jpg"
+image: "assets/img/2020-06-21/flags.jpg"
 author: Jessica White
 categories: [dddem]
 comments: false

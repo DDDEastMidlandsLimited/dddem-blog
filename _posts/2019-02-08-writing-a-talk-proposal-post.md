@@ -4,6 +4,7 @@ title: How To Talk Part 2 - Writing a good talk proposal
 description: "Writing a good talk proposal"
 date: 2019-02-08
 cover: "/assets/header_image.jpg"
+image: "assets/img/2019-02-08/twitter.jpg"
 author: Jessica White
 categories: [how-to-talk]
 comments: false

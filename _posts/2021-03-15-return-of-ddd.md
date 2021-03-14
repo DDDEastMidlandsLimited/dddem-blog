@@ -2,7 +2,7 @@
 layout: post
 title: The Return of DDD East Midlands Conference
 description: "Our decision for bringing back DDD East Midlands and our back up plans, just in case."
-date: 2021-03-15
+date: 2025
 cover: "/assets/header_image.jpg"
 author: Jessica White
 categories: [dddem]
@@ -85,6 +85,19 @@ As mentioned, throughout the year we will be sending out surveys to find out wha
 ---
 
 # Thank you.
+
+### To our amazing sponsors
+
+Thank you to our Gold Sponsors for supporting the event. Please head to the <a href="https://www.dddeastmidlands.com/2020/notable-companies/" target="_blank">Notable Companies Page</a>, read about them and click their logos to head to their webpages. 
+
+<br/>
+<img src="/assets/img/2021-03-15/sponsors.png" alt="ERT, Experian and Mindera's logos as our confirmed sponsors" width="100%"/>
+<center>
+<i>Our sponsors ERT, Experian and Mindera</i>
+</center>
+<br/>
+
+### To You
 
 From all the team, thank you for all the support you have shown the event, and to us. We have had a number of challenges in the last couple of years. We can't wait to host a fantastic event in 2021 that you will all submit to, attend and enjoy.
 

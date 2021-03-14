@@ -4,6 +4,7 @@ layout: post
 description: "Why are our submissions anonymised."
 date: 2019-12-07
 cover: "/assets/header_image.jpg"
+image: "assets/img/2021-04-04/twitter.jpg"
 author: Jessica White
 categories: [dddem]
 comments: false

@@ -4,6 +4,7 @@ title: Writing A Talk Proposal
 description: "Tips for writing and submitting a talk proposal/CFP to DDD East Midlands"
 date: 2021-03-26
 cover: "/assets/header_image.jpg"
+image: "/assets/img/2021-03-26/twitter.jpg"
 author: Jessica White
 categories: [dddem]
 comments: false

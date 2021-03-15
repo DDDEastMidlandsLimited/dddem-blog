@@ -4,6 +4,7 @@ title: How To Talk Part 0 - Welcome to How To Talk
 description: "What this series is about"
 date: 2019-01-07
 cover: "/assets/header_image.jpg"
+image: "/assets/img/2019-01-07/stage.png"
 author: Jessica White
 categories: [how-to-talk]
 comments: false

@@ -4,6 +4,7 @@ title: Recappin’ DDD East Midlands Speakers’ Workshop
 description: "The Speakers Workshop"
 date: 2019-07-08
 cover: "/assets/header_image.jpg"
+image: "/assets/img/2019-07-08/workshop.png"
 author: Riz Khan
 categories: [community]
 comments: false

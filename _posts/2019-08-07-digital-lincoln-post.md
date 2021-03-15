@@ -4,6 +4,7 @@ title: Why Community Matters by Digital Lincoln
 description: "About The Lincoln Tech Community"
 date: 2019-08-07
 cover: "/assets/header_image.jpg"
+image: "/assets/img/2019-08-07/lincoln.png"
 author: Shaun Hare
 categories: [community]
 comments: false

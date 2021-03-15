@@ -4,6 +4,7 @@ title: Mentor - Matt Brunt
 description: "Matt Brunt"
 date: 2019-05-28
 cover: "/assets/header_image.jpg"
+image: "/assets/img/2019-05-28/matt-one.png"
 author: Jessica White
 categories: [mentors]
 comments: false

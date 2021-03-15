@@ -4,6 +4,7 @@ title: Moving From Medium
 description: "Why We Decided To Self Host Our Blog"
 date: 2019-10-10
 cover: "/assets/header_image.jpg"
+image: "assets/img/2019-10-10/twitter.png"
 author: Jessica White
 categories: [dddem]
 comments: false

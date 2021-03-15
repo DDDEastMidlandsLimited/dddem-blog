@@ -4,6 +4,7 @@ title: Who Talks? You Decide!
 description: "Voting for the talks you want to see"
 date: 2020-04-13
 cover: "/assets/header_image.jpg"
+image: "assets/img/2020-04-13/twitter.jpg"
 author: Jessica White
 categories: [dddem]
 comments: false

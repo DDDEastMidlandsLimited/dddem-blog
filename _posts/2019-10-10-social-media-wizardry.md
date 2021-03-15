@@ -4,6 +4,7 @@ title: How To Talk Part 7 - Social Media Wizardry
 description: "Making your social media magic"
 date: 2019-10-10
 cover: "/assets/header_image.jpg"
+image: "assets/img/2019-10-10/twitter.jpg"
 author: Jessica White
 categories: [how-to-talk]
 comments: false

@@ -4,6 +4,7 @@ title: How To Talk Part 3 - Sparkling Biographies
 description: "Writing your biography"
 date: 2019-02-23
 cover: "/assets/header_image.jpg"
+image: "assets/img/2019-05-07/twitter.jpg"
 author: Jessica White
 categories: [how-to-talk]
 comments: false

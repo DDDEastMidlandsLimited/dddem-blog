@@ -4,6 +4,7 @@ title: DDD East Midlands — Camaraderie, Inclusivity, Support and Tech
 description: "About DDD East Midlands"
 date: 2019-01-08
 cover: "/assets/header_image.jpg"
+image: "/assets/img/2019-01-06/blobby.png"
 author: Jessica White
 categories: [dddem]
 comments: false

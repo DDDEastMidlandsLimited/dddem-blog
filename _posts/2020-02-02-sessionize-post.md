@@ -4,6 +4,7 @@ title: Submitting a talk for DDD East Midlands 2020
 description: "Guide to submitting using Sessionize"
 date: 2020-02-02
 cover: "/assets/header_image.jpg"
+image: "assets/img/2020-02-02/login.png"
 author: Jessica White
 categories: [how-to-talk]
 comments: false

@@ -4,6 +4,7 @@ title: Considering Submitting to DDD?
 description: "Here's some facts, hints and stats to help"
 date: 2020-02-08
 cover: "/assets/header_image.jpg"
+image: "assets/img/2020-02-08/twitter.jpg"
 author: Jessica White
 categories: [dddem]
 comments: false

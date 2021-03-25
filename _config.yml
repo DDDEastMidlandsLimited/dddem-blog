@@ -17,6 +17,7 @@ baseurl: ""
 url: "" 
 cover: "/assets/header_image.jpg"
 logo: "/assets/logo.png"
+twitter_username: dddeastmidlands
 
 # Build settings
 markdown: kramdown

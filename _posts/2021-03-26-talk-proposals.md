@@ -2,7 +2,7 @@
 layout: post
 title: Writing A Talk Proposal
 description: "Tips for writing and submitting a talk proposal/CFP to DDD East Midlands"
-date: 2021-03-26
+date: 2021-03-25
 cover: "/assets/header_image.jpg"
 image: "/assets/img/2021-03-26/twitter.jpg"
 author: Jessica White
@@ -38,6 +38,10 @@ One of the reasons we do this is that is gives all speakers a chance of being se
 ### Speaker support
 
 For those who want it, we will offer support. This year we may not be able to host the speakers workshop, but we will at least organise for mentorship.
+
+### We are lovely!
+
+The crew and team of DDD East Midlands try to make an accessible and friendly conference. Our attendees are supportive and kind. Every bit is a representation of the amazing East Midlands community. We'll look after you.
 
 ---
 

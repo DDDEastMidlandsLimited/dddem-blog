@@ -21,12 +21,17 @@ share: true
 
 ## Contents
 
-### [Hotels](#hotels)
-### [Boardgames](#boardgames)
-### [Food](#food)
-### [Coffee](#coffee)
-### [Ales](#ales)
-### [Cocktails](#ales)
+**[Hotels](#hotels)**
+
+**[Boardgames](#boardgames)**
+
+**[Food](#food)**
+
+**[Coffee](#coffee)**
+
+**[Ales](#ales)**
+
+**[Cocktails](#ales)**
 
 <br/>
 
@@ -64,10 +69,18 @@ share: true
 
 - <a href="https://anniesburgershack.com/menu/breakfast-menu" target="_blank">Annies</a>
 - <a href="https://www.thepuddingpantry.co.uk/" target="_blank">Pudding Pantry</a>
+- <a href="https://delilahfinefoods.co.uk/pages/delilah-eat-in-menu" target="_blank">Delilahs</a>
+- <a href="https://www.cleancutkitchen.co.uk/" target="_blank">Clean Cut Kitchen</a>
 
 ### Dinner
 
+- <a href="https://www.oscarandrosies.com/" target="_blank">Oscar and Rosies</a>
 - <a href="https://anniesburgershack.com/menu/main-menu" target="_blank">Annies</a>
+- <a href="https://www.yamas.co.uk/" target="_blank">Yamas</a>
+- <a href="https://www.cocotang.co.uk/" target="_blank">Coco Tang</a>
+- <a href="https://www.pistachionottingham.co.uk/" target="_blank">Pistachio</a>
+- <a href="http://www.bonzai-japaneserestaurant.co.uk/our-menus.html" target="_blank">Bonzai</a>
+- <a href="https://www.baribericotapas.com/" target="_blank">Bar Iberico</a>
 
 <br/>
 
@@ -76,6 +89,7 @@ share: true
 - <a href="https://shop.cartwheelcoffee.com/" target="_blank">Cartwheel</a>
 - <a href="https://200degs.com/nottingham-flying-horse-walk" target="_blank">200 Degrees</a>
 - <a href="https://www.outpost.coffee/" target="_blank">Outpost</a>
+- <a href="https://www.blendnottingham.co.uk/" target="_blank">Blend</a>
 
 <br/>
 

@@ -2,7 +2,7 @@
 layout: post
 title: Your stay in Nottingham
 description: "Information on hotels, food, fun and more!"
-date: 2021-09-11
+date: 2021-09-14
 cover: "/assets/header_image.jpg"
 image: "/assets/img/2021-05-15/audience.jpg"
 author: Jessica White
@@ -36,6 +36,12 @@ share: true
 <br/>
 
 ---
+
+<br/>
+
+## Intro to this page
+
+While you are in Nottingham there are many ways to enjoy the city, so stay a while and make the most of it! This list will keep getting up dated on the run up to the event with more and more things to see do and eat!
 
 <br/>
 
@@ -80,7 +86,11 @@ share: true
 - <a href="https://www.cocotang.co.uk/" target="_blank">Coco Tang</a>
 - <a href="https://www.pistachionottingham.co.uk/" target="_blank">Pistachio</a>
 - <a href="http://www.bonzai-japaneserestaurant.co.uk/our-menus.html" target="_blank">Bonzai</a>
+- <a href="https://www.sirjohnborlasewarren.co.uk/our-food" target="_blank">Sir John Borlas</a>
 - <a href="https://www.baribericotapas.com/" target="_blank">Bar Iberico</a>
+- <a href="https://www.revoluciondecuba.com/bar/nottingham/menus/?scroll=1" target="_blank">Revolution De Cuba</a>
+- <a href="https://www.turtlebay.co.uk/food-and-drink" target="_blank">Turtle Bay</a>
+- <a href="https://www.wagamama.com/restaurants/nottingham/nottingham" target="_blank">Wagamamas</a>
 
 <br/>
 

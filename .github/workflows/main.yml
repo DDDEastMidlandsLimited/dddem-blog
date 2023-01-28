@@ -42,7 +42,7 @@ jobs:
 
     - name: Deploy To S3
       run: |
-        aws s3 sync ./_site/ s3://blog.dddeastmidlands.com/  --delete
+        aws s3 sync ./site/_site/ s3://blog.dddeastmidlands.com/  --delete
         echo "Deployed to S3"
    
     - name: Invalidate CloudFront cache

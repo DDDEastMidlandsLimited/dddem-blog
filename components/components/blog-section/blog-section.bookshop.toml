@@ -1,0 +1,12 @@
+[component]
+structures = [ "content_blocks" ]
+label = "Blog"
+description = "Blog Section with heading, a image, a description and a link"
+icon = "wysiwyg"
+tags = ["Content"]
+
+[props]
+title = "Blog"
+description_html = "DDD East Midlands Conference Blog"
+link_url = "/blog"
+show_posts = true

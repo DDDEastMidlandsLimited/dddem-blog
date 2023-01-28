@@ -1,0 +1,32 @@
+{
+  "name": "vonge-jekyll-bookshop-template",
+  "description": "Vonge template for CloudCannon",
+  "scripts": {
+    "bookshop-dev": "bookshop-browser -p 6086 -b ./components",
+    "bookshop-hosted": "bookshop-browser -b ./components -o site/js/bookshop-hosted.js",
+    "bookshop-live": "bookshop-live -b ./components -o site/_cloudcannon/bookshop-live.js",
+    "jekyll": " bundle exec jekyll serve --source site --port 6060 --trace --unpublished",
+    "start": "run-p bookshop-dev jekyll",
+    "install-jekyll": "bundle install",
+    "build-jekyll": "bundle exec jekyll build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bglw/bookshop-example.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bglw/bookshop-example/issues"
+  },
+  "homepage": "https://github.com/bglw/bookshop-example#readme",
+  "devDependencies": {
+    "@bookshop/browser": "3.3.3",
+    "@bookshop/jekyll-engine": "3.3.3",
+    "@bookshop/live": "3.3.3",
+    "npm-run-all": "^4.1.5"
+  },
+  "dependencies": {
+    "prettier": "^2.8.1"
+  }
+}

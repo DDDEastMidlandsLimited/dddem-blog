@@ -1,0 +1,51 @@
+_inputs:
+  title:
+    type: text
+    comment: DDD East Midlands Blog
+
+# Base path to your site source files, same as source for Jekyll
+source: site
+
+# The subpath your built output files are mounted at, same as baseurl for Jekyll
+base_url: site
+
+# Populates collections for navigation and metadata in the editor
+collections_config:
+  people:
+    # Base path for files in this collection, relative to source
+    path: site/collections
+
+    # Whether this collection produces output files or not
+    output: true
+
+    # Collection-level configuration
+    name: Personnel
+    _enabled_editors:
+      - data
+  posts:
+    path: _posts
+    output: true
+  pages:
+    name: Home
+
+# Generates the data for select and multiselect inputs matching these names
+data_config:
+  # Populates data with authors from an data file with the matching name
+  authors: true
+  offices: true
+
+paths:
+  # The default location for newly uploaded files, relative to source
+  uploads: assets/uploads
+
+  # The path to the root collections folder, relative to source
+  collections: items
+
+  # The path to site data files, relative to source
+  data: _data
+
+  # The path to site layout files, relative to source
+  layouts: _layouts
+
+  # The path to site include files, relative to source
+  includes: _partials

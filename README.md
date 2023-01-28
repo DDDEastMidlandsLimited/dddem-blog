@@ -1,6 +1,6 @@
 # The DDD East Midlands Blog
 
-![DDDEMBlog Deploy](https://github.com/wordshaker/jesswhite_4/workflows/DDDEMBlog%20Deploy/badge.svg?branch=master)
+[![DDDEMBlog Deploy](https://github.com/DDDEastMidlandsLimited/dddem-blog/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/DDDEastMidlandsLimited/dddem-blog/actions/workflows/main.yml)
 
 Welcome to the repository for the [DDD East Midlands Blog](https://blog.dddeastmidlands.com/)!
 

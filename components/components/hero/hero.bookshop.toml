@@ -1,0 +1,14 @@
+[component]
+structures = [ "content_blocks" ]
+label = "Hero"
+description = "Page hero with the heading, description, buttons, and an image"
+icon = "wysiwyg"
+tags = ["Structure", "Text", "Links"]
+
+[props]
+title = ""
+description_html = ""
+image = ""
+image_alt = ""
+cta_button = ""
+cta_button_link = ""

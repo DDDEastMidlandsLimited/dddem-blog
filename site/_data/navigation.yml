@@ -1,0 +1,8 @@
+logo_image: '/images/logo.png' # You can add own logo. For example '/images/logo.png'.
+
+menu__settings:
+  menu__items:
+    - title: 'Blog'
+      url: '/'
+    - title: 'Website'
+      url: 'https://www.dddeastmidlands.com/'

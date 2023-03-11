@@ -5,7 +5,7 @@
     "bookshop-dev": "bookshop-browser -p 6086 -b ./components",
     "bookshop-hosted": "bookshop-browser -b ./components -o site/js/bookshop-hosted.js",
     "bookshop-live": "bookshop-live -b ./components -o site/_cloudcannon/bookshop-live.js",
-    "jekyll": " bundle exec jekyll serve --source site --port 6060 --trace --unpublished",
+    "jekyll": "bundle exec jekyll serve --source site --port 6060 --trace --unpublished",
     "start": "run-p bookshop-dev jekyll",
     "install-jekyll": "bundle install",
     "build-jekyll": "bundle exec jekyll build"

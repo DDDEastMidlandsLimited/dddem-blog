@@ -2,8 +2,8 @@
 layout: post
 title: How to submit a talk
 description: "A guide to using sessionize to submit a talk to DDD East Midlands Conference 2023"
-date: 2023-03-11
-image:  '/images/posts/2023-03-11.jpg'
+date: 2023-03-20
+image:  '/images/posts/2023-03-20.jpg'
 tags: ['2023','Talking-Tips' ]
 author_name: Jessica White
 ---
@@ -21,14 +21,15 @@ Different conferences have different methods of submission. At DDD East Midlands
 
 In this piece, we will talk you through how to submit a talk using this tool.
 
-After logging into Sessionize on this page with the means of your choice, you’ll be directed to the Call For Speakers/Call For Proposals page.
+**Before submitting there are a few things to note**
+
 
 ## Let’s walk through the form
 
 ### About the talk
 
 <br/>
-<img src="/images/posts/2023-03-11/1.png" alt="Level box in Sessionize" width="100%"/>
+<img src="/images/posts/2023-03-20/1.png" alt="Level box in Sessionize" width="100%"/>
 <center>
 <i></i>
 </center>
@@ -49,7 +50,7 @@ The description of your talk. Your proposal. This is where you describe what you
 ### Notes
 
 <br/>
-<img src="/images/posts/2023-03-11/2.png" alt="Notes section in Sessionize" width="100%"/>
+<img src="/images/posts/2023-03-20/2.png" alt="Notes section in Sessionize" width="100%"/>
 <center>
 <i>Notes section in Sessionize</i>
 </center>
@@ -58,7 +59,7 @@ The description of your talk. Your proposal. This is where you describe what you
 ### About the speaker
 
 <br/>
-<img src="/images/posts/2023-03-11/3.png" alt="Section about the speaker in Sessionize" width="100%"/>
+<img src="/images/posts/2023-03-20/3.png" alt="Section about the speaker in Sessionize" width="100%"/>
 <center>
 <i>Section about the speaker in Sessionize</i>
 </center>
@@ -79,7 +80,7 @@ The description of your talk. Your proposal. This is where you describe what you
 ### The extra questions
 
 <br/>
-<img src="/images/posts/2023-03-11/4.png" alt="Level box in Sessionize" width="100%"/>
+<img src="/images/posts/2023-03-20/4.png" alt="Level box in Sessionize" width="100%"/>
 <center>
 <i>Level box in Sessionize</i>
 </center>

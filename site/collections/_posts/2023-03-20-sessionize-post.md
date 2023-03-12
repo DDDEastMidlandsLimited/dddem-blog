@@ -156,6 +156,8 @@ Sessionize hides and changes details as part of anonymisation. It changes your n
 
 After voting is completed, we will remove this setting as we will need to get in touch with all applicants.
 
+---
+
 ## After Submission
 
 You can edit the details of your talk right until the end of the submission period (10th April 2023).

@@ -15,8 +15,6 @@ author_name: Jessica White
 
 ---
 
-<br/>
-
 At DDD East Midlands, we have an anonymous submission process. What this involves is:
 
 - People submit their talks through Sessionize. During this process we set Sessionize to anonymise all the 
@@ -38,12 +36,9 @@ When setting up the first DDD East Midlands we researched other Developer! Devel
 
 <a href="https://blog.dddperth.com/our-journey-towards-diversity-1d9796475f24" target="_blank">DDD Perth has a blog on the positive impact of having an anonymous process on the diversity of their conference.</a> This was most likely one of the event's we got the idea from.
 
-<br/>
-
 ## What are the positives?
----
 
-<br/>
+---
 
 ### Less intimidating for less experienced speakers.
 
@@ -69,7 +64,7 @@ As we want our speakers to feel comfortable and prepared, and for our attendees 
 
 <strong>Speakers Workshop.</strong>
 
-Our speakers and volunteers were invited to a speakers workshop to help with presentation and slide creation. It is a fantastic, hands-on workshop lead by <a href="https://dylanbeattie.net/" target="_blank">Dylan Beattie</a>. To find out more check out <a href="https://blog.dddeastmidlands.com/2019/07/08/recappin-post.html" target="_blank">this blog by Riz who attended the day.</a>
+Our speakers and volunteers were invited to a speakers workshop to help with presentation and slide creation. It is a fantastic, hands-on workshop lead by <a href="https://dylanbeattie.net/" target="_blank">Dylan Beattie</a>. To find out more check out <a href="https://blog.dddeastmidlands.com/blog/recappin-post/" target="_blank">this blog by Riz who attended the day.</a>
 
 <strong>Mentoring.</strong>
 
@@ -79,8 +74,6 @@ We offer mentorship by experienced, international speakers to those who request 
 
 There are some extra forms of support for our speakers that I am currently looking into for the conference in 2020
 
-<br/>
-
 ### We believe everyone has something valuable to teach.
 
 Everyone has different experiences, and therefore something unique we can learn from. Not only that, but whether you work at a huge well-known company, or a company no one has heard of before, we all deal with overlapping and interesting issues. 
@@ -88,8 +81,6 @@ Everyone has different experiences, and therefore something unique we can learn 
 Technology is a vast field with many topics and many ways to tackle individual problems. Each company faces their own ways with dealing with issues and their own unique flavour of how they approach things. No single person walks the same path and has the same experiences, outlook or opportunities another person has.
 
 We can all learn from each other. 
-
-<br/>
 
 ### Removing bias
 
@@ -105,16 +96,11 @@ After voting has finished, the organisers do get to see the speaker details. We 
 
 The anonymity is an effort to keep the selection process as fair and equitable as possible. Conscious or unconscious, we all have some bias. It's human nature. By having everyone presented to the voters in the same way without having identifiable or differentiating characteristics presented clearly, we hope to decrease any influences outside the talk content.
 
-<br/>
-
 ## Any negatives?
+
 ---
 
-<br/>
-
 As mentioned, this isn't an exact science and it won't suit everybody's needs. There are a few aspects that we should explore as potential negatives.
-
-<br/>
 
 ### Can't pick based on workplace, speaking reputation or known experience.
 
@@ -136,8 +122,6 @@ Neither way is right or wrong, it just offers variety. We attend, apply to and e
 
 As mentioned previously, though we have no concerns about any of the submissions received, we offer help and support to speakers. Some may be less experienced, but we try to make speaking enjoyable, comfortable and to have everyone prepared to deliver their content well.
 
-<br/>
-
 ### Sometimes you can still figure out who speakers are.
 
 Because speakers do present content in multiple places (this is a good thing), sometimes a talk title or abstract may get recognised as being a certain speaker. Different people's writing styles can also have an impact on whether they get picked, or indicate something about themselves.
@@ -146,13 +130,11 @@ We encourage those who submit not to share their talk titles on social media (as
 
 We are aware it's not a bullet proof way of ensuring equity or equality, but it at least has some effect.
 
-<br/>
-
 ### You need to be able to write a good description to get selected.
 
 As speakers are voted on based on their talk title and description, these need to be written in a way that's clear and attractive. This is really hard for most people. If you add in aspects which can cause some challenges writing in English, it may not be fair to some.
 
-To combat this we have written a <a href="https://blog.dddeastmidlands.com/category/how-to-talk/index.html" target="_blank">series of blogs with resources</a> to help with writing an abstract and bio. We have also toured a talk around local meetups with these points and have some people who will review and give feedback for talk titles and descriptions to anyone who asks for help. 
+To combat this we have written a <a href="https://blog.dddeastmidlands.com/tag/talking-tips" target="_blank">series of blogs with resources</a> to help with writing an abstract and bio. We have also toured a talk around local meetups with these points and have some people who will review and give feedback for talk titles and descriptions to anyone who asks for help. 
 
 <br/>
 
@@ -163,12 +145,6 @@ Hopefully this answers a few questions about why we chose to have anonymous subm
 
 We are currently planning DDD East Midlands for next year and there is _A LOT_ to look forward to. We hope you enjoyed last years and will continue to support us.
 
-See you again,
-
-_Jess._
-
 ---
 
-<div style="text-align:center; width:20%; margin-left: 10%;" markdown="1">
-<img src="{{site.baseurl}}/assets/logo.png" alt="Logo">
-</div>
+

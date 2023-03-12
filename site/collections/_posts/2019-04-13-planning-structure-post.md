@@ -15,8 +15,6 @@ author_name: Jessica White
 
 ---
 
-<br/>
-
 # Introduction
 
 ---
@@ -29,8 +27,6 @@ If you don’t consider the structure or flow of your talk, you can end up havin
 
 There are a number of techniques and approaches to solving this problem. In this article, we will outline a few of these. Chop and change them to suit your needs.
 
-<br/>
-
 # The bullet point list
 
 ---
@@ -39,8 +35,6 @@ It’s simple but it works. This is my first point of call after talking through
 
 These bullets are also useful when practising what you are going to say, as they will most likely cover the main points you want to talk about.
 
-<br/>
-
 # The flow diagram
 
 ---
@@ -48,8 +42,6 @@ These bullets are also useful when practising what you are going to say, as they
 If you prefer boxes and lines, the bullet points of ideas can translate into a flow diagram. Does it make sense to go from one point to another? Do you need to consider transition, and how will you transition between these points? Is there a clear start and finish and if not, how can you make it feel finished at the end?
 
 Each box can then be translated into a key point, a slide or both.
-
-<br/>
 
 # The ‘storyboard’
 
@@ -67,8 +59,6 @@ I personally use this in combination with the first technique. It suits my perso
 
 Some people who use bullet points have said this style helps them limit the text they want to show. By having less room to write on their “comic strip” they are restricted to writing only the key points.
 
-<br/>
-
 # Telling a story
 
 ---
@@ -79,15 +69,11 @@ Incorporating one of these storytelling flows can be challenging for some and of
 
 Give it a try, and see if it works for you.
 
-<br/>
-
 ## From the end to start
 
 This is a technique used by [Brunty](https://twitter.com/Brunty?lang=en-gb). They start with the final point they want to make and work backwards from there. It helps some to maintain a direction, rather than starting at the beginning and finding that they’ve gone off on a tangent and not reached the point they wanted to at the end.
 
 He often writes the closing slides first. They’ll likely change, as through writing the slides the message can evolve, but he finds that by keeping a focus on the closing statement it keeps him in the general right direction
-
-<br/>
 
 ## Audience Driven Development
 
@@ -108,30 +94,3 @@ These are but a few techniques. Even more will be covered in the speaker’s wor
 Good luck, and let us know if any of these techniques work for you, or if you have any we haven’t considered.
 
 ---
-
-Until next time,
-
-_Jess_
-
-<br/>
-
----
-
-## Series
-
-_How To Talk Really, Really Good_
-
-* <a href="{{site.baseurl}}/2019/01/07/intro-to-this-series.html">How To Talk Part 0 - Coming up with a talk</a>
-* <a href="{{site.baseurl}}/2019/01/08/coming-up-with-a-talk-post.html">How To Talk Part 1 - Coming up with a talk</a>
-* <a href="{{site.baseurl}}/2019/02/08/writing-a-talk-proposal-post.html">How To Talk Part 2 - Writing a good talk proposal</a>
-* <a href="{{site.baseurl}}/2019/02/23/sparkling-biographies-post.html">How To Talk Part 3 - Sparkling Biographies</a>
-* <strong><a href="{{site.baseurl}}/2019/04/13/planning-structure-post.html">How To Talk Part 4 - Planning Structure</a></strong>
-* <a href="{{site.baseurl}}/2019/05/07/considering-flow-post.html">How To Talk Part 5 - Considering Flow</a>
-* <a href="{{site.baseurl}}/2019/09/07/building-confidence-post.html">How To Talk Part 6 - Confidence and Practicing</a>
-* <a href="{{site.baseurl}}/2019/10/10/social-media-wizardry.html">How To Talk Part 7 - Social Media Wizardry</a>
-
----
-
-<div style="text-align:center; width:20%; margin-left: 10%;" markdown="1">
-<img src="{{site.baseurl}}/assets/logo.png" alt="Logo">
-</div>

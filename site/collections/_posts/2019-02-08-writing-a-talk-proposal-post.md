@@ -8,23 +8,19 @@ tags: ['Talking-Tips']
 author_name: Jessica White
 ---
 
-
 ----
 <center>
 <h3 class="quote"><i>Tell us about your talk.</i> </h3>
 </center>
 
 ---
-<br/>
 
 # Introduction
 ---
 
-Assuming you have read <a href="{{site.baseurl}}/2019/01/08/coming-up-with-a-talk-post.html">Coming up with a talk</a> and now have a few potential talk ideas. What's next?
+Assuming you have read <a href="https://blog.dddeastmidlands.com/blog/coming-up-with-a-talk-post/">Coming up with a talk</a> and now have a few potential talk ideas. What's next?
 
 In this post, we will explore what is involved in writing a talk proposal. As part of this, we'll share some of the tips we’ve been given, from people much more experienced than us, while writing our previous proposals.
-
-<br/>
 
 ## What do you mean by talk proposal?
 
@@ -34,8 +30,6 @@ A talk proposal is _a short summary describing your talk_. There are a few diffe
 - CFS / Call For Speakers
 - Abstract
 - Summary
-
-<br/>
 
 ## What is the purpose of it?
 
@@ -59,8 +53,6 @@ This is one of the things that can help you get selected to speak, but also gath
 
 I know, too many people coming to hear you speak does sound scary but from personal experience, it’s not as scary as talking to one solitary person in a room. That starts to feel _really_ personal.
 
-<br/>
-
 # The First Thing To Do Is Research.
 ---
 
@@ -68,13 +60,9 @@ We are prepared to jump in, upskill and write this mind-blowing talk proposal! B
 
 You’ve already got your list of talk ideas, and you probably have a conference or two in mind to submit to. If there is a specific conference you are aiming for, it’s not a bad idea to do a bit of research on them.
 
-<br/>
-
 ### Does your talk fit the conference's themes and preferences?
 
 Some conferences will be looking for talks with a certain bias. Maybe they prefer demo heavy talks. Maybe they specialise more towards diversity. If this is the case, you will want to frame your talk proposal in a way that is appealing to the body that picks the talks. You’ll want to emphasise why your talk is good for their conference.
-
-<br/>
 
 ### Is there a pattern to the talk descriptions that get picked?
 
@@ -84,16 +72,12 @@ This can lead to you having a few different versions of the same talk proposal, 
 
 DDD East Midlands is a general technology conference with no bias. All talks are chosen by our attendees using popularity vote. All they see is the talk title and description. As such, there’s no need to be concerned about any emphasis on any aspect of your talk for this particular conference.
 
-<br/>
-
 # What to consider when writing the talk proposal
 ---
 
 For such a short block of text, there are a number of factors that you need to consider. Remember, we are trying to sell our talk, be descriptive of the context, show that our viewpoint is unique, interesting and maybe informative all in less than 250 words! This is not an easy thing to pull off.
 
 Don’t worry though. We are here to walk you through some of the points you need to keep in mind so you are ready to wield your awesome talk in a way that will knock socks off.
-
-<br/>
 
 ## Be Clear
 
@@ -114,8 +98,6 @@ If you can’t tell already; this is something I struggle with myself. Grammar a
 - Asking someone to proofread what you’ve written
 - Using plug-ins such as [Grammarly](https://app.grammarly.com/)
 - Carefully reading aloud to someone what you have written. It doesn’t need to be a person. My stuffed toy Charmander has been a very good listener when I’ve been checking the flow of proposals and talks.
-
-<br/>
 
 ## Be Plain
 
@@ -146,8 +128,6 @@ Avoid using acronyms. If you can’t avoid them, put the explicit rendition of t
 There are many acronyms used in our industry, and annoyingly, a lot of them are used interchangeably.
 
 **By writing in this way, more people will understand what you want to talk about and can determine if the content is relevant to them.**
-
-<br/>
 
 ## Why will people care?
 
@@ -240,9 +220,7 @@ This includes your talk titles and descriptions. Two wise men called Bill and Te
 
 Read the code of conduct for the event you are applying to. Make sure you adhere to it.
 
-For inclusivity’s sake as well, if you have flashing imagery, loud noises or anything that may be detrimental to attendees with specific needs, try to let the organiser know in advance so they can add warnings if needed.
-
-<br/>
+For inclusivities sake as well, if you have flashing imagery, loud noises or anything that may be detrimental to attendees with specific needs, try to let the organiser know in advance so they can add warnings if needed.
 
 # The Structure
 ---
@@ -275,8 +253,6 @@ See the bottom of this blog for links to other advise, or use your Googling skil
 
 I’ve only been speaking for less than 18 months and by no means am I an expert. The next point of this blog post is the most important one and it is how I’ve come to learn all these fun facts.
 
-<br/>
-
 # Getting feedback
 ---
 If you can, don’t just get feedback from your peers or loved ones, but from those who have done this for a while, or have been involved in the conference process.
@@ -285,8 +261,6 @@ If you can, don’t just get feedback from your peers or loved ones, but from th
 - You could discuss the interest in speaking with someone at a conference.
 - [HelpMeAbstract](http://helpmeabstract.com/) is also a great resource for finding speakers with experience who are happy to help you with your plight.
 - If you are brave enough, put yourself out there and ask who might be interested in looking over your abstract’s or talking through your ideas. Social media can be a wonderful thing to the cheeky sometimes.
-
-<br/>
 
 # Submit “All The Things!”
 ---
@@ -305,8 +279,6 @@ If you have 3 abstracts, submit them all to several conferences. The one(s) that
 - You will have to face a lot of rejection and that is NEVER easy.
 - You might get more than you bargained for. I’ve known people that have done this, got all their talks selected and had to perform three different talks in one month.
 
-<br/>
-
 # Prepare for not being selected
 ---
 
@@ -320,17 +292,6 @@ It is never personal. Sometimes it’s just because there is a lot of fantastic 
 
 As for individual critique, not everyone will be happy with your content and that is fine. You can’t please everyone in life or in literature. Again, it’s not personal, try not to take it too badly and remember: the talks that I haven't personally enjoyed or benefited from are the ones I can’t remember. I imagine this is the same for others. If the worst case is that you are forgettable to one individual but your content helps and informs one or more person — well, that’s not a bad job really is it?
 
-<br/>
-
-# Good Luck
-
-You are armed and ready to submit. How do you submit and what links are useful? Check out these two blogs for how to submit
-
-* <a href="{{site.baseurl}}/2019/02/08/sessionize-post.html">Using Sessionize To Submit</a>
-* <a href="{{site.baseurl}}/2020/02/02/sessionize-post.html">Submitting a talk for DDD East Midlands 2020</a>
-
-<br/>
-
 ## Here Are Some Links To Help
 
 - [Writing a CFP — Speaking.IO](https://speaking.io/plan/writing-a-cfp/)
@@ -342,22 +303,3 @@ You are armed and ready to submit. How do you submit and what links are useful? 
 - [Tech Nottingham’s Speaking Resources](https://www.technottingham.com/speaking-resources)
 
 ---
-
-## Series
-
-_How To Talk Really, Really Good_
-
-* <a href="{{site.baseurl}}/2019/01/07/intro-to-this-series.html">How To Talk Part 0 - Coming up with a talk</a>
-* <a href="{{site.baseurl}}/2019/01/08/coming-up-with-a-talk-post.html">How To Talk Part 1 - Coming up with a talk</a>
-* <strong><a href="{{site.baseurl}}/2019/02/08/writing-a-talk-proposal-post.html">How To Talk Part 2 - Writing a good talk proposal</a></strong>
-* <a href="{{site.baseurl}}/2019/02/23/sparkling-biographies-post.html">How To Talk Part 3 - Sparkling Biographies</a>
-* <a href="{{site.baseurl}}/2019/04/13/planning-structure-post.html">How To Talk Part 4 - Planning Structure</a>
-* <a href="{{site.baseurl}}/2019/05/07/considering-flow-post.html">How To Talk Part 5 - Considering Flow</a>
-* <a href="{{site.baseurl}}/2019/09/07/building-confidence-post.html">How To Talk Part 6 - Confidence and Practicing</a>
-* <a href="{{site.baseurl}}/2019/10/10/social-media-wizardry.html">How To Talk Part 7 - Social Media Wizardry</a>
-
----
-
-<div style="text-align:center; width:20%; margin-left: 10%;" markdown="1">
-<img src="{{site.baseurl}}/assets/logo.png" alt="Logo">
-</div>

@@ -15,7 +15,6 @@ author_name: Jessica White
 </center>
 
 ---
-<br/>
 
 # Introduction
 ---
@@ -24,11 +23,8 @@ Coming to Nottingham, October 2019 — a tech conference with the aim to celebra
 
 The East Midlands has a lot to boast about in terms of the tech companies, talent, and community it contains. The DDD East Midlands team thinks that the East Midlands demonstrates the perfect blend of the professional corporate businesses and the innovative independents and this bleeds right through to the tech scene. This unique and perfect mix of the traditional and contemporary is reflected in the event we are planning. It is part of the multi-national Developer! Developer! Developer! conference community, but with a focus on promoting the talent, companies, and the amazing tech community the East Midlands has to offer.
 
-<br/>
-
 # What has DDD got to do with it?
 ---
-
 
 DDD, in this case, does not stand for ‘Domain Drive Design’ but ‘Developer! Developer! Developer’ (confusing, we know). The DDD umbrella was first formed as a conference in 2005, the first event happening in Reading, UK. Since then, it has generated many spin-off events across the world.
 
@@ -44,17 +40,8 @@ Though the original DDD conference is focused on .NET, DDD East Midlands is goin
 
 - Agenda is democratically chosen by attendees and organizers. Attendees vote on the talks they would like to see at the event.
 
-<br/>
-
 # Enough of that! Tell me about DDD East Midlands!
 ---
-
-<br/>
-<img src="/assets/img/2019-01-06/venue.png" alt="Venue - The Nottingham Conference Centre" width="100%"/>
-<center>
-<i>The Nottingham Conference Centre</i>
-</center>
-<br/>
 
 Hosted in the beautiful, modern building of The Nottingham Conference Centre, which is one of the largest educational buildings in Nottingham City Center, the conference will consist of a keynote and 15 one-hour talks split into 3 tracks. The talks will be submitted anonymously and be voted on by attendees, with the most popular being chosen.
 
@@ -85,13 +72,6 @@ We are thinking beyond the event. We don’t want to just encourage people to jo
 
 - Connections, friendships, meet-cutes. It would be fantastic if our event expanded and added to the already amazing local tech community. We love the east midlands and the tech industry in it. You’ve been great to us, and we want to give something back.
 
-<br/>
-<img src="/assets/img/2019-01-06/blobby.png" alt="Andrew Seward Hugging Mr Blobbly" width="100%"/>
-<center>
-<i>Andrew Seward Hugging Mr Blobbly (Moreton)</i>
-</center>
-<br/>
-
 ## …But not just the tech community…
 
 DDD East Midlands is trying to use local businesses as much as possible because our local independents are great. From videography from <a href="https://shuttersocks.uk/" target="_blank">ShutterSocks</a> to a coffee cart from <a href="https://www.cartwheelcoffee.com/" target="_blank">Cartwheel</a> _(sponsorship still available for this)_ we want to celebrate the greatness of the East Midlands in as many ways as we can.
@@ -105,14 +85,8 @@ DDD East Midlands is trying to use local businesses as much as possible because 
 
 - Consider volunteering. A request for volunteers will go out next year. Help your community have an awesome event by helping us.
 
-
-
 ---
 <center>
 <h3 class="quote"><i>Thanks for reading & giving your support.</i></h3>
 </center>
 ---
-
-<div style="text-align:center; width:20%; margin-left: 10%;" markdown="1">
-<img src="{{site.baseurl}}/assets/logo.png" alt="Logo">
-</div>

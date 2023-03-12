@@ -29,8 +29,6 @@ Like any good tale, the flow of talk helps to keep the listeners engaged, make t
 
 There are numerous ways to approach flow and flow itself is a beast that comes in a variety of forms.
 
-<br/>
-
 # What are the points you want to get across?
 
 ---
@@ -38,8 +36,6 @@ There are numerous ways to approach flow and flow itself is a beast that comes i
 Personally, I start with bullet points as I do with everything. I consider what I want the main takeaways from the talk to be.
 
 I then sub-bullet with any analogies, examples or links I would want to make for each point. At this stage, I know what the story is that I want to bring structure to.
-
-<br/>
 
 # What is the best way to present this information?
 
@@ -53,16 +49,12 @@ A resource I am particularly fond of is this one from [this Sparkol Blog](https:
 
 It not only explored 8 different storytelling techniques but gives examples of them in action, demonstrating their different impacts.
 
-<br/>
-
 # Teaching yourself more about storytelling techniques.
 
 ---
 
 As I mentioned I am still learning about this particular area. Here are some tips and resources I have received from other speakers:
 
-
-<br/>
 
 ## Go on a writers course/retreat.
 
@@ -87,8 +79,6 @@ Depending on the flow of your talk and how you intend to present your informatio
 
 ---
 
-<br/>
-
 # Presentation is an art
 
 ---
@@ -96,29 +86,4 @@ Explore the different mediums in which you can present your ideas. Experiment. H
 
 Not all the attempts will be successful, and undoubtedly your talks will evolve over time. Your style will change. Sometimes, your viewpoint will change.
 
-Good Luck!
-
-_Jess_
-
-<br/>
-
 --- 
-
-## Series
-
-_How To Talk Really, Really Good_
-
-* <a href="{{site.baseurl}}/2019/01/07/intro-to-this-series.html">How To Talk Part 0 - Coming up with a talk</a>
-* <a href="{{site.baseurl}}/2019/01/08/coming-up-with-a-talk-post.html">How To Talk Part 1 - Coming up with a talk</a>
-* <a href="{{site.baseurl}}/2019/02/08/writing-a-talk-proposal-post.html">How To Talk Part 2 - Writing a good talk proposal</a>
-* <a href="{{site.baseurl}}/2019/02/23/sparkling-biographies-post.html">How To Talk Part 3 - Sparkling Biographies</a>
-* <a href="{{site.baseurl}}/2019/04/13/planning-structure-post.html">How To Talk Part 4 - Planning Structure</a>
-* <a href="{{site.baseurl}}/2019/05/07/considering-flow-post.html">How To Talk Part 5 - Considering Flow</a>
-* <a href="{{site.baseurl}}/2019/09/07/building-confidence-post.html">How To Talk Part 6 - Confidence and Practicing</a>
-* <a href="{{site.baseurl}}/2019/10/10/social-media-wizardry.html">How To Talk Part 7 - Social Media Wizardry</a>
-
----
-
-<div style="text-align:center; width:20%; margin-left: 10%;" markdown="1">
-<img src="{{site.baseurl}}/assets/logo.png" alt="Logo">
-</div>

@@ -15,10 +15,8 @@ author_name: Jessica White
 </center>
 
 ---
-<br/>
 
 # Introduction
----
 
 Here we will cover some hints and tips to help your social media presence coming up to and after your talk. There are a few advantages to this:
 
@@ -27,8 +25,6 @@ Here we will cover some hints and tips to help your social media presence coming
 - Saves time and effort of "on the fly" social media.
 - It can take some pressure off ensuring you deliver all your content.
 
-<br/>
-
 ## Handles And Hashtags On Slides
 
 At the top corner of all my slides I add the following:
@@ -36,12 +32,6 @@ At the top corner of all my slides I add the following:
 - Hashtag and/or Twitter handle of the event I am speaking at
 - My own Twitter Handle
 - Sometimes a hashtag for the talk
-
-<img src="/assets/img/2019-10-10/slide1.png" alt="Example slide with Twitter Handle in top corner"/>
-<center>
-<i>Example slide with Twitter Handle in top corner</i>
-</center>
-<br/>
 
 This is a hint to the attendees what to include when they are tweeting a picture or a quote. It helps give me visibility of the tweets and also gives the event visibility of the social media activity generated from the talk.#
 
@@ -52,8 +42,6 @@ This is a hint to the attendees what to include when they are tweeting a picture
 ---
 
 If you put this information at the bottom of the slide, it might get blocked by someone's head.
-
-<br/>
 
 ## Make Your Slides Available
 
@@ -88,8 +76,6 @@ I personally use <a href="https://noti.st/" target="_blank">Noti.st</a> for my s
 
 
 Others use <a href="https://www.slidedeck.com/" target="_blank">Slidedeck</a> or <a href="https://support.google.com/docs/answer/183965?co=GENIE.Platform%3DDesktop&hl=en" target="_blank">publish their Google Slides link</a>. Their are a lot of options for sharing your slides.
-
-<br/>
 
 ## Timed Posts And Managing Responses
 
@@ -145,18 +131,9 @@ I use <a href="https://tweetdeck.twitter.com/" target="_blank">TweetDeck</a> for
 
   By following all those streams you can have personalised tracks of information about your  account and your talk, but also about what is going on at the conference you are present  at. It aids answering tweets directed at you and sharing posts about you.
 
-<img src="/assets/img/2019-10-10/tweetdeck.png" alt="Screenshot of Tweetdeck columns"/>
-<center>
-<i>Screenshot of TweetDeck columns</i>
-</center>
-<br/>  
-
-
 - **Reply from the app**
   
   Everything can be managed from the site. It's relatively intuitive. You can schedule posts, reply, retweet, quote, like and more.
-
-<br/>
 
 ## Blogging To Support Content
 
@@ -169,19 +146,14 @@ I can reference these blogs within the talks I do, I don't have to panic about m
 These blogs I schedule to share after my talk, or reference as one of the resources.
 
 
-<br/>
-
 ---
 <center>
 <h4 class="quote">There's my social media wizardy. Please share your hint and tips with us #dddem</h4>
 </center>
 ---
 
-<br/>
 
 ## Here Are Some Links To Help
-
----
 
 #### Sharing Presentations
 
@@ -195,27 +167,4 @@ These blogs I schedule to share after my talk, or reference as one of the resour
 - <a href="https://buffer.com/" target="_blank">Buffer</a>.
 - <a href="https://tweetdeck.twitter.com/" target="_blank">TweetDeck</a>
 
-
-<br/>
-
-## Series
-
 ---
-
-_How To Talk Really, Really Good_
-
-* <a href="{{site.baseurl}}/2019/01/07/intro-to-this-series.html">How To Talk Part 0 - Coming up with a talk</a>
-* <a href="{{site.baseurl}}/2019/01/08/coming-up-with-a-talk-post.html">How To Talk Part 1 - Coming up with a talk</a>
-* <a href="{{site.baseurl}}/2019/02/08/writing-a-talk-proposal-post.html">How To Talk Part 2 - Writing a good talk proposal</a>
-* <a href="{{site.baseurl}}/2019/02/23/sparkling-biographies-post.html">How To Talk Part 3 - Sparkling Biographies</a>
-* <a href="{{site.baseurl}}/2019/04/13/planning-structure-post.html">How To Talk Part 4 - Planning Structure</a>
-* <a href="{{site.baseurl}}/2019/05/07/considering-flow-post.html">How To Talk Part 5 - Considering Flow</a>
-* <a href="{{site.baseurl}}/2019/09/07/building-confidence-post.html">How To Talk Part 6 - Confidence and Practicing</a>
-* <strong><a href="{{site.baseurl}}/2019/10/10/social-media-wizardry.html">How To Talk Part 7 - Social Media Wizardry</a></strong>
-
-
----
-
-<div style="text-align:center; width:20%; margin-left: 10%;" markdown="1">
-<img src="{{site.baseurl}}/assets/logo.png" alt="Logo">
-</div>

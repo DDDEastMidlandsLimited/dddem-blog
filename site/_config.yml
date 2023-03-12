@@ -8,6 +8,8 @@ plugins:
   - cloudcannon-jekyll
   - jekyll-feed
 
+future: true
+
 # Multiple bookshops can be used on one website,
 # or different production / staging locations.
 bookshop_locations:

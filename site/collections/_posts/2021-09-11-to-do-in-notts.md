@@ -14,9 +14,6 @@ author_name: Jessica White
 </center>
 ---
 
-
-<br/>
-
 ## Contents
 
 **[Hotels](#hotels)**
@@ -37,17 +34,11 @@ author_name: Jessica White
 
 **[Places to see and hang out](#places-to-see-and-hang-out)**
 
-<br/>
-
 ---
-
-<br/>
 
 ## Intro to this page
 
 While you are in Nottingham there are many ways to enjoy the city, so stay a while and make the most of it! This list will keep getting up dated on the run up to the event with more and more things to see do and eat!
-
-<br/>
 
 ## Hotels
 
@@ -57,14 +48,10 @@ While you are in Nottingham there are many ways to enjoy the city, so stay a whi
 - <a href="https://www.bwnottinghamcitycentre.co.uk/" target="_blank">Best Western</a>
 - <a href="https://all.accor.com/hotel/8061/index.en.shtml?dateIn=&nights=&compositions=1&stayplus=false#origin=ibis" target="_blank">Mercure</a>
   
-<br/>
-
 ## Other Activities
 
 - <a href="http://pennylanebars.com/explore-our-venue/" target="_blank">Penny Lane</a>
 - <a href="https://www.roxyballroom.co.uk/nottingham/" target="_blank">Roxy Ballroom</a>
-
-<br/>
 
 ## Food
 
@@ -75,7 +62,7 @@ While you are in Nottingham there are many ways to enjoy the city, so stay a whi
 - <a href="https://delilahfinefoods.co.uk/pages/delilah-eat-in-menu" target="_blank">Delilahs</a>
 - <a href="https://www.cleancutkitchen.co.uk/" target="_blank">Clean Cut Kitchen</a>
 - <a href="https://www.instagram.com/yolk.notts/?hl=en" target="_blank">Yolk</a>
-- - <a href="https://shop.cartwheelcoffee.com/" target="_blank">Cartwheel</a>
+- <a href="https://shop.cartwheelcoffee.com/" target="_blank">Cartwheel</a>
 
 
 ### Dinner
@@ -92,9 +79,6 @@ While you are in Nottingham there are many ways to enjoy the city, so stay a whi
 - <a href="https://www.revoluciondecuba.com/bar/nottingham/menus/?scroll=1" target="_blank">Revolution De Cuba</a>
 - <a href="https://www.turtlebay.co.uk/food-and-drink" target="_blank">Turtle Bay</a>
 - <a href="https://www.wagamama.com/restaurants/nottingham/nottingham" target="_blank">Wagamamas</a>
-- <a href="https://truebarbecue.com/nottingham/" target="_blank">Reds True Barbecue</a>
-
-<br/>
 
 ## Coffee
 
@@ -102,36 +86,25 @@ While you are in Nottingham there are many ways to enjoy the city, so stay a whi
 - <a href="https://200degs.com/nottingham-flying-horse-walk" target="_blank">200 Degrees</a>
 - <a href="https://www.outpost.coffee/" target="_blank">Outpost</a>
 - <a href="https://www.blendnottingham.co.uk/" target="_blank">Blend</a>
-- <a href="https://www.thespecialtycoffeeshop.com/" target="_blank">The Specialty Coffee Shop</a>
-- <a href="https://www.coffeehouseon.com/" target="_blank">The Coffee House</a>
-
-<br/>
 
 ## Ales
 
 This page has an excellent list of <a href="https://www.nottinghamcraftbeer.co.uk/venues" target="_blank">Craft Beer Venues</a>. We have a lot of local brews for you to try and cosy venues to try them in!
 
-<br/>
-
 ## Cocktails
 
 - <a href="http://thewalrusnottingham.com/" target="_blank">The Walrus</a>
-- <a href="https://boilermakerbar.co.uk/" target="_blank">Boilermaker</a>
 - <a href="https://www.tiltbar.co.uk/" target="_blank">Tilt</a>
 - <a href="https://thealchemist.uk.com/venues/nottingham-king-street/" target="_blank">The Alchemist</a>
 - <a href="https://www.cocotang.co.uk/" target="_blank">Coco Tang</a>
 - <a href="http://thehockleyartsclub.com/" target="_blank">The Hockley Arts Club</a>
 - <a href="hhttp://pennylanebars.com/explore-our-venue/" target="_blank">Penny Lane</a>
 
-<br/>
-
 ## Boardgames
 
 - <a href="https://www.ludoraticafe.com/" target="_blank">Ludorati</a>
 - <a href="https://dicecupcafe.co.uk/" target="_blank">Dicecup</a>
   
-<br/>
-
 ## Escape Rooms
 
 - <a href="https://www.escapologic.com/nottingham-escape-rooms/" target="_blank">Escapologic</a>
@@ -139,14 +112,10 @@ This page has an excellent list of <a href="https://www.nottinghamcraftbeer.co.u
 - <a href="https://logiclock.co.uk/" target="_blank">Logiclock</a>
 - <a href="https://cryptologyrooms.co.uk/nottingham/" target="_blank">Cryptology</a>
 
-<br/>
-
 ## Independent Book Stores
 
 - <a href="http://www.page45.com/" target="_blank">Page45</a>
 - <a href="https://fiveleavesbookshop.co.uk/" target="_blank">Five Leaves</a>
-
-<br/>
 
 ## Places to see and hang out
 
@@ -154,18 +123,8 @@ This page has an excellent list of <a href="https://www.nottinghamcraftbeer.co.u
 - <a href="https://sneintonmarket.com/" target="_blank">Sneinton Market</a>
 - <a href="https://www.nottinghamcastle.org.uk/" target="_blank">Nottingham Castle</a>
 
-<br/>
-
 ---
-
-<br/>
-
-Hope you enjoy your time in our awesome city!
-
-Stay safe,
-
-_Jess_
-
-<div style="text-align:center; width:20%; margin-left: 10%;" markdown="1">
-<img src="{{site.baseurl}}/assets/logo.png" alt="Logo">
-</div>
+<center>
+<h3 class="quote"><i>Hope you enjoy your time in our awesome city!</i></h3>
+</center>
+---

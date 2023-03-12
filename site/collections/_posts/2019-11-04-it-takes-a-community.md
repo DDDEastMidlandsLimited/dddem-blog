@@ -16,8 +16,6 @@ author_name: DDD East Midlands
 
 ---
 
-<br/>
-
 As with a lot of things in my recent life, it all started in a coffee shop.
 
 <a href="https://twitter.com/stephenhaunts" target="_blank">Stephen Haunts</a> (who had just started his own business) and <a href="https://twitter.com/BarryPMills" target="_blank">Barry Mills</a> (who had recently been promoted at work) persuaded Moreton and I to run Developer! Developer! Developer! East Midlands.
@@ -36,16 +34,12 @@ It was by no means an easy event for us. It was our first time running an event 
 
 There is something that we glossed over in our Closing Ceremony that I would like to spend some time to go into more detail about. Though Moreton and I are the founders and organisers of this event, we have had help in many forms and from many directions. This event was celebrating the local tech community, and it couldn't have gone as smoothly as it did without the input and passion of the same community.
 
-<br/>
-
 # Many Thanks From Us.
 ---
 
 This will not be a comprehensive list as there were many people involved at different stages of this process. If you are missed out - you have not been forgotten and we are still incredibly grateful.
 
 There are a lot of groups of people and individuals that we would love to give mention and thanks to. 
-
-<br/>
 
 ### Community Members
 
@@ -80,21 +74,11 @@ We are really grateful to those who gave a helping hand with what we needed and 
 
 There are others, but the list will be very long if we mention you all. Thank you everyone for your help from driving us to places, to the friendly words of support.
 
-<br/>
-
 ### The Crew
 
 The evening before and on the the day, the crew of volunteers went above and beyond. They set up the many bags and lanyards. They made sure that the attendees were okay throughout the fire alarms and evacuations. They did everything we could want and more throughout the day.
 
 I cannot emphasise enough how great the crew were. They made a big job a lot easier and more enjoyable. 
-
-<br/>
-
-<img src="/assets/img/2019-11-04/crew.png" alt="The Volunteer Crew standing around a DDD East Midlands sign in their green hoodies" width="100%"/>
-<center>
-<i> — The DDD East Midlands Crew</i>
-</center>
-<br/>
 
 Thank you 
 
@@ -106,21 +90,15 @@ Thank you
 | - Ashton | - <a href="https://twitter.com/hawx" target="_blank">Joshua</a> |
 | - <a href="https://twitter.com/codesleuth" target="_blank">David</a> | - <a href="https://twitter.com/yetmorestuff" target="_blank">Michael</a> |
 
-<br/>
-
 ### Mentors
 
 As some of you know we hosted a speakers workshop before the conference for those speaking at DDD East Midlands Conference. This session was lead by <a href="https://twitter.com/dylanbeattie" target="_blank">Dylan Beattie</a> and was a great day which you can read about <a href="https://blog.dddeastmidlands.com/2019/07/08/recappin-post.html" target="_blank">in this blog by Riz.</a>
 
 As well as offering a speakers workshop we also offered any speakers who indicated that they may want support mentorship. <a href="https://twitter.com/GosiaBorzecka" target="_blank">Gosia</a> and <a href="https://twitter.com/Brunty" target="_blank">Brunty</a> mentored those speakers and did so in their free time. We are really grateful for their generosity as, I imagine, are their mentees.
 
-<br/>
-
 ### Sponsors
 
 Again, thank you to our sponsors. Without sponsorship we couldn't run the event at all, and we also had a lot of fun at the exhibition area. We hope you all enjoyed meeting the sponsors and exhibition staff
-
-<br/>
 
 | <a href="https://www.bjss.com/" target="_blank">BJSS</a>  |  <a href="https://www.blenheimchalcot.com/" target="_blank">Bleheim Chalcot</a> |
 | <a href="https://www.myunidays.com/GB/en-GB/careers" target="_blank">UNiDAYS</a> | <a href="https://www.microlise.com/careers/" target="_blank">Microlise</a> |
@@ -131,8 +109,6 @@ Again, thank you to our sponsors. Without sponsorship we couldn't run the event 
 | <a href="https://mindera.com/" target="_blank">Mindera</a> | <a href="https://searchability.co.uk/" target="_blank">Searchability</a>  |
 | <a href="https://distinctrecruitment.com/get-in-touch/" target="_blank">Distinct Recruitment</a> | <a href="https://schoolofcode.co.uk/" target="_blank">School Of Code</a> |
 
-<br/>
-
 ### The Speakers
 
 At DDD East Midlands, the speakers are selected by the attendees. Not only did they deliver fantastic talks which you all enjoyed and learnt from, but the speakers on the day were really accommodating. In order to fit all the talks into the new schedule we asked everyone to shorten their talks by 10 minutes, which is a challenging proposal for a rehearsed talk, especially if you are newer to speaking. Everyone was happy to make this adjustment and made managing a difficult situation a lot easier.
@@ -141,27 +117,19 @@ Special thanks to the speakers from the first session who had their talks rudely
 
 You can find a full list of the speakers with their bios and links <a href="https://www.dddeastmidlands.com/speakers" target="_blank">here</a>. Please book them for your events!
 
-<br/>
-
 ### The Photographer and Videographers
 
 We were so happy to have <a href="https://www.abigneonglitter.co.uk/" target="_blank">Andrew Acford</a> and <a href="https://www.abigneonglitter.co.uk/" target="_blank">ShutterSocks</a> on board to do all the photography and videography for the event. They braved the horrid weather and really captured the event fantastically. Thank you folks!
 
-<br/>
-
 ### Coffee Cart
 
 The lovely people from <a href="https://www.cartwheelcoffee.com/" target="_blank">Cartwheel Coffee</a> provided some fantastic coffee throughout the day and certainly kept my caffeine levels at a healthy level. Thanks for sponsoring the coffee <a href="https://www.myunidays.com/GB/en-GB/careers" target="_blank">UNiDAYS</a>
-
-<br/>
 
 ### Venue Staff
 
 As mentioned in the closing ceremony, the venue staff were really helpful and responsive on the day. They provided the coat racks when it was wet and tried to get us back in the venue as quickly as they could while guaranteeing your safety during the "incidents".
 
 In my opinion, the food and snacks were also really good! So thank you to the catering staff at the venue as well.
-
-<br/>
 
 ### And everyone else
 
@@ -175,8 +143,6 @@ There are SO MANY people who contributed and made this event as good as it was. 
 
 Please keep contributing on GitHub, keep feeding back to us and we hope you'll all help us make next year great too.
 
-<br/>
-
 # My Personal Thanks.
 ---
 
@@ -184,21 +150,11 @@ As I've said throughout, it has taken a lot of people to make DDDEM a successful
 
 I would like to take this opportunity to give explicit thanks to <a href="https://twitter.com/allmobro" target="_blank">Moreton Brockley.</a> In our pairing I'm the more visible one as I am loud, excitable and all over social media. As such sometimes Moreton doesn't get the recognition I know he deserves.
 
-<br/>
-
-<img src="/assets/img/2019-11-04/moreton.png" alt="Moreton Brockely presenting at DDD East Midlands" width="100%"/>
-<center>
-<i> — Moreton Brockley presenting at DDD East Midlands. Photo by <a href="https://www.abigneonglitter.co.uk/" target="_blank">Andrew Acford.</a></i>
-</center>
-<br/>
-
 Moreton has spent the majority of his evenings, especially in recent months, doing work on DDDEM. He controlled the finances, the company and more. He was the main point of contact for all the volunteers, organised their schedules, supported them and lead that whole side of things. He actively hosted the Speakers Workshop with me, making sure that day went smoothly too.
 
 On top of all that, he's kept me sane.
 
 As many of you know Moreton is my partner in more ways than one. It's been an absolute pleasure getting to work with him on something we are both passionate about and I couldn't ask for a better partner in ~~crime~~ conference organisation.
-
-<br/>
 
 # Planning For Next Year Starts Now.
 ---
@@ -217,18 +173,6 @@ We are going to re-jig the sponsorship for next year based on what we've learnt.
 
 We will release videos of the talks, the photos of the event and will be doing a reskin of the website. We will be keeping a lot of the input from your contributions and adding more issues over the next twelve months.
 
-<br/>
-
 There is _A LOT_ to look forward to.
 
 Keep and eye on all our social media accounts for more updates in the near future. 
-
-I'll be talking to you soon,
-
-_Jess._
-
----
-
-<div style="text-align:center; width:20%; margin-left: 10%;" markdown="1">
-<img src="{{site.baseurl}}/assets/logo.png" alt="Logo">
-</div>

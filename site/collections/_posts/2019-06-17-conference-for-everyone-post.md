@@ -15,7 +15,6 @@ author_name: Jessica White
 </center>
 
 ---
-<br/>
 
 # Introduction
 ---
@@ -29,8 +28,6 @@ As the organisers of DDD East Midlands, we have a focus to try and reflect some 
 In the aim to carry these themes through we have approached each one in a few different ways, from the way talks are selected, through to considering some of the needs of those in attendance of the event.
 
 As this is a community focused event, we also want to be transparent on how we are trying to achieve these goals.
-
-<br/>
 
 # Talk Selection
 
@@ -64,8 +61,6 @@ There were a few caveats we put in place to make sure that this was still done i
 
 We did this to ensure the diversity in the conference in terms of experience speaking, gender, ethnicity and otherwise; while also respecting the choices made by popular vote. We have tried to do this in a fair and responsible way.
 
-<br/>
-
 # Talk Stats — How you have helped.
 
 ---
@@ -74,23 +69,11 @@ You, the attendees, have picked a brilliant range of talks. In terms of topic, l
 
 ## Different Levels Of Talks
 
-<img src="/assets/img/2019-06-17/graph.png" alt="Pie chart of talk levels" width="100%"/>
-<center>
-<i>Pie chart of talk levels</i>
-</center>
-<br/>
-
 As with most conferences, there is a trend towards introductory and overview level talks. There is something for everyone at all levels, and in our view, no matter your experience you can learn from most talks as they provide new perspectives and opinions.
 
 It is great that there is a mix of levels that have been selected, hopefully providing something for everyone on the day.
 
 ## Speakers With A Range Of Experiences
-
-<img src="/assets/img/2019-06-17/mentor-graph.png" alt="pie chart" width="100%"/>
-<center>
-<i>Pie chart of those who want mentorship</i>
-</center>
-<br/>
 
 As organisers, we are passionate about being a conference that is supportive of first-time speakers.
 Talks at local meetups on coming up with and submitting a talk.
@@ -132,7 +115,7 @@ As organisers we want the DDD East Midlands event to reflect the inclusivity of 
 
 ### Addressing Accessibility Concerns
 
-We have tried to cover as much information as we could think of on our <a href="https://www.dddeastmidlands.com/accessibility/" target="_blank">Accessibility Page</a>. It’s an aim that people can feel informed around their own specific needs before attending the event.
+We have tried to cover as much information as we could think of on our <a href="https://dddeastmidlands.com/information/accessibility-information/" target="_blank">Accessibility Page</a>. It’s an aim that people can feel informed around their own specific needs before attending the event.
 For diversity and first-time speakers, we’ve done a lot of outreach personally. We are going to groups and meetups, answering questions, putting a face to the event. Sometimes inclusivity concerns are hard to talk about, and submitting to talk is scary. We want to be approachable and for the experience of asking questions to be comfortable.
 
 ### The Opportunity To Sponsor Captioning
@@ -210,11 +193,3 @@ As part of running this event, we are trying to be transparent with a lot of the
 Yes, DDD East Midlands Conference aims to be an inclusive, supportive event that reflects the camaraderie of the local tech scene. This is made possible by the people in our community. It’s also a hope that some people outside our community will see these qualities and want to move here, work here and join in.
 
 We hope you enjoy the event. Just over 4 months remaining until the big day.
-
-J.
-
---- 
-
-<div style="text-align:center; width:20%; margin-left: 10%;" markdown="1">
-<img src="{{site.baseurl}}/assets/logo.png" alt="Logo">
-</div>

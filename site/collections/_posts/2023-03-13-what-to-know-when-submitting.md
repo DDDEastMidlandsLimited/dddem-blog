@@ -24,7 +24,7 @@ There are a few things you need to be aware of before you submit the form.
 
 # Before you decide to submit
 
-There are few frequently asked questions asked before some commit to a submitting a talk. In this section, we'll cover the questions that get asked the most.
+There are few frequently asked questions about talk submission. In this section, we'll cover the questions that get asked the most.
 
 ##  Are Travel and Expenses Covered?
 
@@ -35,6 +35,10 @@ The main reason for this  funding. As a not-for-profit with free tickets to atte
 It does also mean that the competition to speak is reduced a bit as due to lack to T&E funding the conference tends to have less international submissions.
 
 We are making efforts to encourage speakers for all experiences and backgrounds locally to submit and hope to still have a diverse range of speakers submit.
+
+##  What about visas for international speakers?
+
+No we don't. We don't have any support for international speakers.
 
 ##  Lengths of talks.
 

@@ -23,14 +23,6 @@ But this was different, this was a different vantage point.
 
 Here, we were looking at a genius break it down to 20(?) people in a room, with a possible route to finding our own brilliances to take on rooms and audiences, at any level. And when you’re given an opportunity like that, you make sure you don’t miss it.
 
-<br/>
-
-<img src="/assets/img/2019-07-08/morning.png" alt="The empty room in the morning" width="100%"/>
-<center>
-<i>The empty workshop room in the morning</i>
-</center>
-<br/>
-
 Which is why I arrived early. Suuuuuper early. I’m talking arrived-before-the-organizers early. One thing I’ve learned from this is: organizers + overflowing carrier bags (full of ALL THE THINGS) go hand-in-hand _(on that note: someone get Mary Poppins on the line, we need an address on that magic bag..)_.
 
 I instantly connected when Dylan shared that ‘an uninterrupted connection’ with your audience is what keeps a talk engaging. I also found it interesting how, even though he was coaching us on various Talks do’s and don’ts, Dylan was at the same masterfully delivering this talk on talks (M E T A) perfectly adhering to those same lessons he was teaching us, even when in his own shoes.
@@ -53,12 +45,6 @@ But you’ll have to believe this wonderstruck human’s inadequate brain in exp
 
 Imagine an adventure party voluntarily formed of the bravest souls (cough*including yours truly*cough) , valiantly venturing outside in the melting sun for the sole motivation for such a perilous journey: coffee. great coffee.
 
-<img src="/assets/img/2019-07-08/workshop.png" alt="The workshop attendees" width="100%"/>
-<center>
-<i>The workshop in full flow</i>
-</center>
-<br/>
-
 #### _2. Talks given by the attendees_
 
 Those in the audience who have had their talks selected for DDDEM rose to the occasion and presented quickly prep-ed 3 mins talks on a topic of their liking to the whole room. The rest of us then anonymously wrote down 1 thing we liked and 1 thing that could’ve been better on two post-its, for each of the speaker’s talk. Tell you what though, I really struggled finding the thing to improve for so many of them, they did so well!
@@ -66,12 +52,6 @@ Those in the audience who have had their talks selected for DDDEM rose to the oc
 #### _3. Chatting to old and newly-made friends_
 
 Truly, this is the kind of merry time that often gets overlooked. During the day, a lot of us were sat a table just chilling. Catching up with the old friends, introducing ourselves to new ones. Simple, happy moments that aren’t explicitly in the agenda but make your day, anyway.
-
-<img src="/assets/img/2019-07-08/notts-ladies.png" alt="Ladies of notts" width="100%"/>
-<center>
-<i>Some of my friends at the Workshop</i>
-</center>
-<br/>
 
 #### _4. Nailing a potential band album cover art with the lovely WiT ladies_
 
@@ -110,7 +90,3 @@ As I walked out, even the thick air outside could not get my spirits down.
 - <a href="https://rizwanakhan.com/rizamblings/ep6" target="_blank">Website</a>
 
 ---
-
-<div style="text-align:center; width:20%; margin-left: 10%;" markdown="1">
-<img src="{{site.baseurl}}/assets/logo.png" alt="Logo">
-</div>

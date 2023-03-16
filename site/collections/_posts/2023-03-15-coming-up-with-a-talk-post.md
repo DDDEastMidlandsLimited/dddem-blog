@@ -17,7 +17,7 @@ author_name: Jessica White
 
 # Introduction
 
-Congratulations! You have taken the very first step on your speaking journey. You have at considered giving a talk!
+Congratulations! You have taken the very first step on your speaking journey. You have considered giving a talk!
 
 Everyone in the community has something valuable to share, whether they are aware of it or not. It's really hard to recognise that you have topics, experiences and ideas that can be presented that are valuable to others.
 

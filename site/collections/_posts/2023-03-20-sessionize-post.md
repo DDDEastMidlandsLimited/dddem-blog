@@ -43,13 +43,13 @@ The description of your talk. Your proposal. This is where you describe what you
 
 - #### Level:
 
-What level of audience your talk is aimed towards. Is it high level and introductory? Does it involve some previous knowledge in the area? 
+What level of audience your talk is aimed towards. Is it high level or introductory? Does it involve some previous knowledge in the area? 
 
 This will be displayed on your talk description to help the attendees know if the session will be useful to them. This will affect if they vote for your talk and if they decide to attend it.
 
 - #### Session Format:
 
-What length of talk would you like to submit for? This is a multiple choice question, so if you think you can adapt your talk to different lengths, you can submit for multiple style of session.
+What length of talk would you like to submit for? This is a multiple choice question, so if you think you can adapt your talk to different lengths, you can submit for multiple styles of session.
 
 - #### Tags:
 

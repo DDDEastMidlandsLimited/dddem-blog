@@ -10,7 +10,7 @@ GEM
   specs:
     addressable (2.8.1)
       public_suffix (>= 2.0.2, < 6.0)
-    cloudcannon-jekyll (4.0.1)
+    cloudcannon-jekyll (4.0.3)
       jekyll (>= 2.4.0)
     colorator (1.1.0)
     concurrent-ruby (1.2.2)

@@ -6,6 +6,7 @@ date: 2019-10-10
 image:  '/images/posts/2019-10-10.jpg'
 tags: ['Talking-Tips']
 author_name: Jessica White
+author_image: '/images/authors/jess.png'
 ---
 
 

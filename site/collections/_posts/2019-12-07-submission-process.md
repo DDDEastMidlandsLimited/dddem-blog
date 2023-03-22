@@ -6,6 +6,7 @@ date: 2019-12-07
 image:  '/images/posts/2019-12-07.jpg'
 tags: ['2019', 'Conference']
 author_name: Jessica White
+author_image: '/images/authors/jess.png'
 ---
 
 ----

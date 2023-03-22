@@ -5,7 +5,8 @@ description: "Matt Brunt"
 date: 2019-05-28
 image:  '/images/posts/2019-05-28.jpg'
 tags: ['2019','mentor']
-author_name: Jessica White
+author_name: DDD East Midlands
+author_image: '/images/authors/logo.png'
 ---
 
 

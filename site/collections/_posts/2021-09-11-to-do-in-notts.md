@@ -6,6 +6,8 @@ date: 2021-09-11
 image:  '/images/posts/2021-09-11.jpg'
 tags: ['Conference']
 author_name: Jessica White
+author_image: '/images/authors/jess.png'
+
 ---
 
 ----

@@ -6,6 +6,7 @@ date: 2019-11-04
 image:  '/images/posts/2019-11-04.jpg'
 tags: ['2019']
 author_name: DDD East Midlands
+author_image: '/images/authors/logo.png'
 ---
 
 

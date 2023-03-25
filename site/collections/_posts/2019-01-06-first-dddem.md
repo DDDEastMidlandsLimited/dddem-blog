@@ -6,6 +6,7 @@ date: 2019-01-06
 image:  '/images/posts/2019-01-06.jpg'
 tags: ['2019']
 author_name: Jessica White
+author_image: '/images/authors/jess.png'
 ---
 
 

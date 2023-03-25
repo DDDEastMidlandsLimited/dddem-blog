@@ -134,7 +134,7 @@ English is a wonderfully complex language. There are rationalisations & colloqui
 
 Every place has its own internal language. This can even be at a departmental level in a business. We have words we use to describe things that only make sense to those working in that environment and context.
 
-You can get away with buzzwords like “microservice” or “blockchain” because let’s face it, they work as a selling point. Even then, if someone who is not in your field of expertise doesn’t understand what you are trying to say, you are cutting out a lot of potential audiences that would benefit from your talk.
+You can get away with buzzwords like “microservice” or “blockchain” because let’s face it, they work as a selling point. Even then, if someone who is not in your field of expertise doesn’t understand what you are trying to say, you are cutting out a lot of potential people that would benefit from your talk.
 
 #### If you need to use acronyms — explain them.
 

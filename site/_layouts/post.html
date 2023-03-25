@@ -30,11 +30,11 @@ layout: default
 
           <div class="post__meta">
             <div class="post__author-image">
-              <img loading="lazy" src="{{ site.data.author.author_image }}" alt="{{ site.data.author.author_name }}">
+              <img loading="lazy" src="{{ page.author_image }}" alt="{{ page.author_name }}">
             </div>
 
             <div class="post__meta-bottom">
-              <div class="post__author">{{ post.author_name }}</div>
+              <div class="post__author">{{ page.author_name }}</div>
               <time class="post__date" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_string
                 }}</time>
             </div>

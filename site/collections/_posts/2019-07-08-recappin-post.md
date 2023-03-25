@@ -6,6 +6,7 @@ date: 2019-07-08
 image:  '/images/posts/2019-07-08.jpg'
 tags: ['2019','Conference']
 author_name: Rizwana Akmal
+author_image: '/images/authors/riz.png'
 ---
 
 ----

@@ -6,6 +6,8 @@ date: 2023-03-16
 image:  '/images/posts/2023-03-16.png'
 tags: ['Conference', 'Partner']
 author_name: James Hayward
+author_image: '/images/authors/james.png'
+
 ---
 
 ----

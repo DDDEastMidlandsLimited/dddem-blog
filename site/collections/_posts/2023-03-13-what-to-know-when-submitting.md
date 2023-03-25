@@ -6,6 +6,8 @@ date: 2023-03-13
 image:  '/images/posts/2023-03-13.jpg'
 tags: ['2023','Conference']
 author_name: Jessica White
+author_image: '/images/authors/jess.png'
+
 ---
 
 ----

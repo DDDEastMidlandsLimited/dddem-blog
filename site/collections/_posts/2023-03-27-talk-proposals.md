@@ -4,7 +4,7 @@ title: Writing A Talk Proposal
 description: "Tips for writing a talk proposal"
 date: 2023-03-27
 image:  '/images/posts/2023-03-27.jpg'
-tags: ['Talking-Tips']
+tags: ['Talking-Tips','2023']
 author_name: Jessica White
 author_image: '/images/authors/jess.png'
 ---
@@ -21,7 +21,7 @@ Submissions can be made at [this Sessionize link](https://sessionize.com/ddd-eas
 
 ---
 
-## Why submit to DDD East Midlands?
+## Why submit to DDD East Midlands?  🙌🏽 
 
 You may be nervous about the submitting a talk. It could even be your first time going through this process. There are a few reasons why you should chose to submit to DDD East Midlands.
 
@@ -41,7 +41,7 @@ The crew and team of DDD East Midlands try to make an accessible and friendly co
 
 ---
 
-## Coming up with an idea
+## Coming up with an idea 💭 
 
 If you are struggling with deciding or identifying what you can talk about, read our post [How To Talk Part 1 - Coming up with a talk](https://blog.dddeastmidlands.com/blog/coming-up-with-a-talk-post/l) which was written in 2019.
 
@@ -72,7 +72,7 @@ I know, too many people coming to hear you speak does sound scary but from perso
 
 ---
 
-## Create a Title
+## Create a Title 📎 
 
 Keep the title short if you can. The style is up to you. You can keep it clear and professional, have it vague to make people read your talk description or make it sound like click bait.
 
@@ -234,7 +234,7 @@ For inclusivities sake as well, if you have flashing imagery, loud noises or any
 
 ---
 
-## The Structure
+## The Structure 📝 
 
 Below is an example of the general structure I use for my talk proposals.
 
@@ -254,7 +254,7 @@ _By the end of this talk, you’ll not only be ready to inspire with your words 
 
 ---
 
-## Getting feedback
+## Getting feedback 🤔 
 
 If you can, don’t just get feedback from your peers or loved ones, but from those who have done this for a while, or have been involved in the conference process.
 
@@ -264,7 +264,7 @@ If you can, don’t just get feedback from your peers or loved ones, but from th
 
 ---
 
-## Prepare for not being selected
+## Prepare for not being selected 😨 
 
 You might not be selected. This is never an easy thing to deal with.
 
@@ -278,4 +278,4 @@ As for individual critique, not everyone will be happy with your content and tha
 
 # We can't wait to see your talks!
 
-If you have any questions, feel free to reach out to any of the DDD East Midlands organisers. We can't wait to see your submissions!
+If you have any questions, feel free to reach out to any of the DDD East Midlands organisers. We can't wait to see your submissions! 😁 

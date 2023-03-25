@@ -6,6 +6,7 @@ date: 2023-03-27
 image:  '/images/posts/2023-03-27.jpg'
 tags: ['Talking-Tips']
 author_name: Jessica White
+author_image: '/images/authors/jess.png'
 ---
 
 ----

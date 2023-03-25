@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Writing Sparkling Biographies
-description: "Writing your biography"
+description: "Writing your biography and showing how great you are"
 date: 2023-03-29
-image:  '/images/posts/2019-02-23.jpg'
+image:  '/images/posts/2023-03-29.jpg'
 tags: ['Talking-Tips', '2023']
 author_name: Jessica White
 author_image: '/images/authors/jess.png'

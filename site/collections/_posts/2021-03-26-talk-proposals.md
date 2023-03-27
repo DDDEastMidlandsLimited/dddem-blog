@@ -17,8 +17,6 @@ author_image: '/images/authors/jess.png'
 
 The Call For Speakers (CFs /CFP ) opens for DDD East Midlands 2021 on the <b>2nd April 2021</b>. A CFS is the ask for you to submit the talk titles and descriptions for talks you would like to present at the DDD East Midlands Conference.
 
-Submissions can be made at [this Sessionize link](https://sessionize.com/ddd-east-midlands-conference-2021/) and are editable until the closing date of the <b>30th April 2021</b>.
-
 
 # Why submit to DDD East Midlands?
 ---

@@ -8,9 +8,9 @@ GIT
 GEM
   remote: https://rubygems.org/
   specs:
-    addressable (2.8.1)
+    addressable (2.8.2)
       public_suffix (>= 2.0.2, < 6.0)
-    cloudcannon-jekyll (4.0.4)
+    cloudcannon-jekyll (4.0.5)
       jekyll (>= 2.4.0)
     colorator (1.1.0)
     concurrent-ruby (1.2.2)

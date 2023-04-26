@@ -4,7 +4,7 @@ title: Vote For The Talks You Want
 description: "What talks will be on the agenda for DDD East Midlands Conference 2023? You decide."
 date: 2023-04-27
 image:  '/images/posts/2023-04-27.jpg'
-tags: ['Conference', 'Speaker']
+tags: ['Conference', '2023']
 author_name: Jessica White
 author_image: '/images/authors/jess.png'
 

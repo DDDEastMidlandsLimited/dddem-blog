@@ -27,7 +27,7 @@ $ npm run install-jekyll
 Run the website:
 
 ~~~bash
-$ npm start
+$ bundle exec jekyll serve --source site --port 6060
 ~~~
 
 ## Deployment pipeline

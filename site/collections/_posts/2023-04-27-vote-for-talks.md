@@ -71,6 +71,14 @@ The process for talk selection is pretty much the same as the previous events.
 
 ---
 
+# Reminders
+
+A promise for us, we are only going to send limited reminders to vote. A maximum of 4. 
+
+Please don't mute our email or put us in your junk mail - we may send important information later on.
+
+---
+
 # What can selected speakers look forward to?
 
 As with previous events we will offer support, including in the form of an invite to a days speakers workshop lead by Dylan Beattie. The organisers are dedicated to making the conference the best experience possible for all speakers (and attendees), so if you are selected as a speaker and have ANY concerns, please reach out to the organisers and we will do what we can to help.

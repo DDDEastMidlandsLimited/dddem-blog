@@ -73,7 +73,7 @@ The process for talk selection is pretty much the same as the previous events.
 
 # Reminders
 
-A promise for us, we are only going to send limited reminders to vote. A maximum of 4. 
+A promise from us: we are only going to send limited reminders to vote. A maximum of 4. 
 
 Please don't mute our email or put us in your junk mail - we may send important information later on.
 

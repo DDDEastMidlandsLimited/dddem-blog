@@ -4,7 +4,7 @@ title: Next Tech Girls - Event Partner 2023
 description: "Meet our first confirmed event partner for 2023"
 date: 2023-03-30
 image:  '/images/posts/2023-03-30.png'
-tags: ['Conference', 'Partner']
+tags: ['Conference', 'Partner', '2023']
 author_name: Mia Gordon
 author_image: '/images/authors/mia.png'
 

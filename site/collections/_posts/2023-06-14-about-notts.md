@@ -4,7 +4,7 @@ title: Enjoy Nottingham
 description: "Where to stay and what to do in Nottingham"
 date: 2023-06-13
 image:  '/images/posts/2023-06-14.jpg'
-tags: ['Conference']
+tags: ['Nottingham','Conference','2023']
 author_name: Jessica White
 author_image: '/images/authors/jess.png'
 

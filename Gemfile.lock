@@ -20,9 +20,9 @@ GEM
       http_parser.rb (~> 0)
     eventmachine (1.2.7)
     eventmachine (1.2.7-x64-mingw32)
-    ffi (1.16.2)
+    ffi (1.16.3)
     forwardable-extended (2.6.0)
-    google-protobuf (3.24.3)
+    google-protobuf (3.24.4)
     http_parser.rb (0.8.0)
     i18n (1.14.1)
       concurrent-ruby (~> 1.0)
@@ -42,7 +42,7 @@ GEM
       safe_yaml (~> 1.0)
       terminal-table (>= 1.8, < 4.0)
       webrick (~> 1.7)
-    jekyll-bookshop (3.8.0)
+    jekyll-bookshop (3.8.1)
       dry-inflector (>= 0.1, < 1.0)
       jekyll (>= 3.7, < 5.0)
     jekyll-feed (0.17.0)
@@ -95,7 +95,7 @@ PLATFORMS
 
 DEPENDENCIES
   cloudcannon-jekyll (~> 4.0)
-  jekyll-bookshop (= 3.8.0)
+  jekyll-bookshop (= 3.8.1)
   jekyll-feed
   jekyll-pagebreak (~> 0.9)
   jekyll-sitemap

@@ -12,4 +12,4 @@ group :jekyll_plugins do
 end
 
 
-gem "cloudcannon-jekyll", "~> 4.0", :group => :jekyll_plugins
+gem "cloudcannon-jekyll", "~> 4.1", :group => :jekyll_plugins

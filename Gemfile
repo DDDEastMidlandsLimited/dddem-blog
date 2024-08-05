@@ -7,7 +7,7 @@ group :jekyll_plugins do
   gem "jekyll-sitemap"
   gem "jekyll-pagebreak", "~> 0.9"
   gem "webrick", "~> 1.8"
-  gem 'wdm', '~> 0.1.1', :install_if => Gem.win_platform?
+  gem 'wdm', '~> 0.2.0', :install_if => Gem.win_platform?
   gem 'jekyll-feed'
 end
 

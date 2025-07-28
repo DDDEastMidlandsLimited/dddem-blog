@@ -26,15 +26,14 @@ jobs:
       run: |
         bundle exec jekyll build
 
-    - name: Set AWS CLI	
-      env:	
-        AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}	
-        AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_ACCESS_SECRET_KEY }}	
+    - name: Set AWS CLI
+      env:
+        AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_ACCESS_SECRET_KEY }}
       run: |
-        sudo pip install --upgrade pip
-        echo "pip upgraded"
-        pip install --user awscli
+        python3 -m pip install --user awscli
         echo "AWS CLI installed"
+        export PATH="$HOME/.local/bin:$PATH"
         aws configure set aws_access_key_id "$AWS_ACCESS_KEY_ID"
         aws configure set aws_secret_access_key "$AWS_SECRET_ACCESS_KEY"
         aws configure set region eu-west-2
@@ -43,10 +42,12 @@ jobs:
 
     - name: Deploy To S3
       run: |
+        export PATH="$HOME/.local/bin:$PATH"
         aws s3 sync ./site/_site/ s3://blog.dddeastmidlands.com/  --delete
         echo "Deployed to S3"
    
     - name: Invalidate CloudFront cache
       run: |
+        export PATH="$HOME/.local/bin:$PATH"
         aws cloudfront create-invalidation --distribution-id E26XUC33RGAXEU --paths "/*"
         echo 'Invalidated CloudFront cache'

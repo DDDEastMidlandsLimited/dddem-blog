@@ -6,23 +6,51 @@ document.addEventListener("DOMContentLoaded", function () {
   ======================= */
   var body = document.querySelector("body"),
   menuOpenIcon = document.querySelector(".nav__icon-menu"),
-  menuCloseIcon = document.querySelector(".nav__icon-close"),
+  menuCloseIcon = document.querySelector(".nav__icon-close button"),
   menuList = document.querySelector(".main-nav");
 
-  menuOpenIcon.addEventListener("click", () => {
-    menuOpen();
-  });
+  if (menuOpenIcon) {
+    menuOpenIcon.addEventListener("click", () => {
+      menuOpen();
+    });
 
-  menuCloseIcon.addEventListener("click", () => {
-    menuClose();
-  });
+    menuOpenIcon.addEventListener("keydown", (e) => {
+      if (e.key === "Enter" || e.key === " ") {
+        e.preventDefault();
+        menuOpen();
+      }
+    });
+  }
+
+  if (menuCloseIcon) {
+    menuCloseIcon.addEventListener("click", () => {
+      menuClose();
+    });
+
+    menuCloseIcon.addEventListener("keydown", (e) => {
+      if (e.key === "Enter" || e.key === " ") {
+        e.preventDefault();
+        menuClose();
+      }
+    });
+  }
 
   function menuOpen() {
     menuList.classList.add("is-open");
+    if (menuOpenIcon) {
+      menuOpenIcon.setAttribute("aria-expanded", "true");
+    }
+    if (menuCloseIcon) {
+      menuCloseIcon.focus();
+    }
   }
 
   function menuClose() {
     menuList.classList.remove("is-open");
+    if (menuOpenIcon) {
+      menuOpenIcon.setAttribute("aria-expanded", "false");
+      menuOpenIcon.focus();
+    }
   }
 
   /* =======================
@@ -154,6 +182,19 @@ document.addEventListener("DOMContentLoaded", function () {
         left: 0,
         behavior: "smooth"
       })
+    }
+  });
+
+  btnScrollToTop.addEventListener("keydown", function (e) {
+    if (e.key === "Enter" || e.key === " ") {
+      e.preventDefault();
+      if (window.scrollY != 0) {
+        window.scrollTo({
+          top: 0,
+          left: 0,
+          behavior: "smooth"
+        })
+      }
     }
   });
 

@@ -8,7 +8,7 @@
     "jekyll": "bundle exec jekyll serve --source site --port 6060 --trace --unpublished",
     "start": "run-p bookshop-dev jekyll",
     "install-jekyll": "bundle install",
-    "build-jekyll": "bundle exec jekyll build"
+    "build-jekyll": "bundle exec jekyll build --source site"
   },
   "repository": {
     "type": "git",
@@ -22,8 +22,8 @@
   "homepage": "https://github.com/bglw/bookshop-example#readme",
   "devDependencies": {
     "@bookshop/jekyll-engine": "3.16.3",
-    "@bookshop/live": "3.12.0",
-    "@bookshop/browser": "3.12.0",
+    "@bookshop/live": "3.16.3",
+    "@bookshop/browser": "3.16.3",
     "npm-run-all": "^4.1.5"
   },
   "dependencies": {

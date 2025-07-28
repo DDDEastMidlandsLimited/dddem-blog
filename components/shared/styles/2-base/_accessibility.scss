@@ -1,0 +1,151 @@
+/**
+ * Accessibility styles for keyboard navigation and screen readers
+ */
+
+/* Skip to content link */
+.skip-to-content {
+  position: absolute;
+  top: -40px;
+  left: 6px;
+  background: #000;
+  color: #fff;
+  padding: 8px;
+  text-decoration: none;
+  z-index: 1000;
+  border-radius: 4px;
+  font-size: 14px;
+  font-weight: bold;
+  transition: top 0.3s;
+
+  &:focus {
+    top: 6px;
+  }
+}
+
+/* Focus styles for better keyboard navigation */
+a:focus,
+button:focus,
+input:focus,
+textarea:focus,
+select:focus,
+.nav__link:focus {
+  outline: 2px solid #005fcc;
+  outline-offset: 2px;
+}
+
+/* Enhanced focus for navigation elements */
+.nav__icon-menu:focus,
+.nav__close-btn:focus {
+  outline: 2px solid #005fcc;
+  outline-offset: 2px;
+  background-color: rgba(0, 95, 204, 0.1);
+}
+
+/* Ensure main content can receive focus */
+main[tabindex="-1"]:focus {
+  outline: none;
+}
+
+/* High contrast focus for navigation links */
+.nav__link:focus {
+  background-color: rgba(0, 95, 204, 0.1);
+  border-radius: 4px;
+}
+
+/* Focus styles for dropdown navigation */
+.dropdown-toggle:focus {
+  outline: 2px solid #005fcc;
+  outline-offset: 2px;
+  background-color: rgba(0, 95, 204, 0.1);
+}
+
+/* Dropdown styling improvements */
+.dropdown-toggle {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-family: inherit;
+  font-size: inherit;
+  color: inherit;
+  text-align: left;
+  width: 100%;
+  
+  &:hover {
+    background-color: rgba(0, 0, 0, 0.05);
+  }
+}
+
+.dropdown-menu {
+  display: none;
+}
+
+.dropdown-open .dropdown-menu {
+  display: block;
+}
+
+.dropdown-menu a[role="menuitem"]:focus {
+  background-color: rgba(0, 95, 204, 0.1);
+  outline: 2px solid #005fcc;
+  outline-offset: 2px;
+}
+
+/* Ensure button styling is consistent */
+.nav__close-btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 8px;
+  border-radius: 4px;
+  
+  &:hover {
+    background-color: rgba(0, 0, 0, 0.1);
+  }
+}
+
+.nav__icon-menu {
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 8px;
+  border-radius: 4px;
+  
+  &:hover {
+    background-color: rgba(0, 0, 0, 0.1);
+  }
+}
+
+/* Ensure proper spacing for better touch targets */
+.nav__link {
+  padding: 12px 16px;
+  display: block;
+  min-height: 44px;
+  display: flex;
+  align-items: center;
+}
+
+/* Footer navigation accessibility */
+.footer_nav__link:focus {
+  outline: 2px solid #005fcc;
+  outline-offset: 2px;
+  background-color: rgba(0, 95, 204, 0.1);
+  border-radius: 4px;
+}
+
+/* Top scroll button focus */
+.top:focus {
+  outline: 2px solid #005fcc;
+  outline-offset: 2px;
+}
+
+/* Ensure screen reader text is properly hidden but accessible */
+.visually-hidden {
+  position: absolute !important;
+  width: 1px !important;
+  height: 1px !important;
+  padding: 0 !important;
+  margin: -1px !important;
+  overflow: hidden !important;
+  clip: rect(0, 0, 0, 0) !important;
+  white-space: nowrap !important;
+  border: 0 !important;
+}

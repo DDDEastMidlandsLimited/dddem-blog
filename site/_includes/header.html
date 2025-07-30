@@ -1,4 +1,5 @@
 <!-- begin header -->
+<a href="#main-content" class="skip-to-content">Skip to main content</a>
 <header class="c-header">
   <div class="container">
     <div class="row">
@@ -14,11 +15,11 @@
           </a>
         </div>
 
-        <nav class="main-nav">
+        <nav class="main-nav" role="navigation" aria-label="Main navigation">
           <div class="main-nav__box">
 
             <div class="nav__icon-close">
-              <button type="button" aria-label="Close navigation menu">
+              <button type="button" class="nav__close-btn" aria-label="Close menu">
                 <i class="ion ion-md-close"></i>
               </button>
             </div>
@@ -30,10 +31,12 @@
               {% for item in site.data.navigation.menu__settings.menu__items %}
                 {% if item.submenu %}
                 <li class="nav__item dropdown">
-                  <span class="nav__link dropdown-toggle">{{ item.title }} <i class="ion ion-ios-arrow-down arrow-down"></i></span>
-                  <div class="dropdown-menu">
+                  <button type="button" class="nav__link dropdown-toggle" aria-expanded="false" aria-haspopup="true">
+                    {{ item.title }} <i class="ion ion-ios-arrow-down arrow-down"></i>
+                  </button>
+                  <div class="dropdown-menu" role="menu">
                     {% for submenu-item in item.submenu %}
-                      <a href="{{ submenu-item.url }}" class="nav__link{% if page.url == submenu-item.url %} active-link{% endif %}">{{submenu-item.title}}</a>
+                      <a href="{{ submenu-item.url }}" class="nav__link{% if page.url == submenu-item.url %} active-link{% endif %}" role="menuitem">{{submenu-item.title}}</a>
                     {% endfor %}
                   </div>
                 </li>
@@ -50,11 +53,10 @@
 
           {% bookshop_include social-link %}
         </nav>
-
+        
         <div class="nav-button">
           <button type="button" class="nav__icon nav__icon-menu ion ion-md-menu" aria-label="Open navigation menu" aria-expanded="false"></button>
         </div>
-
       </div>
     </div>
   </div>

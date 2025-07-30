@@ -5,16 +5,16 @@ document.addEventListener("DOMContentLoaded", function () {
   // Menu
   ======================= */
   var body = document.querySelector("body"),
-  menuOpenButton = document.querySelector(".nav__icon-menu"),
-  menuCloseButton = document.querySelector(".nav__close-btn"),
+  menuOpenIcon = document.querySelector(".nav__icon-menu"),
+  menuCloseIcon = document.querySelector(".nav__icon-close button"),
   menuList = document.querySelector(".main-nav");
 
-  if (menuOpenButton) {
-    menuOpenButton.addEventListener("click", () => {
+  if (menuOpenIcon) {
+    menuOpenIcon.addEventListener("click", () => {
       menuOpen();
     });
 
-    menuOpenButton.addEventListener("keydown", (e) => {
+    menuOpenIcon.addEventListener("keydown", (e) => {
       if (e.key === "Enter" || e.key === " ") {
         e.preventDefault();
         menuOpen();
@@ -314,5 +314,18 @@ document.addEventListener("DOMContentLoaded", function () {
       }
     });
   }
+
+  btnScrollToTop.addEventListener("keydown", function (e) {
+    if (e.key === "Enter" || e.key === " ") {
+      e.preventDefault();
+      if (window.scrollY != 0) {
+        window.scrollTo({
+          top: 0,
+          left: 0,
+          behavior: "smooth"
+        })
+      }
+    }
+  });
 
 });

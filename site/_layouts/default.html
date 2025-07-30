@@ -5,25 +5,23 @@
 
 <body>
 
+    <a href="#main-content" class="skip-link">Skip to main content</a>
+
     {% if site.data.general_settings.google-analytics %}
         {% include google-analytics.html %}
     {% endif %}
 
     {% include header.html %}
 
-    <main id="main-content" tabindex="-1">
-        {{ content }}
+    {{ content }}
 
-        <!-- 
-            Bookshop components are accessed using the bookshop tag, 
-            using the same syntax as the standard Jekyll include tag.
-        -->
-        {% bookshop_include page content_blocks=page.content_blocks page_theme=page.page_theme %}
-    </main>
+    <!-- 
+        Bookshop components are accessed using the bookshop tag, 
+        using the same syntax as the standard Jekyll include tag.
+    -->
+    {% bookshop_include page content_blocks=page.content_blocks page_theme=page.page_theme %}
 
-    <button class="top" title="Scroll to top" aria-label="Scroll to top">
-      <i class="ion ion-ios-arrow-up"></i>
-    </button>
+    <button class="top" title="Back to top" aria-label="Scroll to top of page"><i class="ion ion-ios-arrow-up"></i></button>
 
     {% include footer.html %}
 

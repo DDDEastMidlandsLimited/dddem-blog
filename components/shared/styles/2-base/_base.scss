@@ -36,6 +36,28 @@ body {
   }
 }
 
+/* Skip Link for Accessibility */
+.skip-link {
+  position: absolute;
+  top: -40px;
+  left: 6px;
+  z-index: 1000;
+  padding: 8px 16px;
+  background-color: $primary-color;
+  color: $white;
+  text-decoration: none;
+  border-radius: 4px;
+  font-weight: 600;
+  font-size: 14px;
+  transition: top 0.3s;
+
+  &:focus {
+    top: 6px;
+    outline: 2px solid $white;
+    outline-offset: 2px;
+  }
+}
+
 *::selection {
   color: $white;
   background-color: $primary-color;
@@ -171,6 +193,12 @@ a {
   transition: $global-transition;
 
   &:hover {
+    color: $link-color-hover;
+  }
+
+  &:focus {
+    outline: 2px solid $primary-color;
+    outline-offset: 2px;
     color: $link-color-hover;
   }
 }

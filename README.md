@@ -30,6 +30,22 @@ Run the website:
 $ bundle exec jekyll serve --source site --port 6060
 ~~~
 
+## Accessibility Features
+
+This blog includes several accessibility features to ensure it's usable by everyone:
+
+- **Skip to Content Link**: Allows keyboard users to skip directly to the main content
+- **Keyboard Navigation**: All interactive elements are accessible via keyboard (Tab, Enter, Space, Escape)
+- **Focus Indicators**: Clear visual focus indicators for all interactive elements
+- **ARIA Labels**: Proper labeling for screen readers
+- **Semantic HTML**: Proper use of semantic elements for better screen reader navigation
+
+### Keyboard Shortcuts
+
+- **Tab**: Navigate through interactive elements
+- **Enter/Space**: Activate buttons and links
+- **Escape**: Close the mobile navigation menu
+
 ## Deployment pipeline
 
 GitHub Actions is set up to build on pull request. When a pull request is merged into main, the site will be deployed through github actions

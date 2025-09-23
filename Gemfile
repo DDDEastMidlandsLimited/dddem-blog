@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 group :jekyll_plugins do
-  gem "jekyll-bookshop", "3.16.4"
+  gem "jekyll-bookshop", "3.16.5"
   gem 'jekyll-watch', :git => "https://github.com/CloudCannon/jekyll-watch"
   gem 'jekyll-tagging'
   gem "jekyll-sitemap"

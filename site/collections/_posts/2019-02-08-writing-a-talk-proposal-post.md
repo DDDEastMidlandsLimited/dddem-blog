@@ -5,7 +5,7 @@ description: "Writing a good talk proposal"
 date: 2019-02-08
 image:  '/images/posts/2019-02-08.jpg'
 tags: ['Talking-Tips']
-author_name: Jessica White
+author_name: Jessica Brentnall
 author_image: '/images/authors/jess.png'
 ---
 

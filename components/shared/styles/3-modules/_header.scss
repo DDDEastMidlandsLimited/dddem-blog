@@ -158,36 +158,25 @@
     top: 20px;
     right: 40px;
     display: none;
+    align-items: center;
+    justify-content: center;
+    width: 36px;
+    height: 36px;
+    font-size: 18px;
+    border-radius: 50%;
+    cursor: pointer;
+    background: linear-gradient(90deg, $primary-color 0%, $secondary-color 167%);
 
-    button {
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      width: 36px;
-      height: 36px;
-      font-size: 18px;
-      border-radius: 50%;
-      cursor: pointer;
-      background: linear-gradient(90deg, $primary-color 0%, $secondary-color 167%);
-      border: none;
-      transition: $global-transition;
-
-      &:hover {
-        .ion-md-close {
-          transform: rotate(90deg);
-        }
-      }
-
-      &:focus {
-        outline: 2px solid $white;
-        outline-offset: 2px;
-      }
-
+    &:hover {
       .ion-md-close {
-        color: $white;
-        transition: $global-transition;
-        will-change: transform;
+        transform: rotate(90deg);
       }
+    }
+
+    .ion-md-close {
+      color: $white;
+      transition: $global-transition;
+      will-change: transform;
     }
   }
 
@@ -242,12 +231,6 @@
 
       &:hover {
         color: $text-color;
-      }
-
-      &:focus {
-        outline: 2px solid $primary-color;
-        outline-offset: 2px;
-        color: $primary-color;
       }
 
       &.active-link {
@@ -312,12 +295,6 @@
         background-color: rgba($primary-color, 0.1);
       }
 
-      &:focus {
-        outline: 2px solid $primary-color;
-        outline-offset: 2px;
-        background-color: rgba($primary-color, 0.1);
-      }
-
       &.active-link,
       &.cc-active {
         color: $primary-color;
@@ -335,25 +312,10 @@
   align-items: center;
   font-size: 24px;
   color: $text-color;
+  cursor: pointer;
 
   .nav__icon-menu {
     display: none;
-    background: none;
-    border: none;
-    padding: 8px;
-    cursor: pointer;
-    border-radius: 4px;
-    transition: $global-transition;
-
-    &:hover {
-      background-color: rgba($primary-color, 0.1);
-    }
-
-    &:focus {
-      outline: 2px solid $primary-color;
-      outline-offset: 2px;
-      background-color: rgba($primary-color, 0.1);
-    }
   }
 
   @media only screen and (max-width: $desktop) {

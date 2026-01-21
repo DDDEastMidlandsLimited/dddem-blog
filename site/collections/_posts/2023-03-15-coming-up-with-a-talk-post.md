@@ -5,7 +5,7 @@ description: "How to get some great ideas about what to share in a talk"
 date: 2023-03-15
 image:  '/images/posts/2023-03-15.jpg'
 tags: ['Talking-Tips']
-author_name: Jessica White
+author_name: Jessica Brentnall
 author_image: '/images/authors/jess.png'
 
 ---

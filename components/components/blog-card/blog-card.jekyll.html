@@ -31,10 +31,10 @@
 
       <div class="{{c}}__meta">
         <div class="{{c}}__author-image">
-          <img loading="lazy" src="{{ post.author_image }}" alt="{{ post.author_name }}">
+          <img loading="lazy" src="{{ include.post.author_image }}" alt="{{ include.post.author_name }}">
         </div>
         <div class="{{c}}__info">
-          <div class="{{c}}__author-name">{{ post.author_name }}</div>
+          <div class="{{c}}__author-name">{{ include.post.author_name }}</div>
           <span class="{{c}}__date"><time datetime="{{ include.post.date | date_to_xmlschema }}">{{ include.post.date | date_to_string
               }}</time></span>
         </div>

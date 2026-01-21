@@ -5,7 +5,7 @@ description: "What talks will be on the agenda for DDD East Midlands Conference 
 date: 2023-04-27
 image:  '/images/posts/2023-04-27.jpg'
 tags: ['Conference', '2023']
-author_name: Jessica White
+author_name: Jessica Brentnall
 author_image: '/images/authors/jess.png'
 
 ---

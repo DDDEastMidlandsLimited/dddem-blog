@@ -1,0 +1,275 @@
+/* fakecss:/home/runner/work/jessicabrentnall/jessicabrentnall/node_modules/@bookshop/browser/lib/app/svelte/lib/library.esbuild-svelte-fake-css */
+.component-list.svelte-1kbn6ay.svelte-1kbn6ay {
+  position: absolute;
+  z-index: 999999999;
+  background-color: #fff;
+  border-right: solid 2px #aaa;
+  width: 300px;
+  min-width: 300px;
+  max-height: 100vh;
+  overflow-y: scroll;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.2s ease 0.1s;
+  padding-bottom: 40px;
+}
+.component-list.show.svelte-1kbn6ay.svelte-1kbn6ay {
+  opacity: 1;
+  pointer-events: all;
+  transition: opacity 0.2s ease;
+}
+.component-list.svelte-1kbn6ay:not(.show) .animate.svelte-1kbn6ay {
+  transform: translateX(-10px);
+  opacity: 0;
+  transition: transform 0.2s ease, opacity 0.2s ease !important;
+}
+.component-list.show.svelte-1kbn6ay .animate.svelte-1kbn6ay {
+  transform: translateX(0px);
+  opacity: 1;
+  transition: transform 0.2s ease, opacity 0.2s ease;
+}
+button.close.svelte-1kbn6ay.svelte-1kbn6ay {
+  appearance: none;
+  -webkit-appearance: none;
+  border: none;
+  background: transparent;
+  position: absolute;
+  top: 12px;
+  right: 10px;
+  cursor: pointer;
+  font-size: 14px;
+  width: 20px;
+  height: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+button.close.svelte-1kbn6ay.svelte-1kbn6ay:hover {
+  background-color: #eee;
+}
+.title.svelte-1kbn6ay.svelte-1kbn6ay {
+  color: inherit;
+}
+.search.svelte-1kbn6ay.svelte-1kbn6ay {
+  padding: 0 14px 14px;
+  display: flex;
+  justify-content: stretch;
+}
+input.svelte-1kbn6ay.svelte-1kbn6ay {
+  appearance: none;
+  border: none;
+  border-bottom: solid 1px #aaa;
+  border-radius: 2px;
+  padding: 4px 8px;
+  width: 100%;
+}
+p.svelte-1kbn6ay.svelte-1kbn6ay {
+  font-weight: bold;
+  font-size: 14px;
+  margin: 0;
+  padding: 14px;
+}
+ul.svelte-1kbn6ay.svelte-1kbn6ay {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+li.svelte-1kbn6ay.svelte-1kbn6ay {
+  margin: 0;
+}
+.component.svelte-1kbn6ay.svelte-1kbn6ay {
+  box-sizing: border-box;
+  appearance: none;
+  -webkit-appearance: none;
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 7px 10px;
+  width: 100%;
+}
+button.svelte-1kbn6ay.svelte-1kbn6ay:hover {
+  background-color: #eee;
+}
+
+/* fakecss:/home/runner/work/jessicabrentnall/jessicabrentnall/node_modules/@bookshop/browser/lib/app/svelte/lib/info-pane.esbuild-svelte-fake-css */
+.component-info.svelte-1kq51mm.svelte-1kq51mm {
+  width: 300px;
+  min-width: 300px;
+  box-sizing: border-box;
+  padding: 0;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+}
+.component-info.tutorial.svelte-1kq51mm.svelte-1kq51mm {
+  width: 100%;
+}
+.nav-pane.svelte-1kq51mm.svelte-1kq51mm {
+  box-sizing: border-box;
+  background-color: #fafafa;
+  border-right: solid 1px #eee;
+  width: 44px;
+  min-width: 44px;
+  padding: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+.thin.svelte-1kq51mm .nav-pane.svelte-1kq51mm {
+  flex-direction: row;
+  width: auto;
+}
+.menu.svelte-1kq51mm.svelte-1kq51mm {
+  appearance: none;
+  -webkit-appearance: none;
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  font-size: 14px;
+  width: 20px;
+  height: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+}
+.inline-menu.svelte-1kq51mm.svelte-1kq51mm {
+  display: inline-flex;
+  vertical-align: bottom;
+}
+.menu.svelte-1kq51mm.svelte-1kq51mm:hover {
+  background-color: #eee;
+}
+.content-pane.svelte-1kq51mm.svelte-1kq51mm {
+  box-sizing: border-box;
+  padding: 14px;
+  width: 100%;
+}
+.component-data.svelte-1kq51mm .description.svelte-1kq51mm {
+  font-size: 12px;
+  color: rgb(65, 65, 65);
+  margin: 10px 0 16px 0;
+  max-width: 160px;
+}
+.component-data.svelte-1kq51mm .tutorial.svelte-1kq51mm {
+  font-size: 14px;
+  color: rgb(65, 65, 65);
+  margin: 10px 0;
+  line-height: 20px;
+}
+.component-data.svelte-1kq51mm p.svelte-1kq51mm {
+  margin: 0;
+}
+.component-data.svelte-1kq51mm .title.svelte-1kq51mm {
+  font-size: 12px;
+  font-weight: bold;
+}
+.component-data.svelte-1kq51mm .label.svelte-1kq51mm {
+  font-size: 12px;
+  font-weight: 600;
+  font-family: monospace;
+  color: rgb(176, 61, 0);
+  margin-bottom: 10px;
+}
+.component-data.svelte-1kq51mm .label.buttons.svelte-1kq51mm {
+  display: flex;
+}
+.component-data.svelte-1kq51mm .label.buttons button.svelte-1kq51mm {
+  padding: 0 5px 0 0;
+  appearance: none;
+  -webkit-appearance: none;
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  font-size: 12px;
+  font-weight: 600;
+  font-family: monospace;
+  color: rgb(0, 135, 176);
+}
+.component-data.svelte-1kq51mm .label.buttons button.selected.svelte-1kq51mm {
+  color: rgb(176, 61, 0);
+}
+.component-data.svelte-1kq51mm .label.buttons button.svelte-1kq51mm:hover {
+  text-decoration: underline;
+}
+.thin.component-info.svelte-1kq51mm.svelte-1kq51mm {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+.component-title.svelte-1kq51mm.svelte-1kq51mm {
+  font-size: 14px;
+  font-weight: bold;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  width: 100%;
+  max-width: 228px;
+}
+
+/* fakecss:/home/runner/work/jessicabrentnall/jessicabrentnall/node_modules/@bookshop/browser/lib/app/svelte/lib/code-editor/editor.esbuild-svelte-fake-css */
+.error.svelte-10esxkc {
+  outline: solid 2px red;
+}
+.editor.svelte-10esxkc {
+  flex: 1;
+  min-height: 300px;
+  max-height: 300px;
+  overflow: scroll;
+}
+
+/* fakecss:/home/runner/work/jessicabrentnall/jessicabrentnall/node_modules/@bookshop/browser/lib/app/svelte/browser.esbuild-svelte-fake-css */
+.bookshop-browser-menus.svelte-1fm97t {
+  font-family:
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Helvetica,
+    Arial,
+    sans-serif,
+    "Apple Color Emoji",
+    "Segoe UI Emoji",
+    "Segoe UI Symbol";
+  font-size: 12px;
+  display: flex;
+  position: relative;
+  background-color: #fff;
+  box-sizing: border-box;
+  border-bottom: solid 1px #eee;
+}
+.bookshop-icon-string {
+  display: flex;
+  align-items: center;
+}
+.bookshop-browser-menus :where(.cm-gutters, .cm-content) {
+  min-height: 300px !important;
+}
+[data-bookshop-browser-section] {
+  display: flex;
+  align-items: center;
+  font-family:
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Helvetica,
+    Arial,
+    sans-serif,
+    "Apple Color Emoji",
+    "Segoe UI Emoji",
+    "Segoe UI Symbol";
+  font-size: 12px;
+  width: 100%;
+  padding: 12px 0 4px;
+  border-top: solid 1px transparent;
+  border-bottom: solid 1px transparent;
+}
+[data-bookshop-browser-section]:hover {
+  background-color: #eee;
+  border-top: solid 1px #aaa;
+  border-bottom: solid 1px #aaa;
+}

@@ -77,13 +77,13 @@ sameTagCount >= minCommonTags %} {% assign related = 'is-related' %} {% endif %}
                     <div class="article__author-image">
                       <img
                         loading="lazy"
-                        src="{{ site.data.author.author_image }}"
-                        alt="{{ site.data.author.author_name }}"
+                        src="{{ post.author_image }}"
+                        alt="{{ post.author_name }}"
                       />
                     </div>
                     <div class="article-info">
                       <div class="article__author-name">
-                        {{ site.data.author.author_name }}
+                        {{ post.author_name }}
                       </div>
                       <span class="article__date"
                         ><time datetime="{{ post.date | date_to_xmlschema }}"

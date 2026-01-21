@@ -1,0 +1,22 @@
+name: Snyk Scan
+permissions:
+  contents: read
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  schedule:
+    - cron: '15 0 * * 2'
+
+jobs:
+  snyk:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Run Snyk on Ruby dependency for security issues
+        continue-on-error: true
+        uses: snyk/actions/ruby@master
+        env:
+          SNYK_TOKEN: ${{ secrets.SNYK_TOKEN }}

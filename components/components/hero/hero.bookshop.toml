@@ -6,9 +6,9 @@ icon = "wysiwyg"
 tags = ["Structure", "Text", "Links"]
 
 [props]
-title = ""
+title = "DDD East Midlands Conference"
 description_html = ""
-image = ""
-image_alt = ""
-cta_button = ""
-cta_button_link = ""
+image = "/images/logo.png"
+image_alt = "DDD East Midlands Conference logo"
+cta_button: "LinkedIn"
+cta_button_link: "https://www.linkedin.com/company/ddd-east-midlands-limited/"

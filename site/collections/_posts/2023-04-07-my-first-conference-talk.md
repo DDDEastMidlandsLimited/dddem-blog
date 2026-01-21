@@ -3,10 +3,10 @@ layout: post
 title: My First Conference Talk
 description: "My experience talking at DDD East Midlands for the first time"
 date: 2023-04-07
+author_name: Connell Sharp
+author_image: '/images/authors/connell.jpg'
 image:  '/images/posts/2023-04-07.png'
 tags: ['Conference', 'Speaker']
-author_name: Connell W
-author_image: '/images/authors/connell.jpg'
 
 ---
 

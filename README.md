@@ -1,51 +1,121 @@
-# The DDD East Midlands Blog
 
-[![DDDEMBlog Deploy](https://github.com/DDDEastMidlandsLimited/dddem-blog/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/DDDEastMidlandsLimited/dddem-blog/actions/workflows/main.yml)
+## Jessica Brentnall's Personal Website
 
-Welcome to the repository for the [DDD East Midlands Blog](https://blog.dddeastmidlands.com/)!
+The personal website of Jessica Brentnall.
 
-After much persuasion from the community, we have decided to move away from Medium and host our blogs using [Jekyll](https://jekyllrb.com/).
+## Development Instructions
 
-We chose Jekyll as it is a framework we, the organisers, are familiar with and it allows posts to be submitted in markdown, which we hope will still keep the barrier to entry low.
+### Prerequisites
 
-## Want to contribute?
+Before you begin, ensure you have the following installed:
 
-We have some handy [contribution guidelines](.github/contributing.md) to help provide some guidance.
+- **Ruby 3.2+** (as specified in GitHub Actions)
+- **Node.js 20.x** (as specified in GitHub Actions)
+- **Bundler** (Ruby gem manager)
 
-### But first....
+### Setting up Dependencies
 
-Please read through the [Code Of Conduct](./CODE_OF_CONDUCT.md) to make sure your submissions abide to it.
+1. **Install Node.js dependencies:**
+   ```bash
+   npm install
+   ```
 
-## Running Locally
+2. **Install Ruby dependencies:**
+   ```bash
+   npm run install-jekyll
+   ```
+   
+   This runs `bundle install` to install Jekyll and all required gems.
 
-Install the dependencies:
+   If you don't have Bundler installed, install it first:
+   ```bash
+   gem install bundler
+   ```
 
-~~~bash
-$ npm run install-jekyll
-~~~
+### Building the Site
 
-Run the website:
+To build the Jekyll site locally:
 
-~~~bash
-$ bundle exec jekyll serve --source site --port 6060
-~~~
+```bash
+cd ./site
+bundle exec jekyll build
+```
 
-## Accessibility Features
+The built site will be available in the `site/_site/` directory.
 
-This blog includes several accessibility features to ensure it's usable by everyone:
+### Running and Previewing Locally
 
-- **Skip to Content Link**: Allows keyboard users to skip directly to the main content
-- **Keyboard Navigation**: All interactive elements are accessible via keyboard (Tab, Enter, Space, Escape)
-- **Focus Indicators**: Clear visual focus indicators for all interactive elements
-- **ARIA Labels**: Proper labeling for screen readers
-- **Semantic HTML**: Proper use of semantic elements for better screen reader navigation
+To run the development server and preview the site:
 
-### Keyboard Shortcuts
+```bash
+cd ./site
+bundle exec jekyll serve --source . --port 6060
+```
 
-- **Tab**: Navigate through interactive elements
-- **Enter/Space**: Activate buttons and links
-- **Escape**: Close the mobile navigation menu
+The site will be available at [http://localhost:6060](http://localhost:6060).
+
+**Alternative method (if npm dependencies are working):**
+```bash
+npm run jekyll
+```
+
+**Note:** The `npm start` command may have dependency issues. Use the direct Jekyll command above for reliable local development.
+
+### Running Tests
+
+Currently, this repository does not have any automated tests configured. Testing is done manually by:
+
+1. Building the site successfully
+2. Running the local development server
+3. Verifying the site loads correctly in a browser
+
+To check if your changes work:
+```bash
+# Build the site to check for errors
+cd ./site
+bundle exec jekyll build
+
+# Run the development server
+bundle exec jekyll serve --source . --port 6060
+```
+
+### Design Notes
+
+This website is built using:
+
+- **Jekyll 4.4.1** - Static site generator
+- **Bookshop Components** - A component library system for Jekyll
+- **CloudCannon CMS** - Content management integration
+- **Sass** - CSS preprocessing
+- **GitHub Actions** - CI/CD pipeline
+
+**Architecture:**
+- Site source files are in the `site/` directory
+- Bookshop components are in the `components/` directory
+- The site uses a custom Jekyll theme called "Vonge"
+- Posts are in `site/collections/_posts/`
+- Pages are in `site/collections/_pages/`
+- Testimonials are in `site/collections/_testimonials/`
+
+**Development Notes:**
+- The site uses Jekyll's collection system for content organization
+- Bookshop provides reusable components for consistent design
+- CloudCannon provides a CMS interface for content editing
+- The build process compiles Sass, processes Jekyll templates, and generates static HTML
+
+## Gotchas
+
+- When running locally, you will only see posts that are in the past or dated for the current day.
+- Sometimes the `.html`'s are not automatically removed from urls, breaking the websites paths post deployment
 
 ## Deployment pipeline
-
+---
 GitHub Actions is set up to build on pull request. When a pull request is merged into main, the site will be deployed through github actions
+
+## Jekyll Template Used
+---
+Vonge is a Personal portfolio/blog site template for Jekyll. Browse through a [live demo](https://jazzed-kale.cloudvent.net/).
+Increase the web presence of your brand with this configurable theme.
+
+Vonge was made by [CloudCannon](http://cloudcannon.com/), the JAMStack Cloud CMS.
+The component library is built and maintained for use with [Bookshop](https://github.com/cloudcannon/bookshop/)

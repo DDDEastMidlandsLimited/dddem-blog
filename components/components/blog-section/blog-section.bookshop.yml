@@ -18,7 +18,7 @@ blueprint:
 # Overrides any fields in the blueprint when viewing this component in the component browser
 preview:
   title: Recent Works
-  description_html: DDD East Midlands Blog
+  description_html: Posts from Jessica Brentnall on tech, management and life.
   link_url: /blog
 
 # Any extra CloudCannon inputs configuration to apply to the blueprint

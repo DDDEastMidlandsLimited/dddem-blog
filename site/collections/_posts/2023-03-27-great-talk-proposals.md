@@ -5,7 +5,7 @@ description: "Tips for writing a talk proposal"
 date: 2023-03-27
 image:  '/images/posts/2023-03-27.jpg'
 tags: ['Talking-Tips','2023']
-author_name: Jessica White
+author_name: Jessica Brentnall
 author_image: '/images/authors/jess.png'
 ---
 

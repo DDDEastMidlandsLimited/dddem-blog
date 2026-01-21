@@ -5,7 +5,7 @@ description: "Voting for the talks you want to see"
 date: 2020-04-13
 image:  '/images/posts/2020-04-13.jpg'
 tags: ['2020','Conference']
-author_name: Jessica White
+author_name: Jessica Brentnall
 author_image: '/images/authors/jess.png'
 
 ---

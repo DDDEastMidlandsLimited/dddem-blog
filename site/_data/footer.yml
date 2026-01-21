@@ -1,6 +1,2 @@
 footer_menu__settings:
   menu__items:
-    - title: 'Blog'
-      url: '/'
-    - title: 'Website'
-      url: 'https://www.dddeastmidlands.com/'

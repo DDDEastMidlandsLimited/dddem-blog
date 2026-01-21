@@ -1,9 +1,9 @@
-name: DDDEMBlog Build
-
-on: [pull_request]
+name: Build
 
 permissions:
   contents: read
+
+on: [pull_request]
 
 jobs:
   build:
@@ -13,7 +13,12 @@ jobs:
         ruby-version: [ '3.2' ]
 
     steps:
-    - uses: actions/checkout@v4
+    - uses: actions/checkout@v6
+    - name: Set up Node.js 20.x
+      uses: actions/setup-node@v6
+      with:
+        node-version: 20.x
+        cache: 'npm'
     - name: Set up Ruby ${{ matrix.ruby-version }}
       uses: ruby/setup-ruby@v1
       with:

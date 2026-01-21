@@ -1,7 +1,7 @@
 _inputs:
   title:
     type: text
-    comment: DDD East Midlands Blog
+    comment: Jessica Brentnall
 
 # Base path to your site source files, same as source for Jekyll
 source: site
@@ -31,8 +31,8 @@ collections_config:
 # Generates the data for select and multiselect inputs matching these names
 data_config:
   # Populates data with authors from an data file with the matching name
-  authors: true
-  offices: true
+  #authors: true
+  #offices: true
 
 paths:
   # The default location for newly uploaded files, relative to source

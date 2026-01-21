@@ -5,7 +5,7 @@ description: "Our decision for bringing back DDD East Midlands and our back up p
 date: 2021-03-15
 image:  '/images/posts/2021-03-15.jpg'
 tags: ['2021','Conference']
-author_name: Jessica White
+author_name: Jessica Brentnall
 author_image: '/images/authors/jess.png'
 
 ---

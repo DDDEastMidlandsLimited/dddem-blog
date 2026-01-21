@@ -5,7 +5,7 @@ description: "A guide to using sessionize to submit a talk to DDD East Midlands 
 date: 2023-03-20
 image:  '/images/posts/2023-03-20.jpg'
 tags: ['2023','Talking-Tips' ]
-author_name: Jessica White
+author_name: Jessica Brentnall
 author_image: '/images/authors/jess.png'
 ---
 

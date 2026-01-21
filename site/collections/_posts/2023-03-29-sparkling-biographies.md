@@ -5,7 +5,7 @@ description: "Writing your biography and showing how great you are"
 date: 2023-03-29
 image:  '/images/posts/2023-03-29.jpg'
 tags: ['Talking-Tips', '2023']
-author_name: Jessica White
+author_name: Jessica Brentnall
 author_image: '/images/authors/jess.png'
 ---
 

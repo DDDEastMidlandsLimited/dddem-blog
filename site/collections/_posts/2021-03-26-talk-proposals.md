@@ -5,7 +5,7 @@ description: "Tips for writing and submitting a talk proposal/CFP to DDD East Mi
 date: 2021-03-25
 image:  '/images/posts/2021-03-25.jpg'
 tags: ['Talking-Tips']
-author_name: Jessica White
+author_name: Jessica Brentnall
 author_image: '/images/authors/jess.png'
 ---
 

@@ -7,6 +7,6 @@ tags = ["Content"]
 
 [props]
 title = "Blog"
-description_html = "DDD East Midlands Conference Blog"
+description_html = "Posts from Jessica Brentnall on tech, management and life."
 link_url = "/blog"
 show_posts = true

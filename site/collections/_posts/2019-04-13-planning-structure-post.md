@@ -5,7 +5,7 @@ description: "Planning Structure"
 date: 2019-04-13
 image:  '/images/posts/2019-04-13.jpg'
 tags: ['Talking-Tips']
-author_name: Jessica White
+author_name: Jessica Brentnall
 author_image: '/images/authors/jess.png'
 ---
 

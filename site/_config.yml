@@ -1,4 +1,4 @@
-title: DDD East Midlands Blog
+title: Jess Brentnall
 
 plugins:
   - jekyll-bookshop
@@ -7,8 +7,6 @@ plugins:
   - jekyll-pagebreak
   - cloudcannon-jekyll
   - jekyll-feed
-
-future: true
 
 # Multiple bookshops can be used on one website,
 # or different production / staging locations.
@@ -29,7 +27,7 @@ _array_structures:
   content_blocks:
     style: modal
 
-collections_dir: 'collections'
+collections_dir: "collections"
 
 collections:
   pages:
@@ -44,9 +42,9 @@ collections:
 cloudcannon:
   collections:
     pages:
-      _icon: 'wysiwyg'
+      _icon: "wysiwyg"
     testimonials:
-      _icon: 'format_quote'
+      _icon: "format_quote"
       _subtext_key: position
       _enabled_editors:
         - data
@@ -78,7 +76,6 @@ defaults:
       type: posts
     values:
       layout: post
-
 
 # Tags
 tag_page_dir: tag

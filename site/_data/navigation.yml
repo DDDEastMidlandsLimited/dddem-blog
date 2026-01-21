@@ -4,3 +4,5 @@ menu__settings:
   menu__items:
     - title: "Blog Home"
       url: "/"
+    - title: "DDD East Midlands Home"
+      url: "https://dddeastmidlands.com/"

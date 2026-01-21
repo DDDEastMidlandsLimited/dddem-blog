@@ -2,8 +2,8 @@
 layout: post
 title: The End.
 description: "DDD East Midlands Conference is no more."
-date: 2026-01-20
-image:  '/images/posts/2026-01-22.jpg'
+date: 2026-01-21
+image:  '/images/posts/2026-01-21.jpg'
 tags: ['Conference', '2026']
 author_name: Jessica Brentnall
 author_image: '/images/authors/jess.png'

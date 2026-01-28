@@ -23,6 +23,8 @@ include:
 
 # The rest of this array structure will be
 # populated by the bookshop-array-structures plugin.
+permalink: pretty
+
 _array_structures:
   content_blocks:
     style: modal

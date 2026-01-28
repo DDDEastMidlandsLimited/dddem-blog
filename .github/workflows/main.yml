@@ -36,12 +36,13 @@ jobs:
         aws-secret-access-key: ${{ secrets.AWS_ACCESS_SECRET_KEY }}	
         aws-region: eu-west-2
 
-    - name: Deploy To S3
-      run: |
-        aws s3 sync ./site/_site/ s3://blog.dddeastmidlands.com/  --delete
-        echo "Deployed to S3"
+    - name: Configure AWS credentials (OIDC)
+      uses: aws-actions/configure-aws-credentials@v4
+      with:
+        role-to-assume: arn:aws:iam::735252638559:role/GitHubActionsS3Deploy
+        aws-region: eu-west-2
 
-    - name: Invalidate CloudFront cache
+    - name: Deploy to S3
       run: |
-        aws cloudfront create-invalidation --distribution-id E26XUC33RGAXEU --paths "/*"
-        echo 'Invalidated CloudFront cache'
+        aws s3 sync ./site/_site/ s3://blog.dddeastmidlands --delete
+        echo "Deployed to S3"

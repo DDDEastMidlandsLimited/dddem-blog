@@ -80,7 +80,7 @@ GEM
       safe_yaml (~> 1.0)
       terminal-table (>= 1.8, < 4.0)
       webrick (~> 1.7)
-    jekyll-bookshop (3.18.4)
+    jekyll-bookshop (3.18.5)
       dry-inflector (>= 0.1, < 1.0)
       jekyll (>= 3.7, < 5.0)
     jekyll-feed (0.17.0)
@@ -95,7 +95,7 @@ GEM
       nuggets
     jekyll-watch (2.2.1)
       listen (~> 3.0)
-    json (2.19.9)
+    json (2.20.0)
     kramdown (2.5.2)
       rexml (>= 3.4.4)
     kramdown-parser-gfm (1.1.0)
@@ -181,7 +181,7 @@ PLATFORMS
 DEPENDENCIES
   cloudcannon-jekyll (~> 4.1)
   jekyll (= 4.4.1)
-  jekyll-bookshop (= 3.18.4)
+  jekyll-bookshop (= 3.18.5)
   jekyll-feed
   jekyll-pagebreak (~> 0.9)
   jekyll-sitemap
